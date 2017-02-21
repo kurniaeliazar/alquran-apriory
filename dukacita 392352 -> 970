@@ -1,0 +1,14 @@
+dukacita 392352 -> 970
+jahiliyah 6161429 -> 755
+
+2771348 bendahara -> 366
+
+
+7001429 hudaibiyah 845
+
+495106 masjidilharam 740
+11151510 ibnusabil
+
+python apriori.py index-result/dosa-syirik.txt-index.csv dataset-result/dosa-syirik.txt-dataset.csv 0.05 0.1 dosa-syirik.txt
+
+python apriori.py index-result/pakaianperhiasan.txt-index.csv dataset-result/pakaianperhiasan.txt-dataset.csv 0.05 0.1 pakaianperhiasan.txt

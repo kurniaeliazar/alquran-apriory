@@ -1,0 +1,2963 @@
+mati --> hidup
+hidup --> mati
+pohon --> tumbuh
+tumbuh --> pohon
+kafir --> sekutu
+sekutu --> kafir
+kafir --> jalan
+kafir --> pohon
+anggur --> air
+pikir --> kaum
+hidup --> jenis
+jenis --> hidup
+kebun --> anggur
+anggur --> kebun
+tunduk --> jalan
+kaum --> langit
+matahari --> langit
+negeri --> allah
+mekah --> tuhan
+tujuh --> langit
+hujan --> tanam
+matahari --> bumi
+negeri --> tuhan
+korma --> anggur
+anggur --> korma
+pohon --> langit
+matahari --> tuhan
+binatang --> ternak
+ternak --> binatang
+angin --> kaum
+mati --> langit
+matahari --> jalan
+semayam --> pohon
+hidup --> manusia
+kafir --> tujuh
+tujuh --> kafir
+pohon --> kebun
+kebun --> pohon
+alir --> sungai
+anggur --> pohon
+jenis --> manusia
+turun --> langit
+kaum --> tuhan
+matahari --> malam
+sembah --> tuhan
+korma --> air
+korma --> pohon
+lata --> cipta
+allah, manusia --> jalan
+tunduk, malam --> matahari
+tunduk, matahari --> malam
+allah, tanam --> hujan
+allah, hujan --> tanam
+cipta, jenis --> allah
+allah, jenis --> cipta
+bumi, sekutu --> kafir
+bumi, kafir --> sekutu
+allah, pikir --> kaum
+allah, kaum --> pikir
+allah, kaum --> hujan
+allah, hujan --> kaum
+kaum, hujan --> allah
+tunduk, matahari --> jalan
+allah, kuasa --> hujan
+allah, hujan --> kuasa
+kuasa, hujan --> allah
+allah, laut --> jalan
+anggur, zaitun --> korma
+korma, zaitun --> anggur
+cipta, jalan --> bumi
+allah, langit, bumi --> perintah
+allah, langit, perintah --> bumi
+allah, bumi, perintah --> langit
+allah, langit, air --> hujan
+allah, langit, hujan --> air
+langit, air, hujan --> allah
+allah, langit, tuhan --> sekutu
+allah, langit, sekutu --> tuhan
+allah, tuhan, sekutu --> langit
+sekutu, langit, tuhan --> allah
+sekutu, langit, allah --> tuhan
+perintah, langit, bumi --> allah
+perintah, bumi, allah --> langit
+allah, tunduk, bumi --> langit
+tunduk, bumi, langit --> allah
+cipta, gunung, bumi --> sungai
+cipta, bumi, sungai --> gunung
+gunung, bumi, sungai --> cipta
+cipta, sekutu, bumi --> kafir
+cipta, sekutu, kafir --> bumi
+cipta, bumi, kafir --> sekutu
+sekutu, bumi, kafir --> cipta
+tunduk, bumi, langit --> matahari
+tunduk, bumi, matahari --> langit
+jalan, allah, pohon --> kafir
+jalan, kafir, pohon --> allah
+manusia, allah, langit, tuhan --> cipta
+cipta, hidup, kuasa, bumi --> langit
+cipta, kuasa, bumi, langit --> hidup
+hidup, kuasa, bumi, langit --> cipta
+bintang, cipta, langit, bumi --> allah
+bintang, cipta, langit, allah --> bumi
+bintang, cipta, bumi, allah --> langit
+bintang, allah, cipta, tuhan --> manusia
+bintang, allah, cipta, manusia --> tuhan
+bintang, allah, tuhan, manusia --> cipta
+bintang, cipta, tuhan, manusia --> allah
+bumi, hidup, manusia, allah --> kafir
+bumi, hidup, manusia, kafir --> allah
+bumi, hidup, allah, kafir --> manusia
+hidup, langit, bumi, mati --> allah
+hidup, langit, bumi, allah --> mati
+cipta, bumi, langit, kafir --> manusia
+cipta, bumi, kafir, manusia --> langit
+cipta, langit, kafir, manusia --> bumi
+bumi, langit, kafir, manusia --> cipta
+cipta, semayam, tuhan, bintang --> allah
+cipta, allah, langit, bumi --> hidup
+cipta, allah, langit, hidup --> bumi
+cipta, allah, bumi, hidup --> langit
+allah, langit, bumi, hidup --> cipta
+bintang, cipta, tuhan, manusia --> semayam
+bintang, cipta, tuhan, semayam --> manusia
+bintang, cipta, manusia, semayam --> tuhan
+bintang, tuhan, manusia, semayam --> cipta
+cipta, tuhan, manusia, semayam --> bintang
+bintang, cipta, manusia, pohon --> allah
+bintang, cipta, manusia, allah --> pohon
+cipta, tuhan, bumi, semayam --> manusia
+cipta, tuhan, bumi, manusia --> semayam
+bumi, allah, kuasa, kafir --> langit
+allah, kuasa, kafir, langit --> bumi
+cipta, langit, bumi, manusia --> kafir
+cipta, langit, bumi, kafir --> manusia
+cipta, bumi, manusia, kafir --> langit
+langit, bumi, manusia, kafir --> cipta
+bintang, cipta, tuhan, semayam --> manusia
+bintang, cipta, tuhan, manusia --> semayam
+bintang, tuhan, semayam, manusia --> cipta
+cipta, bintang, manusia, allah --> tuhan
+cipta, bintang, tuhan, allah --> manusia
+bintang, manusia, tuhan, allah --> cipta
+bintang, cipta, langit, manusia --> allah
+bintang, cipta, langit, allah --> manusia
+bintang, cipta, manusia, allah --> langit
+manusia, tuhan, langit, semayam --> bumi
+manusia, tuhan, bumi, semayam --> langit
+manusia, langit, bumi, semayam --> tuhan
+tuhan, langit, bumi, semayam --> manusia
+bumi, allah, hidup, manusia --> cipta
+cipta, langit, bumi, air --> pohon
+cipta, langit, bumi, pohon --> air
+cipta, langit, air, pohon --> bumi
+cipta, bumi, air, pohon --> langit
+langit, bumi, air, pohon --> cipta
+bintang, allah, bumi, manusia --> pohon
+bintang, allah, bumi, pohon --> manusia
+bintang, allah, manusia, pohon --> bumi
+bintang, bumi, manusia, pohon --> allah
+allah, bumi, manusia, pohon --> bintang
+hidup, kuasa, bumi, langit --> kafir
+hidup, kuasa, bumi, kafir --> langit
+kuasa, bumi, langit, kafir --> hidup
+cipta, semayam, langit, manusia --> bintang
+cipta, semayam, manusia, bintang --> langit
+bumi, langit, hidup, kafir --> allah
+bumi, langit, hidup, allah --> kafir
+allah, langit, bumi, semayam --> tuhan
+allah, langit, bumi, tuhan --> semayam
+cipta, allah, langit, semayam --> bintang
+cipta, allah, langit, bintang --> semayam
+cipta, allah, semayam, bintang --> langit
+bintang, manusia, bumi, semayam --> tuhan
+bintang, manusia, bumi, tuhan --> semayam
+manusia, bumi, semayam, tuhan --> bintang
+cipta, semayam, manusia, allah --> bintang
+cipta, semayam, manusia, bintang --> allah
+allah, langit, bumi, kuasa --> kafir
+allah, langit, bumi, kafir --> kuasa
+langit, bumi, kuasa, kafir --> allah
+cipta, semayam, bumi, tuhan --> manusia
+cipta, semayam, bumi, manusia --> tuhan
+cipta, semayam, tuhan, manusia --> bumi
+jalan, bintang, kuasa, air --> allah
+jalan, bintang, kuasa, allah --> air
+jalan, bintang, air, allah --> kuasa
+bumi, allah, langit, hidup --> manusia
+bumi, allah, hidup, manusia --> langit
+bumi, langit, hidup, manusia --> allah
+allah, langit, hidup, manusia --> bumi
+bumi, allah, langit, kafir --> kuasa
+bumi, langit, kafir, kuasa --> allah
+allah, langit, kafir, kuasa --> bumi
+cipta, hidup, langit, kafir --> manusia
+cipta, hidup, kafir, manusia --> langit
+cipta, langit, kafir, manusia --> hidup
+hidup, langit, kafir, manusia --> cipta
+allah, langit, tuhan, gunung --> sungai
+allah, langit, tuhan, sungai --> gunung
+manusia, tuhan, semayam, allah --> bintang
+anggur, tumbuh, kebun, korma --> pohon
+anggur, tumbuh, kebun, pohon --> korma
+anggur, tumbuh, korma, pohon --> kebun
+anggur, kebun, korma, pohon --> tumbuh
+tumbuh, kebun, korma, pohon --> anggur
+allah, langit, kebun, pohon --> air
+allah, langit, kebun, air --> pohon
+langit, kebun, pohon, air --> allah
+allah, hidup, bumi, manusia --> kuasa
+allah, hidup, bumi, kuasa --> manusia
+allah, kuasa, kaum, siang --> air
+kuasa, kaum, air, siang --> allah
+bintang, semayam, tuhan, manusia --> pohon
+bintang, semayam, tuhan, pohon --> manusia
+bintang, semayam, manusia, pohon --> tuhan
+bintang, tuhan, manusia, pohon --> semayam
+semayam, tuhan, manusia, pohon --> bintang
+cipta, allah, bumi, hidup --> kuasa
+bintang, semayam, bumi, manusia --> allah
+bintang, semayam, manusia, allah --> bumi
+manusia, langit, tuhan, pohon --> allah
+manusia, langit, tuhan, allah --> pohon
+allah, tuhan, malam, kaum --> siang
+bintang, perintah, kaum, allah --> siang
+perintah, siang, kaum, allah --> bintang
+bintang, allah, langit, bumi --> manusia
+bintang, allah, langit, manusia --> bumi
+bintang, allah, bumi, manusia --> langit
+bintang, langit, bumi, manusia --> allah
+allah, langit, bumi, manusia --> bintang
+cipta, tuhan, langit, semayam --> pohon
+cipta, langit, semayam, pohon --> tuhan
+tuhan, langit, semayam, pohon --> cipta
+bintang, cipta, tuhan, manusia --> allah
+bintang, cipta, tuhan, allah --> manusia
+bintang, cipta, manusia, allah --> tuhan
+cipta, tuhan, manusia, allah --> bintang
+allah, malam, kaum, siang --> bumi
+allah, bumi, kaum, siang --> malam
+malam, bumi, kaum, siang --> allah
+allah, kuasa, bumi, manusia --> kafir
+allah, kuasa, bumi, kafir --> manusia
+allah, bumi, manusia, kafir --> kuasa
+kuasa, bumi, manusia, kafir --> allah
+sungai, langit, tuhan, gunung --> allah
+allah, langit, tuhan, gunung --> sungai
+gunung, langit, tuhan, pohon --> sungai
+gunung, langit, tuhan, sungai --> pohon
+gunung, tuhan, pohon, sungai --> langit
+bintang, allah, langit, manusia --> pohon
+bintang, allah, langit, pohon --> manusia
+bintang, allah, manusia, pohon --> langit
+bintang, langit, manusia, pohon --> allah
+allah, langit, manusia, pohon --> bintang
+allah, langit, bumi, semayam --> pohon
+allah, langit, bumi, pohon --> semayam
+allah, langit, semayam, pohon --> bumi
+allah, bumi, semayam, pohon --> langit
+langit, bumi, semayam, pohon --> allah
+bintang, perintah, malam, siang --> allah
+bintang, perintah, allah, siang --> malam
+tumbuh, langit, kebun, air --> pohon
+tumbuh, langit, kebun, pohon --> air
+tumbuh, langit, air, pohon --> kebun
+tumbuh, kebun, air, pohon --> langit
+langit, kebun, air, pohon --> tumbuh
+cipta, semayam, manusia, allah --> bintang
+cipta, bintang, manusia, allah --> semayam
+jalan, allah, kuasa, bintang --> air
+jalan, allah, tuhan, air --> bintang
+jalan, allah, tuhan, bintang --> air
+allah, langit, kaum, siang --> malam
+allah, malam, kaum, siang --> langit
+langit, malam, kaum, siang --> allah
+bintang, allah, manusia, semayam --> pohon
+bintang, allah, manusia, pohon --> semayam
+bintang, allah, semayam, pohon --> manusia
+bintang, manusia, semayam, pohon --> allah
+allah, manusia, semayam, pohon --> bintang
+bintang, allah, langit, cipta --> manusia
+bintang, allah, langit, manusia --> cipta
+bintang, allah, cipta, manusia --> langit
+cipta, bumi, kuasa, kafir --> manusia
+cipta, bumi, kafir, manusia --> kuasa
+cipta, kuasa, kafir, manusia --> bumi
+bumi, kuasa, kafir, manusia --> cipta
+bintang, cipta, bumi, tuhan --> pohon
+bintang, cipta, bumi, pohon --> tuhan
+bintang, cipta, tuhan, pohon --> bumi
+bintang, bumi, tuhan, pohon --> cipta
+cipta, bumi, tuhan, pohon --> bintang
+cipta, allah, langit, hidup --> manusia
+cipta, allah, langit, manusia --> hidup
+cipta, allah, hidup, manusia --> langit
+cipta, langit, hidup, manusia --> allah
+allah, langit, hidup, manusia --> cipta
+allah, kuasa, kafir, langit --> hidup
+allah, kuasa, kafir, hidup --> langit
+cipta, allah, tuhan, manusia --> bintang
+cipta, allah, tuhan, bintang --> manusia
+cipta, allah, manusia, bintang --> tuhan
+cipta, tuhan, manusia, bintang --> allah
+laut, tuhan, air, pohon --> allah
+laut, tuhan, air, allah --> pohon
+bintang, allah, tuhan, manusia --> pohon
+bintang, allah, tuhan, pohon --> manusia
+bintang, allah, manusia, pohon --> tuhan
+bintang, tuhan, manusia, pohon --> allah
+manusia, semayam, bumi, tuhan --> allah
+manusia, semayam, tuhan, allah --> bumi
+semayam, bumi, tuhan, allah --> manusia
+bintang, allah, langit, cipta --> semayam
+bintang, allah, langit, semayam --> cipta
+bintang, allah, cipta, semayam --> langit
+bumi, allah, hidup, manusia --> kafir
+bumi, hidup, manusia, kafir --> allah
+allah, hidup, manusia, kafir --> bumi
+allah, langit, manusia, semayam --> pohon
+allah, langit, manusia, pohon --> semayam
+allah, langit, semayam, pohon --> manusia
+allah, manusia, semayam, pohon --> langit
+bintang, cipta, bumi, semayam --> pohon
+bintang, cipta, bumi, pohon --> semayam
+bintang, bumi, semayam, pohon --> cipta
+cipta, bumi, semayam, pohon --> bintang
+bintang, perintah, tuhan, kaum --> malam
+bintang, perintah, tuhan, malam --> kaum
+bintang, tuhan, kaum, malam --> perintah
+perintah, tuhan, kaum, malam --> bintang
+cipta, bintang, tuhan, semayam --> manusia
+cipta, bintang, tuhan, manusia --> semayam
+cipta, bintang, semayam, manusia --> tuhan
+bintang, tuhan, semayam, manusia --> cipta
+bintang, manusia, semayam, pohon --> allah
+bintang, manusia, semayam, allah --> pohon
+manusia, semayam, pohon, allah --> bintang
+cipta, allah, langit, kafir --> tuhan
+cipta, allah, langit, tuhan --> kafir
+cipta, allah, kafir, tuhan --> langit
+cipta, langit, kafir, tuhan --> allah
+allah, langit, kafir, tuhan --> cipta
+bumi, langit, hidup, kuasa --> air
+bumi, langit, hidup, air --> kuasa
+langit, hidup, kuasa, air --> bumi
+cipta, manusia, tuhan, semayam --> allah
+cipta, manusia, semayam, allah --> tuhan
+manusia, tuhan, semayam, allah --> cipta
+cipta, bintang, bumi, tuhan --> allah
+cipta, bintang, bumi, allah --> tuhan
+cipta, bintang, tuhan, allah --> bumi
+bintang, cipta, bumi, manusia --> pohon
+bintang, cipta, bumi, pohon --> manusia
+bintang, cipta, manusia, pohon --> bumi
+bintang, bumi, manusia, pohon --> cipta
+cipta, bumi, manusia, pohon --> bintang
+cipta, allah, langit, tuhan --> pohon
+cipta, allah, langit, pohon --> tuhan
+cipta, allah, tuhan, pohon --> langit
+cipta, langit, tuhan, pohon --> allah
+allah, langit, tuhan, pohon --> cipta
+cipta, semayam, tuhan, pohon --> bintang
+cipta, semayam, tuhan, bintang --> pohon
+laut, langit, air, pohon --> allah
+laut, langit, air, allah --> pohon
+laut, langit, pohon, allah --> air
+allah, angin, kaum, siang --> malam
+allah, malam, kaum, siang --> angin
+bintang, allah, cipta, manusia --> pohon
+bintang, allah, cipta, pohon --> manusia
+bintang, allah, manusia, pohon --> cipta
+bintang, cipta, manusia, pohon --> allah
+bintang, allah, bumi, manusia --> semayam
+bintang, allah, bumi, semayam --> manusia
+bintang, allah, manusia, semayam --> bumi
+allah, bumi, manusia, semayam --> bintang
+manusia, allah, langit, tuhan --> pohon
+manusia, allah, tuhan, pohon --> langit
+manusia, langit, tuhan, pohon --> allah
+allah, langit, tuhan, pohon --> manusia
+bintang, perintah, tuhan, allah --> siang
+hidup, kuasa, bumi, langit --> mati
+hidup, kuasa, bumi, mati --> langit
+kuasa, bumi, langit, mati --> hidup
+cipta, semayam, manusia, pohon --> bintang
+cipta, semayam, manusia, bintang --> pohon
+hidup, kuasa, bumi, kafir --> allah
+hidup, kuasa, bumi, allah --> kafir
+allah, kuasa, bumi, langit --> mati
+allah, kuasa, bumi, mati --> langit
+allah, kuasa, langit, mati --> bumi
+kuasa, bumi, langit, mati --> allah
+manusia, allah, bumi, tuhan --> semayam
+manusia, allah, tuhan, semayam --> bumi
+manusia, bumi, tuhan, semayam --> allah
+allah, bumi, tuhan, semayam --> manusia
+allah, tuhan, kaum, malam --> siang
+siang, tuhan, kaum, malam --> allah
+laut, langit, tuhan, pohon --> allah
+laut, langit, tuhan, allah --> pohon
+laut, langit, pohon, allah --> tuhan
+bintang, tuhan, bumi, semayam --> pohon
+bintang, tuhan, semayam, pohon --> bumi
+bintang, bumi, semayam, pohon --> tuhan
+tuhan, bumi, semayam, pohon --> bintang
+perintah, siang, kaum, allah --> tuhan
+perintah, tuhan, kaum, allah --> siang
+cipta, allah, langit, bumi --> pohon
+cipta, allah, langit, pohon --> bumi
+cipta, allah, bumi, pohon --> langit
+cipta, langit, bumi, pohon --> allah
+allah, langit, bumi, pohon --> cipta
+tuhan, bumi, semayam, pohon --> allah
+bintang, allah, bumi, semayam --> tuhan
+bintang, allah, bumi, tuhan --> semayam
+allah, tuhan, air, pohon --> laut
+allah, tuhan, air, laut --> pohon
+cipta, manusia, langit, semayam --> allah
+cipta, manusia, semayam, allah --> langit
+manusia, langit, semayam, allah --> cipta
+cipta, tuhan, bumi, manusia --> pohon
+cipta, tuhan, manusia, pohon --> bumi
+cipta, bumi, manusia, pohon --> tuhan
+tuhan, bumi, manusia, pohon --> cipta
+cipta, tuhan, bumi, manusia --> allah
+cipta, tuhan, manusia, allah --> bumi
+tuhan, bumi, manusia, allah --> cipta
+gunung, langit, tuhan, pohon --> allah
+gunung, langit, tuhan, allah --> pohon
+gunung, langit, pohon, allah --> tuhan
+bintang, semayam, cipta, tuhan --> allah
+bintang, semayam, tuhan, allah --> cipta
+bintang, cipta, tuhan, allah --> semayam
+cipta, allah, langit, semayam --> pohon
+cipta, allah, langit, pohon --> semayam
+cipta, langit, semayam, pohon --> allah
+allah, langit, semayam, pohon --> cipta
+manusia, tuhan, cipta, semayam --> allah
+manusia, tuhan, semayam, allah --> cipta
+cipta, allah, langit, manusia --> bintang
+cipta, allah, langit, bintang --> manusia
+cipta, allah, manusia, bintang --> langit
+cipta, bintang, langit, manusia --> pohon
+cipta, bintang, langit, pohon --> manusia
+cipta, bintang, manusia, pohon --> langit
+cipta, langit, manusia, pohon --> bintang
+bintang, langit, manusia, pohon --> cipta
+perintah, tuhan, kaum, malam --> allah
+allah, tuhan, kaum, malam --> perintah
+cipta, langit, hidup, manusia --> kuasa
+cipta, langit, hidup, kuasa --> manusia
+cipta, langit, manusia, kuasa --> hidup
+langit, hidup, manusia, kuasa --> cipta
+hidup, langit, bumi, kuasa --> air
+hidup, langit, bumi, air --> kuasa
+langit, bumi, kuasa, air --> hidup
+allah, langit, bumi, tuhan --> semayam
+allah, langit, bumi, semayam --> tuhan
+allah, langit, tuhan, semayam --> bumi
+allah, bumi, tuhan, semayam --> langit
+cipta, tuhan, langit, manusia --> semayam
+cipta, tuhan, langit, semayam --> manusia
+cipta, tuhan, manusia, semayam --> langit
+tuhan, langit, manusia, semayam --> cipta
+manusia, langit, tuhan, semayam --> pohon
+manusia, langit, tuhan, pohon --> semayam
+manusia, langit, semayam, pohon --> tuhan
+manusia, tuhan, semayam, pohon --> langit
+cipta, manusia, bumi, semayam --> pohon
+cipta, manusia, semayam, pohon --> bumi
+cipta, bumi, semayam, pohon --> manusia
+manusia, bumi, semayam, pohon --> cipta
+manusia, langit, semayam, pohon --> allah
+manusia, langit, semayam, allah --> pohon
+manusia, semayam, pohon, allah --> langit
+cipta, allah, tuhan, semayam --> bintang
+cipta, allah, tuhan, bintang --> semayam
+cipta, allah, semayam, bintang --> tuhan
+cipta, allah, bumi, tuhan --> bintang
+cipta, allah, bumi, bintang --> tuhan
+cipta, allah, tuhan, bintang --> bumi
+allah, tuhan, air, sebahagian --> kaum
+allah, air, sebahagian, kaum --> tuhan
+tuhan, air, sebahagian, kaum --> allah
+bintang, manusia, langit, semayam --> cipta
+bintang, manusia, cipta, semayam --> langit
+bumi, kuasa, hidup, kafir --> allah
+bumi, kuasa, hidup, allah --> kafir
+cipta, bintang, semayam, allah --> manusia
+cipta, bintang, semayam, manusia --> allah
+cipta, allah, kuasa, bumi --> hidup
+cipta, allah, kuasa, hidup --> bumi
+cipta, allah, bumi, hidup --> kuasa
+allah, kuasa, bumi, hidup --> cipta
+allah, langit, hidup, manusia --> kafir
+allah, langit, hidup, kafir --> manusia
+allah, hidup, manusia, kafir --> langit
+langit, hidup, manusia, kafir --> allah
+cipta, allah, langit, manusia --> semayam
+cipta, allah, langit, semayam --> manusia
+cipta, allah, manusia, semayam --> langit
+allah, langit, manusia, semayam --> cipta
+bintang, cipta, langit, tuhan --> manusia
+bintang, cipta, langit, manusia --> tuhan
+bintang, cipta, tuhan, manusia --> langit
+tuhan, langit, bumi, manusia --> pohon
+tuhan, langit, manusia, pohon --> bumi
+tuhan, bumi, manusia, pohon --> langit
+langit, bumi, manusia, pohon --> tuhan
+bintang, allah, langit, manusia --> semayam
+bintang, allah, langit, semayam --> manusia
+bintang, allah, manusia, semayam --> langit
+allah, langit, manusia, semayam --> bintang
+allah, kuasa, bumi, hidup --> mati
+allah, kuasa, bumi, mati --> hidup
+allah, kuasa, hidup, mati --> bumi
+bintang, cipta, tuhan, semayam --> pohon
+bintang, cipta, tuhan, pohon --> semayam
+bintang, tuhan, semayam, pohon --> cipta
+allah, langit, bumi, kaum --> siang
+allah, langit, bumi, siang --> kaum
+allah, langit, kaum, siang --> bumi
+allah, bumi, kaum, siang --> langit
+langit, bumi, kaum, siang --> allah
+allah, jenis, hidup, manusia --> binatang
+allah, jenis, manusia, binatang --> hidup
+allah, hidup, manusia, binatang --> jenis
+jenis, hidup, manusia, binatang --> allah
+cipta, allah, bumi, hidup --> langit
+bintang, semayam, langit, tuhan --> pohon
+bintang, semayam, tuhan, pohon --> langit
+bintang, langit, tuhan, pohon --> semayam
+semayam, langit, tuhan, pohon --> bintang
+hidup, kuasa, bumi, manusia --> langit
+hidup, kuasa, bumi, langit --> manusia
+kuasa, bumi, manusia, langit --> hidup
+cipta, semayam, langit, tuhan --> bintang
+cipta, semayam, tuhan, bintang --> langit
+tuhan, langit, bumi, semayam --> pohon
+tuhan, langit, semayam, pohon --> bumi
+tuhan, bumi, semayam, pohon --> langit
+langit, bumi, semayam, pohon --> tuhan
+cipta, bintang, langit, tuhan --> manusia
+cipta, bintang, langit, manusia --> tuhan
+cipta, bintang, tuhan, manusia --> langit
+allah, kuasa, kafir, manusia --> langit
+allah, kuasa, kafir, langit --> manusia
+allah, kuasa, manusia, langit --> kafir
+kuasa, kafir, manusia, langit --> allah
+bintang, manusia, langit, semayam --> allah
+bintang, manusia, semayam, allah --> langit
+manusia, langit, semayam, allah --> bintang
+bintang, tuhan, bumi, manusia --> pohon
+bintang, tuhan, manusia, pohon --> bumi
+bintang, bumi, manusia, pohon --> tuhan
+tuhan, bumi, manusia, pohon --> bintang
+perintah, malam, kaum, siang --> allah
+allah, malam, kaum, siang --> perintah
+cipta, allah, langit, bumi --> air
+cipta, allah, langit, air --> bumi
+cipta, allah, bumi, air --> langit
+cipta, langit, bumi, air --> allah
+allah, langit, bumi, air --> cipta
+bintang, manusia, cipta, tuhan --> semayam
+bintang, manusia, cipta, semayam --> tuhan
+bintang, manusia, tuhan, semayam --> cipta
+bintang, cipta, tuhan, semayam --> manusia
+bintang, allah, tuhan, semayam --> pohon
+bintang, allah, tuhan, pohon --> semayam
+bintang, allah, semayam, pohon --> tuhan
+bintang, tuhan, semayam, pohon --> allah
+allah, tuhan, semayam, pohon --> bintang
+kuasa, angin, kaum, siang --> air
+bintang, allah, cipta, tuhan --> pohon
+bintang, allah, cipta, pohon --> tuhan
+bintang, allah, tuhan, pohon --> cipta
+bintang, cipta, tuhan, pohon --> allah
+cipta, kuasa, bumi, air --> langit
+cipta, kuasa, bumi, langit --> air
+cipta, tuhan, manusia, allah --> bintang
+cipta, bintang, manusia, allah --> tuhan
+allah, angin, kuasa, kaum --> siang
+angin, siang, kuasa, kaum --> allah
+manusia, allah, tuhan, semayam --> pohon
+manusia, allah, tuhan, pohon --> semayam
+manusia, tuhan, semayam, pohon --> allah
+allah, tuhan, semayam, pohon --> manusia
+manusia, allah, langit, tuhan --> semayam
+manusia, allah, tuhan, semayam --> langit
+manusia, langit, tuhan, semayam --> allah
+allah, langit, tuhan, semayam --> manusia
+manusia, tuhan, langit, semayam --> allah
+manusia, tuhan, semayam, allah --> langit
+manusia, langit, semayam, allah --> tuhan
+tuhan, langit, semayam, allah --> manusia
+cipta, allah, bumi, pohon --> bintang
+cipta, allah, bumi, bintang --> pohon
+bintang, perintah, tuhan, malam --> kaum
+bintang, perintah, tuhan, kaum --> malam
+bintang, tuhan, malam, kaum --> perintah
+perintah, tuhan, malam, kaum --> bintang
+bintang, perintah, tuhan, kaum --> allah
+bintang, perintah, tuhan, allah --> kaum
+bintang, perintah, kaum, allah --> tuhan
+perintah, tuhan, kaum, allah --> bintang
+cipta, bintang, bumi, semayam --> tuhan
+cipta, bintang, bumi, tuhan --> semayam
+bintang, allah, langit, bumi --> semayam
+bintang, allah, langit, semayam --> bumi
+bintang, allah, bumi, semayam --> langit
+bintang, langit, bumi, semayam --> allah
+allah, langit, bumi, semayam --> bintang
+hidup, kuasa, bumi, manusia --> kafir
+hidup, kuasa, bumi, kafir --> manusia
+hidup, bumi, manusia, kafir --> kuasa
+kuasa, bumi, manusia, kafir --> hidup
+hidup, langit, bumi, kuasa --> kafir
+hidup, langit, bumi, kafir --> kuasa
+langit, bumi, kuasa, kafir --> hidup
+bintang, allah, langit, cipta --> bumi
+bintang, allah, langit, bumi --> cipta
+bintang, allah, cipta, bumi --> langit
+bintang, semayam, tuhan, manusia --> allah
+bintang, semayam, tuhan, allah --> manusia
+bintang, semayam, manusia, allah --> tuhan
+bintang, cipta, bumi, pohon --> allah
+bintang, cipta, bumi, allah --> pohon
+bintang, tuhan, cipta, manusia --> bumi
+bintang, tuhan, bumi, manusia --> cipta
+bintang, cipta, bumi, manusia --> tuhan
+manusia, langit, bumi, semayam --> allah
+allah, langit, bumi, semayam --> manusia
+semayam, tuhan, manusia, pohon --> allah
+semayam, tuhan, pohon, allah --> manusia
+semayam, manusia, pohon, allah --> tuhan
+cipta, bintang, manusia, semayam --> allah
+cipta, bintang, manusia, allah --> semayam
+cipta, bintang, semayam, allah --> manusia
+cipta, manusia, semayam, allah --> bintang
+bintang, manusia, semayam, allah --> cipta
+bintang, manusia, bumi, tuhan --> allah
+bintang, manusia, tuhan, allah --> bumi
+jalan, allah, langit, bumi --> kuasa
+jalan, allah, langit, kuasa --> bumi
+jalan, langit, bumi, kuasa --> allah
+allah, langit, bumi, kuasa --> jalan
+allah, langit, kaum, turun --> air
+allah, langit, kaum, air --> turun
+allah, kaum, turun, air --> langit
+langit, kaum, turun, air --> allah
+hidup, kuasa, bumi, langit --> allah
+hidup, kuasa, bumi, allah --> langit
+bintang, manusia, langit, semayam --> pohon
+bintang, manusia, semayam, pohon --> langit
+bintang, langit, semayam, pohon --> manusia
+manusia, langit, semayam, pohon --> bintang
+tumbuh, allah, kebun, langit --> pohon
+tumbuh, allah, langit, pohon --> kebun
+tumbuh, kebun, langit, pohon --> allah
+allah, kebun, langit, pohon --> tumbuh
+cipta, allah, bumi, air --> pohon
+cipta, allah, bumi, pohon --> air
+cipta, bumi, air, pohon --> allah
+allah, bumi, air, pohon --> cipta
+manusia, allah, tuhan, pohon --> cipta
+bintang, allah, langit, bumi --> cipta
+bintang, allah, langit, cipta --> bumi
+bintang, allah, bumi, cipta --> langit
+manusia, semayam, langit, tuhan --> allah
+manusia, semayam, tuhan, allah --> langit
+manusia, langit, tuhan, allah --> semayam
+semayam, langit, tuhan, allah --> manusia
+bumi, allah, langit, kafir --> hidup
+bumi, allah, langit, hidup --> kafir
+allah, langit, kafir, hidup --> bumi
+bintang, semayam, cipta, tuhan --> manusia
+bintang, semayam, cipta, manusia --> tuhan
+bintang, semayam, tuhan, manusia --> cipta
+bintang, cipta, tuhan, manusia --> semayam
+kuasa, bumi, langit, pohon --> air
+kuasa, bumi, langit, air --> pohon
+kuasa, langit, pohon, air --> bumi
+bintang, allah, tuhan, malam --> kaum
+bintang, allah, tuhan, kaum --> malam
+bintang, tuhan, malam, kaum --> allah
+allah, tuhan, malam, kaum --> bintang
+allah, langit, hidup, kuasa --> mati
+allah, langit, hidup, mati --> kuasa
+allah, langit, kuasa, mati --> hidup
+langit, hidup, kuasa, mati --> allah
+bintang, manusia, cipta, tuhan --> allah
+bintang, manusia, tuhan, allah --> cipta
+bintang, cipta, tuhan, allah --> manusia
+bintang, tuhan, bumi, manusia --> semayam
+bintang, tuhan, bumi, semayam --> manusia
+bintang, tuhan, manusia, semayam --> bumi
+tuhan, bumi, manusia, semayam --> bintang
+cipta, hidup, bumi, manusia --> allah
+cipta, allah, langit, air --> pohon
+cipta, allah, langit, pohon --> air
+cipta, langit, air, pohon --> allah
+allah, langit, air, pohon --> cipta
+bintang, semayam, bumi, tuhan --> manusia
+bintang, semayam, bumi, manusia --> tuhan
+bintang, semayam, tuhan, manusia --> bumi
+cipta, manusia, tuhan, pohon --> bintang
+cipta, manusia, tuhan, bintang --> pohon
+tuhan, sungai, pohon, gunung --> allah
+bintang, tuhan, cipta, semayam --> allah
+bintang, tuhan, semayam, allah --> cipta
+langit, hidup, manusia, kuasa --> kafir
+langit, hidup, manusia, kafir --> kuasa
+langit, hidup, kuasa, kafir --> manusia
+bintang, allah, kaum, siang --> malam
+bintang, malam, kaum, siang --> allah
+allah, malam, kaum, siang --> bintang
+allah, langit, bumi, hidup --> mati
+allah, langit, bumi, mati --> hidup
+allah, langit, hidup, mati --> bumi
+allah, malam, kaum, siang --> perintah
+perintah, malam, kaum, siang --> allah
+angin, kuasa, kaum, siang --> air
+kuasa, air, kaum, siang --> angin
+bumi, kuasa, hidup, manusia --> allah
+bumi, kuasa, hidup, allah --> manusia
+bumi, hidup, manusia, allah --> kuasa
+bumi, langit, hidup, manusia --> allah
+bumi, langit, hidup, allah --> manusia
+bumi, hidup, manusia, allah --> langit
+manusia, bumi, tuhan, semayam --> allah
+manusia, bumi, semayam, allah --> tuhan
+manusia, tuhan, semayam, allah --> bumi
+bintang, tuhan, langit, manusia --> semayam
+bintang, tuhan, langit, semayam --> manusia
+bintang, tuhan, manusia, semayam --> langit
+tuhan, langit, manusia, semayam --> bintang
+bintang, semayam, langit, manusia --> allah
+bintang, semayam, manusia, allah --> langit
+bumi, kuasa, hidup, manusia --> langit
+bumi, kuasa, hidup, langit --> manusia
+kuasa, hidup, manusia, langit --> bumi
+cipta, bintang, langit, manusia --> allah
+cipta, bintang, langit, allah --> manusia
+cipta, bintang, manusia, allah --> langit
+bintang, semayam, cipta, manusia --> pohon
+bintang, semayam, manusia, pohon --> cipta
+bintang, cipta, manusia, pohon --> semayam
+bintang, allah, kuasa, jalan --> tuhan
+bintang, allah, kuasa, tuhan --> jalan
+bintang, allah, jalan, tuhan --> kuasa
+bumi, allah, langit, hidup --> kuasa
+bumi, langit, hidup, kuasa --> allah
+allah, langit, hidup, kuasa --> bumi
+sungai, langit, tuhan, pohon --> gunung
+sungai, langit, tuhan, gunung --> pohon
+sungai, tuhan, pohon, gunung --> langit
+allah, kuasa, bumi, langit --> air
+kuasa, bumi, langit, air --> allah
+hidup, bumi, manusia, kafir --> allah
+allah, langit, tuhan, manusia --> semayam
+allah, langit, tuhan, semayam --> manusia
+allah, langit, manusia, semayam --> tuhan
+allah, tuhan, manusia, semayam --> langit
+cipta, allah, kuasa, bumi --> pohon
+cipta, allah, kuasa, pohon --> bumi
+cipta, allah, bumi, pohon --> kuasa
+cipta, kuasa, bumi, pohon --> allah
+allah, kuasa, bumi, pohon --> cipta
+cipta, bintang, bumi, tuhan --> pohon
+cipta, bintang, bumi, pohon --> tuhan
+cipta, bintang, tuhan, pohon --> bumi
+cipta, bumi, tuhan, pohon --> bintang
+bintang, bumi, tuhan, pohon --> cipta
+manusia, langit, bumi, semayam --> tuhan
+manusia, langit, bumi, tuhan --> semayam
+manusia, bumi, semayam, tuhan --> langit
+cipta, langit, kafir, manusia --> kuasa
+cipta, langit, kafir, kuasa --> manusia
+cipta, langit, manusia, kuasa --> kafir
+langit, kafir, manusia, kuasa --> cipta
+bumi, mati, hidup, allah --> kuasa
+cipta, bintang, tuhan, pohon --> allah
+cipta, bintang, tuhan, allah --> pohon
+cipta, bintang, pohon, allah --> tuhan
+allah, bumi, manusia, semayam --> tuhan
+allah, bumi, manusia, tuhan --> semayam
+bumi, kuasa, hidup, allah --> kafir
+bumi, kuasa, hidup, kafir --> allah
+bumi, hidup, allah, kafir --> kuasa
+cipta, langit, kuasa, air --> pohon
+cipta, langit, kuasa, pohon --> air
+cipta, langit, air, pohon --> kuasa
+langit, kuasa, air, pohon --> cipta
+sungai, tuhan, pohon, allah --> gunung
+tuhan, bumi, manusia, semayam --> pohon
+tuhan, bumi, manusia, pohon --> semayam
+tuhan, bumi, semayam, pohon --> manusia
+tuhan, manusia, semayam, pohon --> bumi
+manusia, tuhan, langit, semayam --> bintang
+manusia, tuhan, semayam, bintang --> langit
+cipta, tuhan, langit, manusia --> allah
+cipta, tuhan, manusia, allah --> langit
+tuhan, langit, manusia, allah --> cipta
+cipta, allah, langit, kafir --> hidup
+cipta, allah, langit, hidup --> kafir
+allah, langit, kafir, hidup --> cipta
+cipta, bintang, semayam, pohon --> allah
+cipta, bintang, semayam, allah --> pohon
+cipta, bintang, pohon, allah --> semayam
+allah, kuasa, kaum, siang --> malam
+manusia, bumi, semayam, pohon --> tuhan
+manusia, bumi, semayam, tuhan --> pohon
+manusia, bumi, semayam, pohon --> allah
+allah, bumi, semayam, pohon --> manusia
+cipta, tuhan, langit, semayam --> bumi
+cipta, tuhan, bumi, semayam --> langit
+cipta, langit, bumi, semayam --> tuhan
+tuhan, langit, bumi, semayam --> cipta
+angin, kuasa, kaum, siang --> air
+allah, hidup, bumi, air --> langit
+allah, hidup, bumi, langit --> air
+allah, kuasa, angin, siang --> malam
+semayam, langit, bumi, tuhan --> allah
+semayam, langit, tuhan, allah --> bumi
+semayam, bumi, tuhan, allah --> langit
+bintang, cipta, bumi, semayam --> tuhan
+bintang, cipta, bumi, tuhan --> semayam
+cipta, semayam, bumi, tuhan --> pohon
+cipta, semayam, tuhan, pohon --> bumi
+cipta, bumi, tuhan, pohon --> semayam
+semayam, bumi, tuhan, pohon --> cipta
+cipta, semayam, bumi, tuhan --> allah
+semayam, bumi, tuhan, allah --> cipta
+bintang, allah, cipta, bumi --> manusia
+bintang, allah, cipta, manusia --> bumi
+bintang, allah, bumi, manusia --> cipta
+bintang, cipta, bumi, manusia --> allah
+tuhan, bumi, manusia, semayam --> allah
+tuhan, bumi, manusia, allah --> semayam
+bintang, cipta, tuhan, pohon --> manusia
+bintang, cipta, tuhan, manusia --> pohon
+allah, malam, kaum, siang --> air
+air, malam, kaum, siang --> allah
+perintah, tuhan, kaum, malam --> siang
+siang, tuhan, kaum, malam --> perintah
+bintang, semayam, langit, manusia --> pohon
+bintang, semayam, manusia, pohon --> langit
+bintang, langit, manusia, pohon --> semayam
+semayam, langit, manusia, pohon --> bintang
+cipta, allah, tuhan, pohon --> bintang
+cipta, allah, tuhan, bintang --> pohon
+bintang, allah, tuhan, perintah --> siang
+cipta, tuhan, manusia, pohon --> bintang
+cipta, tuhan, manusia, bintang --> pohon
+cipta, bintang, tuhan, manusia --> allah
+cipta, bintang, tuhan, allah --> manusia
+cipta, bintang, manusia, allah --> tuhan
+cipta, tuhan, manusia, allah --> bintang
+allah, hidup, bumi, manusia --> langit
+allah, hidup, bumi, langit --> manusia
+bintang, allah, cipta, bumi --> langit
+allah, malam, kaum, siang --> perintah
+allah, kaum, perintah, siang --> malam
+bintang, tuhan, bumi, semayam --> allah
+bintang, tuhan, semayam, allah --> bumi
+cipta, langit, hidup, manusia --> kafir
+cipta, langit, hidup, kafir --> manusia
+cipta, hidup, manusia, kafir --> langit
+langit, hidup, manusia, kafir --> cipta
+hidup, kuasa, bumi, manusia --> allah
+hidup, kuasa, bumi, allah --> manusia
+bintang, manusia, bumi, tuhan --> pohon
+bintang, manusia, tuhan, pohon --> bumi
+bintang, bumi, tuhan, pohon --> manusia
+manusia, bumi, tuhan, pohon --> bintang
+bintang, cipta, langit, tuhan --> semayam
+bintang, cipta, langit, semayam --> tuhan
+bintang, cipta, tuhan, semayam --> langit
+cipta, bumi, langit, kafir --> kuasa
+cipta, langit, kafir, kuasa --> bumi
+bumi, langit, kafir, kuasa --> cipta
+allah, langit, tuhan, sungai --> pohon
+allah, langit, tuhan, pohon --> sungai
+allah, langit, sungai, pohon --> tuhan
+cipta, manusia, tuhan, bintang --> allah
+bintang, allah, cipta, bumi --> tuhan
+bintang, allah, cipta, tuhan --> bumi
+bintang, allah, bumi, tuhan --> cipta
+bintang, cipta, bumi, tuhan --> allah
+bintang, allah, bumi, semayam --> pohon
+bintang, allah, bumi, pohon --> semayam
+bintang, allah, semayam, pohon --> bumi
+bintang, bumi, semayam, pohon --> allah
+allah, bumi, semayam, pohon --> bintang
+kebun, air, pohon, langit --> allah
+cipta, langit, bumi, kuasa --> pohon
+cipta, langit, bumi, pohon --> kuasa
+cipta, langit, kuasa, pohon --> bumi
+langit, bumi, kuasa, pohon --> cipta
+allah, tuhan, kaum, perintah --> malam
+allah, hidup, bumi, kuasa --> air
+allah, hidup, bumi, air --> kuasa
+cipta, bumi, hidup, allah --> kafir
+cipta, bumi, hidup, kafir --> allah
+bumi, hidup, allah, kafir --> cipta
+bintang, allah, semayam, pohon --> manusia
+bintang, allah, semayam, manusia --> pohon
+allah, langit, hidup, manusia --> kuasa
+allah, langit, hidup, kuasa --> manusia
+allah, langit, manusia, kuasa --> hidup
+langit, hidup, manusia, kuasa --> allah
+allah, kuasa, bumi, hidup --> air
+cipta, bintang, langit, bumi --> allah
+cipta, bintang, langit, allah --> bumi
+cipta, bintang, bumi, allah --> langit
+cipta, langit, bumi, semayam --> pohon
+cipta, langit, bumi, pohon --> semayam
+cipta, langit, semayam, pohon --> bumi
+cipta, bumi, semayam, pohon --> langit
+langit, bumi, semayam, pohon --> cipta
+bumi, allah, kuasa, hidup --> kafir
+bumi, allah, kuasa, kafir --> hidup
+bumi, kuasa, hidup, kafir --> allah
+allah, kuasa, hidup, kafir --> bumi
+cipta, bintang, bumi, semayam --> pohon
+cipta, bintang, bumi, pohon --> semayam
+cipta, bintang, semayam, pohon --> bumi
+cipta, bumi, semayam, pohon --> bintang
+bintang, bumi, semayam, pohon --> cipta
+cipta, manusia, tuhan, semayam --> bintang
+cipta, manusia, tuhan, bintang --> semayam
+cipta, manusia, semayam, bintang --> tuhan
+manusia, tuhan, semayam, bintang --> cipta
+cipta, allah, bumi, kafir --> manusia
+cipta, allah, bumi, manusia --> kafir
+cipta, allah, kafir, manusia --> bumi
+cipta, bumi, kafir, manusia --> allah
+bumi, allah, langit, hidup --> mati
+bumi, allah, hidup, mati --> langit
+bumi, langit, hidup, mati --> allah
+allah, langit, hidup, mati --> bumi
+cipta, tuhan, bumi, manusia --> semayam
+cipta, tuhan, bumi, semayam --> manusia
+cipta, tuhan, manusia, semayam --> bumi
+tuhan, bumi, manusia, semayam --> cipta
+cipta, langit, bumi, manusia --> pohon
+cipta, langit, bumi, pohon --> manusia
+cipta, langit, manusia, pohon --> bumi
+cipta, bumi, manusia, pohon --> langit
+langit, bumi, manusia, pohon --> cipta
+cipta, manusia, langit, tuhan --> bintang
+cipta, manusia, tuhan, bintang --> langit
+cipta, bintang, langit, bumi --> tuhan
+cipta, bintang, langit, tuhan --> bumi
+cipta, bintang, bumi, tuhan --> langit
+cipta, langit, bumi, tuhan --> bintang
+bintang, langit, bumi, tuhan --> cipta
+bintang, tuhan, bumi, semayam --> manusia
+bintang, tuhan, bumi, manusia --> semayam
+bintang, tuhan, semayam, manusia --> bumi
+cipta, allah, kuasa, bumi --> langit
+cipta, allah, kuasa, langit --> bumi
+cipta, kuasa, bumi, langit --> allah
+allah, kuasa, bumi, langit --> cipta
+cipta, semayam, tuhan, manusia --> pohon
+cipta, semayam, tuhan, pohon --> manusia
+cipta, semayam, manusia, pohon --> tuhan
+cipta, tuhan, manusia, pohon --> semayam
+semayam, tuhan, manusia, pohon --> cipta
+air, malam, kaum, siang --> kuasa
+kuasa, malam, kaum, siang --> air
+cipta, langit, bumi, manusia --> kuasa
+cipta, langit, bumi, kuasa --> manusia
+cipta, langit, manusia, kuasa --> bumi
+langit, bumi, manusia, kuasa --> cipta
+cipta, hidup, langit, kafir --> kuasa
+cipta, langit, kafir, kuasa --> hidup
+hidup, langit, kafir, kuasa --> cipta
+bintang, jalan, kuasa, tuhan --> allah
+bintang, jalan, kuasa, allah --> tuhan
+bintang, jalan, tuhan, allah --> kuasa
+bintang, tuhan, langit, manusia --> bumi
+bintang, tuhan, bumi, manusia --> langit
+bintang, langit, bumi, manusia --> tuhan
+tuhan, langit, bumi, manusia --> bintang
+cipta, hidup, langit, bumi --> kafir
+cipta, hidup, langit, kafir --> bumi
+cipta, hidup, bumi, kafir --> langit
+cipta, langit, bumi, kafir --> hidup
+hidup, langit, bumi, kafir --> cipta
+bintang, allah, kuasa, jalan --> air
+allah, kuasa, hidup, langit --> mati
+allah, kuasa, hidup, mati --> langit
+allah, kuasa, langit, mati --> hidup
+kuasa, hidup, langit, mati --> allah
+bintang, allah, bumi, cipta --> tuhan
+bintang, allah, bumi, tuhan --> cipta
+bintang, allah, cipta, tuhan --> bumi
+cipta, hidup, kuasa, bumi --> kafir
+cipta, hidup, kuasa, kafir --> bumi
+cipta, hidup, bumi, kafir --> kuasa
+cipta, kuasa, bumi, kafir --> hidup
+hidup, kuasa, bumi, kafir --> cipta
+cipta, semayam, langit, tuhan --> allah
+semayam, langit, tuhan, allah --> cipta
+bintang, semayam, langit, tuhan --> manusia
+bintang, semayam, langit, manusia --> tuhan
+bintang, semayam, tuhan, manusia --> langit
+cipta, hidup, langit, bumi --> manusia
+cipta, hidup, bumi, manusia --> langit
+cipta, langit, bumi, manusia --> hidup
+hidup, langit, bumi, manusia --> cipta
+cipta, bintang, bumi, manusia --> tuhan
+cipta, bintang, bumi, tuhan --> manusia
+bintang, cipta, langit, bumi --> manusia
+bintang, cipta, langit, manusia --> bumi
+bintang, cipta, bumi, manusia --> langit
+bintang, langit, bumi, manusia --> cipta
+cipta, langit, bumi, manusia --> bintang
+manusia, bumi, semayam, allah --> tuhan
+manusia, bumi, semayam, tuhan --> allah
+bintang, tuhan, manusia, semayam --> pohon
+bintang, tuhan, manusia, pohon --> semayam
+bintang, tuhan, semayam, pohon --> manusia
+bintang, manusia, semayam, pohon --> tuhan
+tuhan, manusia, semayam, pohon --> bintang
+allah, langit, bumi, manusia --> semayam
+allah, langit, bumi, semayam --> manusia
+allah, langit, manusia, semayam --> bumi
+allah, bumi, manusia, semayam --> langit
+malam, angin, kaum, siang --> kuasa
+malam, kuasa, kaum, siang --> angin
+angin, kuasa, kaum, siang --> malam
+hidup, kuasa, bumi, mati --> allah
+hidup, kuasa, bumi, allah --> mati
+hidup, langit, bumi, manusia --> kuasa
+hidup, langit, bumi, kuasa --> manusia
+langit, bumi, manusia, kuasa --> hidup
+gunung, tuhan, allah, sungai --> pohon
+gunung, tuhan, pohon, sungai --> allah
+allah, hidup, bumi, langit --> mati
+allah, hidup, bumi, mati --> langit
+bintang, cipta, langit, manusia --> semayam
+bintang, cipta, langit, semayam --> manusia
+bintang, cipta, manusia, semayam --> langit
+cipta, bintang, langit, pohon --> allah
+cipta, bintang, langit, allah --> pohon
+cipta, bintang, pohon, allah --> langit
+allah, langit, tuhan, manusia --> pohon
+allah, langit, tuhan, pohon --> manusia
+allah, langit, manusia, pohon --> tuhan
+cipta, semayam, tuhan, pohon --> allah
+semayam, tuhan, pohon, allah --> cipta
+allah, tuhan, pohon, sungai --> gunung
+cipta, allah, hidup, bumi --> kuasa
+allah, hidup, bumi, kuasa --> cipta
+semayam, bumi, manusia, pohon --> tuhan
+allah, langit, bumi, manusia --> hidup
+allah, langit, bumi, hidup --> manusia
+bintang, tuhan, manusia, pohon --> allah
+bumi, kuasa, hidup, langit --> air
+kuasa, hidup, langit, air --> bumi
+cipta, allah, langit, bumi --> bintang
+cipta, allah, langit, bintang --> bumi
+cipta, allah, bumi, bintang --> langit
+cipta, allah, tuhan, manusia --> pohon
+cipta, allah, tuhan, pohon --> manusia
+cipta, allah, manusia, pohon --> tuhan
+cipta, tuhan, manusia, pohon --> allah
+bintang, perintah, allah, siang --> kaum
+bintang, perintah, kaum, siang --> allah
+bintang, allah, kaum, siang --> perintah
+bintang, allah, kaum, perintah --> siang
+bintang, allah, kaum, siang --> perintah
+bintang, allah, perintah, siang --> kaum
+allah, kaum, perintah, siang --> bintang
+cipta, tuhan, manusia, pohon --> allah
+cipta, tuhan, manusia, allah --> pohon
+bintang, allah, langit, cipta --> tuhan
+bintang, allah, langit, tuhan --> cipta
+bintang, allah, cipta, tuhan --> langit
+bintang, tuhan, cipta, manusia --> pohon
+bintang, tuhan, manusia, pohon --> cipta
+bintang, cipta, manusia, pohon --> tuhan
+cipta, allah, bumi, semayam --> bintang
+cipta, allah, bumi, bintang --> semayam
+cipta, allah, semayam, bintang --> bumi
+cipta, hidup, kuasa, kafir --> langit
+cipta, kuasa, kafir, langit --> hidup
+bintang, allah, kuasa, tuhan --> air
+bintang, allah, tuhan, air --> kuasa
+bintang, kuasa, tuhan, air --> allah
+allah, kuasa, tuhan, air --> bintang
+perintah, tuhan, malam, allah --> siang
+cipta, bintang, bumi, manusia --> semayam
+cipta, bintang, bumi, semayam --> manusia
+cipta, bintang, manusia, semayam --> bumi
+cipta, tuhan, bumi, manusia --> bintang
+cipta, tuhan, manusia, bintang --> bumi
+cipta, allah, bumi, kafir --> tuhan
+cipta, allah, bumi, tuhan --> kafir
+cipta, allah, kafir, tuhan --> bumi
+cipta, bumi, kafir, tuhan --> allah
+cipta, bintang, tuhan, allah --> manusia
+cipta, bintang, tuhan, manusia --> allah
+cipta, allah, kuasa, kafir --> manusia
+cipta, allah, kuasa, manusia --> kafir
+cipta, allah, kafir, manusia --> kuasa
+cipta, kuasa, kafir, manusia --> allah
+allah, kuasa, kafir, manusia --> cipta
+cipta, manusia, langit, tuhan --> bumi
+cipta, manusia, bumi, tuhan --> langit
+cipta, langit, bumi, tuhan --> manusia
+manusia, langit, bumi, tuhan --> cipta
+cipta, semayam, tuhan, manusia --> allah
+cipta, semayam, manusia, allah --> tuhan
+cipta, tuhan, manusia, allah --> semayam
+cipta, bintang, tuhan, semayam --> pohon
+cipta, bintang, tuhan, pohon --> semayam
+cipta, bintang, semayam, pohon --> tuhan
+bintang, tuhan, semayam, pohon --> cipta
+perintah, tuhan, malam, kaum --> siang
+allah, bumi, tuhan, semayam --> pohon
+allah, bumi, tuhan, pohon --> semayam
+allah, bumi, semayam, pohon --> tuhan
+allah, tuhan, semayam, pohon --> bumi
+bintang, semayam, cipta, manusia --> bumi
+bintang, semayam, bumi, manusia --> cipta
+bintang, cipta, bumi, manusia --> semayam
+allah, angin, kuasa, kaum --> siang
+allah, angin, kuasa, siang --> kaum
+allah, angin, kaum, siang --> kuasa
+allah, kuasa, kaum, siang --> angin
+angin, kuasa, kaum, siang --> allah
+bintang, allah, cipta, manusia --> semayam
+bintang, allah, cipta, semayam --> manusia
+bintang, allah, manusia, semayam --> cipta
+bintang, cipta, manusia, semayam --> allah
+bintang, cipta, tuhan, allah --> manusia
+bintang, cipta, tuhan, manusia --> allah
+bintang, allah, tuhan, semayam --> manusia
+bintang, allah, tuhan, manusia --> semayam
+bintang, allah, semayam, manusia --> tuhan
+bintang, tuhan, semayam, manusia --> allah
+cipta, bintang, tuhan, manusia --> semayam
+cipta, bintang, tuhan, semayam --> manusia
+cipta, bintang, manusia, semayam --> tuhan
+cipta, tuhan, manusia, semayam --> bintang
+bintang, tuhan, manusia, semayam --> cipta
+bintang, semayam, langit, tuhan --> allah
+bintang, semayam, tuhan, allah --> langit
+semayam, langit, tuhan, allah --> bintang
+allah, tuhan, kaum, perintah --> malam
+allah, tuhan, kaum, malam --> perintah
+hidup, langit, bumi, allah --> kafir
+hidup, langit, bumi, kafir --> allah
+cipta, allah, bumi, manusia --> kafir
+cipta, allah, bumi, kafir --> manusia
+cipta, bumi, manusia, kafir --> allah
+allah, bumi, manusia, kafir --> cipta
+cipta, allah, kuasa, bumi --> manusia
+cipta, allah, kuasa, manusia --> bumi
+cipta, allah, bumi, manusia --> kuasa
+cipta, kuasa, bumi, manusia --> allah
+allah, kuasa, bumi, manusia --> cipta
+cipta, bintang, bumi, tuhan --> manusia
+cipta, bintang, bumi, manusia --> tuhan
+cipta, bintang, tuhan, manusia --> bumi
+allah, langit, bumi, manusia --> kuasa
+allah, langit, bumi, kuasa --> manusia
+allah, langit, manusia, kuasa --> bumi
+langit, bumi, manusia, kuasa --> allah
+cipta, allah, kuasa, kafir --> hidup
+cipta, allah, kuasa, hidup --> kafir
+allah, kuasa, kafir, hidup --> cipta
+cipta, allah, kuasa, hidup --> kafir
+cipta, allah, kuasa, kafir --> hidup
+cipta, allah, hidup, kafir --> kuasa
+cipta, kuasa, hidup, kafir --> allah
+allah, kuasa, hidup, kafir --> cipta
+bintang, tuhan, langit, semayam --> manusia
+bintang, tuhan, langit, manusia --> semayam
+bintang, tuhan, semayam, manusia --> langit
+bintang, cipta, langit, tuhan --> pohon
+bintang, cipta, langit, pohon --> tuhan
+bintang, cipta, tuhan, pohon --> langit
+bintang, langit, tuhan, pohon --> cipta
+cipta, langit, tuhan, pohon --> bintang
+malam, kuasa, air, siang --> kaum
+malam, kuasa, kaum, siang --> air
+kuasa, air, kaum, siang --> malam
+cipta, manusia, langit, tuhan --> allah
+manusia, langit, tuhan, allah --> cipta
+cipta, tuhan, bumi, semayam --> allah
+cipta, bintang, bumi, manusia --> allah
+cipta, bintang, bumi, allah --> manusia
+cipta, bintang, manusia, allah --> bumi
+cipta, bintang, langit, bumi --> pohon
+cipta, bintang, langit, pohon --> bumi
+cipta, bintang, bumi, pohon --> langit
+cipta, langit, bumi, pohon --> bintang
+bintang, langit, bumi, pohon --> cipta
+allah, langit, kebun, air --> pohon
+allah, langit, kebun, pohon --> air
+allah, langit, air, pohon --> kebun
+langit, kebun, air, pohon --> allah
+hidup, langit, bumi, allah --> mati
+hidup, langit, bumi, mati --> allah
+hidup, bumi, allah, mati --> langit
+bintang, cipta, langit, tuhan --> allah
+bintang, cipta, langit, allah --> tuhan
+bintang, cipta, tuhan, allah --> langit
+allah, malam, kaum, siang --> air
+cipta, manusia, bumi, tuhan --> semayam
+cipta, manusia, bumi, semayam --> tuhan
+cipta, manusia, tuhan, semayam --> bumi
+manusia, bumi, tuhan, semayam --> cipta
+bintang, perintah, tuhan, kaum --> siang
+bintang, perintah, tuhan, siang --> kaum
+bintang, perintah, kaum, siang --> tuhan
+bintang, tuhan, kaum, siang --> perintah
+perintah, tuhan, kaum, siang --> bintang
+manusia, tuhan, semayam, pohon --> allah
+manusia, tuhan, semayam, allah --> pohon
+manusia, semayam, pohon, allah --> tuhan
+allah, kuasa, langit, pohon --> air
+kuasa, langit, pohon, air --> allah
+hidup, langit, bumi, kuasa --> allah
+hidup, langit, bumi, allah --> kuasa
+bintang, cipta, bumi, manusia --> tuhan
+bintang, cipta, bumi, tuhan --> manusia
+allah, tuhan, malam, perintah --> siang
+allah, tuhan, malam, siang --> perintah
+allah, tuhan, perintah, siang --> malam
+hidup, kuasa, bumi, allah --> mati
+hidup, kuasa, bumi, mati --> allah
+hidup, bumi, allah, mati --> kuasa
+cipta, tuhan, langit, semayam --> manusia
+cipta, tuhan, langit, manusia --> semayam
+semayam, langit, manusia, pohon --> allah
+semayam, manusia, pohon, allah --> langit
+allah, langit, tuhan, manusia --> bumi
+allah, langit, kuasa, pohon --> air
+allah, langit, kuasa, air --> pohon
+langit, kuasa, pohon, air --> allah
+manusia, semayam, tuhan, pohon --> allah
+manusia, semayam, tuhan, allah --> pohon
+manusia, semayam, pohon, allah --> tuhan
+semayam, tuhan, pohon, allah --> manusia
+bintang, tuhan, semayam, pohon --> manusia
+bintang, tuhan, semayam, manusia --> pohon
+bintang, allah, cipta, semayam --> pohon
+bintang, allah, cipta, pohon --> semayam
+bintang, allah, semayam, pohon --> cipta
+kuasa, malam, air, siang --> angin
+bintang, semayam, cipta, tuhan --> pohon
+bintang, semayam, tuhan, pohon --> cipta
+bintang, cipta, tuhan, pohon --> semayam
+cipta, tuhan, langit, manusia --> bumi
+cipta, tuhan, bumi, manusia --> langit
+cipta, langit, bumi, manusia --> tuhan
+tuhan, langit, bumi, manusia --> cipta
+cipta, allah, langit, tuhan --> manusia
+cipta, allah, langit, manusia --> tuhan
+cipta, allah, tuhan, manusia --> langit
+allah, langit, tuhan, manusia --> cipta
+bumi, kuasa, hidup, langit --> kafir
+bumi, kuasa, hidup, kafir --> langit
+kuasa, hidup, langit, kafir --> bumi
+bintang, tuhan, malam, kaum --> siang
+hidup, langit, bumi, air --> allah
+hidup, langit, bumi, allah --> air
+bintang, allah, bumi, tuhan --> semayam
+bintang, allah, bumi, semayam --> tuhan
+bintang, allah, tuhan, semayam --> bumi
+allah, bumi, tuhan, semayam --> bintang
+bintang, cipta, bumi, tuhan --> manusia
+bintang, cipta, bumi, manusia --> tuhan
+bintang, cipta, tuhan, manusia --> bumi
+bintang, allah, cipta, bumi --> semayam
+bintang, allah, cipta, semayam --> bumi
+bintang, allah, bumi, semayam --> cipta
+bintang, cipta, bumi, semayam --> allah
+bintang, allah, tuhan, matahari --> tunduk
+allah, tunduk, tuhan, matahari --> bintang
+allah, kebun, langit, pohon --> air
+kebun, langit, pohon, air --> allah
+cipta, tuhan, manusia, semayam --> pohon
+cipta, tuhan, manusia, pohon --> semayam
+cipta, manusia, semayam, pohon --> tuhan
+tuhan, manusia, semayam, pohon --> cipta
+allah, langit, bumi, kuasa --> hidup
+allah, langit, bumi, hidup --> kuasa
+bintang, manusia, langit, tuhan --> pohon
+bintang, manusia, tuhan, pohon --> langit
+bintang, langit, tuhan, pohon --> manusia
+manusia, langit, tuhan, pohon --> bintang
+cipta, hidup, bumi, manusia --> kafir
+cipta, hidup, bumi, kafir --> manusia
+cipta, hidup, manusia, kafir --> bumi
+cipta, bumi, manusia, kafir --> hidup
+hidup, bumi, manusia, kafir --> cipta
+cipta, bumi, kuasa, hidup --> langit
+cipta, kuasa, hidup, langit --> bumi
+bumi, kuasa, hidup, langit --> cipta
+bintang, cipta, bumi, semayam --> manusia
+bintang, cipta, bumi, manusia --> semayam
+bintang, tuhan, langit, semayam --> cipta
+bintang, tuhan, cipta, semayam --> langit
+bintang, allah, bumi, cipta --> pohon
+bintang, allah, bumi, pohon --> cipta
+bintang, allah, cipta, pohon --> bumi
+bumi, langit, hidup, manusia --> kafir
+bumi, langit, hidup, kafir --> manusia
+bumi, hidup, manusia, kafir --> langit
+langit, hidup, manusia, kafir --> bumi
+cipta, bintang, langit, tuhan --> semayam
+cipta, bintang, langit, semayam --> tuhan
+cipta, bintang, tuhan, semayam --> langit
+manusia, langit, bumi, semayam --> allah
+manusia, langit, semayam, allah --> bumi
+manusia, bumi, semayam, allah --> langit
+bintang, allah, langit, bumi --> pohon
+bintang, allah, langit, pohon --> bumi
+bintang, allah, bumi, pohon --> langit
+bintang, langit, bumi, pohon --> allah
+allah, langit, bumi, pohon --> bintang
+bintang, tuhan, langit, manusia --> cipta
+bintang, tuhan, cipta, manusia --> langit
+cipta, tuhan, manusia, allah --> bintang
+cipta, tuhan, manusia, bintang --> allah
+bintang, cipta, tuhan, manusia --> pohon
+bintang, cipta, tuhan, pohon --> manusia
+bintang, cipta, manusia, pohon --> tuhan
+bintang, tuhan, manusia, pohon --> cipta
+cipta, tuhan, manusia, pohon --> bintang
+cipta, bintang, bumi, manusia --> pohon
+cipta, bintang, bumi, pohon --> manusia
+cipta, bintang, manusia, pohon --> bumi
+cipta, bumi, manusia, pohon --> bintang
+bintang, bumi, manusia, pohon --> cipta
+bintang, allah, bumi, cipta --> manusia
+bintang, allah, bumi, manusia --> cipta
+bintang, allah, cipta, manusia --> bumi
+cipta, allah, kuasa, langit --> pohon
+cipta, allah, kuasa, pohon --> langit
+cipta, allah, langit, pohon --> kuasa
+cipta, kuasa, langit, pohon --> allah
+allah, kuasa, langit, pohon --> cipta
+cipta, semayam, tuhan, manusia --> bintang
+cipta, semayam, tuhan, bintang --> manusia
+cipta, semayam, manusia, bintang --> tuhan
+cipta, tuhan, manusia, bintang --> semayam
+cipta, allah, bumi, semayam --> tuhan
+cipta, allah, bumi, tuhan --> semayam
+jalan, allah, kuasa, bumi --> langit
+jalan, allah, kuasa, langit --> bumi
+jalan, kuasa, bumi, langit --> allah
+allah, kuasa, bumi, langit --> jalan
+bintang, cipta, bumi, semayam --> allah
+bintang, cipta, bumi, allah --> semayam
+tunduk, langit, bumi, allah --> matahari
+tunduk, langit, bumi, matahari --> allah
+cipta, semayam, bumi, manusia --> bintang
+cipta, semayam, manusia, bintang --> bumi
+manusia, langit, bumi, tuhan --> semayam
+manusia, langit, bumi, semayam --> tuhan
+manusia, langit, tuhan, semayam --> bumi
+manusia, bumi, tuhan, semayam --> langit
+cipta, allah, kuasa, langit --> air
+cipta, allah, langit, air --> kuasa
+cipta, allah, kuasa, manusia --> langit
+cipta, allah, kuasa, langit --> manusia
+cipta, kuasa, manusia, langit --> allah
+allah, kuasa, manusia, langit --> cipta
+bintang, semayam, bumi, tuhan --> pohon
+bintang, semayam, tuhan, pohon --> bumi
+bintang, bumi, tuhan, pohon --> semayam
+semayam, bumi, tuhan, pohon --> bintang
+bumi, allah, langit, kafir --> tuhan
+bumi, allah, kafir, tuhan --> langit
+bumi, langit, kafir, tuhan --> allah
+allah, langit, kafir, tuhan --> bumi
+allah, langit, bumi, hidup --> kafir
+allah, langit, bumi, kafir --> hidup
+allah, langit, hidup, kafir --> bumi
+manusia, tuhan, langit, semayam --> pohon
+manusia, tuhan, semayam, pohon --> langit
+manusia, langit, semayam, pohon --> tuhan
+tuhan, langit, semayam, pohon --> manusia
+cipta, allah, manusia, semayam --> pohon
+cipta, allah, manusia, pohon --> semayam
+cipta, manusia, semayam, pohon --> allah
+allah, manusia, semayam, pohon --> cipta
+cipta, langit, bumi, tuhan --> kafir
+cipta, langit, bumi, kafir --> tuhan
+cipta, bumi, tuhan, kafir --> langit
+langit, bumi, tuhan, kafir --> cipta
+bintang, allah, cipta, bumi --> pohon
+bintang, allah, cipta, pohon --> bumi
+bintang, allah, bumi, pohon --> cipta
+bintang, cipta, bumi, pohon --> allah
+cipta, allah, hidup, bumi --> kafir
+cipta, allah, hidup, kafir --> bumi
+cipta, allah, bumi, kafir --> hidup
+cipta, hidup, bumi, kafir --> allah
+allah, hidup, bumi, kafir --> cipta
+bintang, cipta, tuhan, pohon --> allah
+bintang, cipta, tuhan, allah --> pohon
+bintang, tuhan, bumi, manusia --> allah
+tuhan, bumi, manusia, allah --> bintang
+bintang, allah, tuhan, kaum --> siang
+bintang, allah, tuhan, siang --> kaum
+bintang, allah, kaum, siang --> tuhan
+bintang, tuhan, kaum, siang --> allah
+allah, tuhan, kaum, siang --> bintang
+tuhan, langit, bumi, manusia --> allah
+tuhan, langit, manusia, allah --> bumi
+tuhan, bumi, manusia, allah --> langit
+bintang, tuhan, langit, manusia --> allah
+tuhan, langit, manusia, allah --> bintang
+gunung, langit, tuhan, allah --> sungai
+gunung, langit, tuhan, sungai --> allah
+gunung, tuhan, allah, sungai --> langit
+cipta, bumi, hidup, manusia --> allah
+cipta, bumi, hidup, allah --> manusia
+bumi, hidup, manusia, allah --> cipta
+bintang, manusia, cipta, semayam --> bumi
+bintang, manusia, bumi, semayam --> cipta
+bintang, cipta, bumi, semayam --> manusia
+cipta, manusia, semayam, pohon --> bintang
+cipta, manusia, semayam, bintang --> pohon
+tumbuh, allah, langit, kebun --> air
+tumbuh, allah, langit, air --> kebun
+tumbuh, langit, kebun, air --> allah
+allah, langit, kebun, air --> tumbuh
+cipta, bintang, tuhan, pohon --> manusia
+cipta, bintang, tuhan, manusia --> pohon
+cipta, allah, bumi, manusia --> bintang
+cipta, allah, bumi, bintang --> manusia
+cipta, allah, manusia, bintang --> bumi
+bumi, langit, hidup, allah --> mati
+bumi, langit, hidup, mati --> allah
+bumi, hidup, allah, mati --> langit
+cipta, bintang, langit, bumi --> semayam
+cipta, bintang, langit, semayam --> bumi
+cipta, bintang, bumi, semayam --> langit
+cipta, langit, bumi, semayam --> bintang
+bintang, langit, bumi, semayam --> cipta
+cipta, kuasa, bumi, manusia --> langit
+cipta, kuasa, bumi, langit --> manusia
+cipta, kuasa, manusia, langit --> bumi
+kuasa, bumi, manusia, langit --> cipta
+cipta, allah, tuhan, semayam --> pohon
+cipta, allah, tuhan, pohon --> semayam
+allah, tuhan, semayam, pohon --> cipta
+semayam, langit, bumi, tuhan --> pohon
+semayam, langit, tuhan, pohon --> bumi
+semayam, bumi, tuhan, pohon --> langit
+langit, bumi, tuhan, pohon --> semayam
+cipta, manusia, langit, tuhan --> semayam
+cipta, manusia, langit, semayam --> tuhan
+cipta, manusia, tuhan, semayam --> langit
+manusia, langit, tuhan, semayam --> cipta
+cipta, tuhan, bumi, semayam --> bintang
+cipta, semayam, langit, tuhan --> bumi
+cipta, semayam, bumi, tuhan --> langit
+cipta, langit, bumi, tuhan --> semayam
+semayam, langit, bumi, tuhan --> cipta
+cipta, manusia, bumi, tuhan --> bintang
+cipta, manusia, tuhan, bintang --> bumi
+perintah, tuhan, kaum, siang --> allah
+allah, tuhan, kaum, siang --> perintah
+tuhan, langit, sungai, pohon --> allah
+tuhan, sungai, pohon, allah --> langit
+jalan, allah, kuasa, tunduk --> matahari
+jalan, allah, kuasa, matahari --> tunduk
+cipta, bumi, langit, hidup --> manusia
+cipta, bumi, hidup, manusia --> langit
+cipta, langit, hidup, manusia --> bumi
+bumi, langit, hidup, manusia --> cipta
+gunung, langit, tuhan, sungai --> pohon
+gunung, langit, tuhan, pohon --> sungai
+gunung, langit, sungai, pohon --> tuhan
+gunung, tuhan, sungai, pohon --> langit
+sungai, langit, tuhan, pohon --> allah
+sungai, langit, tuhan, allah --> pohon
+sungai, tuhan, pohon, allah --> langit
+perintah, tuhan, malam, kaum --> allah
+allah, tuhan, malam, kaum --> perintah
+cipta, allah, langit, semayam --> manusia
+cipta, allah, langit, manusia --> semayam
+cipta, allah, semayam, manusia --> langit
+cipta, bintang, bumi, semayam --> manusia
+cipta, bintang, bumi, manusia --> semayam
+cipta, bintang, semayam, manusia --> bumi
+cipta, semayam, bumi, tuhan --> bintang
+cipta, semayam, tuhan, bintang --> bumi
+cipta, allah, langit, kuasa --> pohon
+cipta, allah, langit, pohon --> kuasa
+cipta, allah, kuasa, pohon --> langit
+cipta, langit, kuasa, pohon --> allah
+allah, langit, kuasa, pohon --> cipta
+bintang, allah, jalan, tuhan --> air
+bintang, allah, tuhan, air --> jalan
+bintang, jalan, tuhan, air --> allah
+bintang, tuhan, langit, manusia --> pohon
+bintang, tuhan, manusia, pohon --> langit
+bintang, langit, manusia, pohon --> tuhan
+tuhan, langit, manusia, pohon --> bintang
+allah, kuasa, angin, kaum --> siang
+allah, kuasa, angin, siang --> kaum
+allah, kuasa, kaum, siang --> angin
+allah, angin, kaum, siang --> kuasa
+kuasa, angin, kaum, siang --> allah
+jalan, allah, kuasa, tuhan --> bintang
+jalan, allah, kuasa, bintang --> tuhan
+jalan, allah, tuhan, bintang --> kuasa
+perintah, tuhan, kaum, allah --> malam
+bintang, cipta, bumi, manusia --> semayam
+bintang, cipta, bumi, semayam --> manusia
+bintang, cipta, manusia, semayam --> bumi
+allah, kuasa, kaum, siang --> malam
+allah, malam, kaum, siang --> kuasa
+kuasa, malam, kaum, siang --> allah
+cipta, bintang, bumi, tuhan --> semayam
+cipta, bintang, bumi, semayam --> tuhan
+cipta, bintang, tuhan, semayam --> bumi
+sungai, langit, tuhan, gunung --> allah
+sungai, langit, tuhan, allah --> gunung
+bintang, manusia, langit, tuhan --> allah
+bintang, manusia, tuhan, allah --> langit
+manusia, langit, tuhan, allah --> bintang
+allah, langit, tuhan, air --> laut
+allah, langit, tuhan, laut --> air
+allah, langit, air, laut --> tuhan
+allah, tuhan, air, laut --> langit
+allah, langit, bumi, matahari --> tunduk
+allah, kuasa, bumi, hidup --> kafir
+allah, kuasa, bumi, kafir --> hidup
+allah, kuasa, hidup, kafir --> bumi
+allah, langit, bumi, manusia --> pohon
+allah, langit, bumi, pohon --> manusia
+allah, langit, manusia, pohon --> bumi
+allah, bumi, manusia, pohon --> langit
+langit, bumi, manusia, pohon --> allah
+allah, tuhan, manusia, semayam --> bumi
+bintang, allah, cipta, semayam --> tuhan
+bintang, allah, cipta, tuhan --> semayam
+allah, langit, bumi, kuasa --> pohon
+allah, langit, bumi, pohon --> kuasa
+allah, langit, kuasa, pohon --> bumi
+langit, bumi, kuasa, pohon --> allah
+cipta, allah, bumi, semayam --> pohon
+cipta, allah, bumi, pohon --> semayam
+cipta, bumi, semayam, pohon --> allah
+allah, bumi, semayam, pohon --> cipta
+tumbuh, allah, langit, air --> pohon
+tumbuh, allah, langit, pohon --> air
+tumbuh, langit, air, pohon --> allah
+allah, langit, air, pohon --> tumbuh
+cipta, kuasa, hidup, manusia --> kafir
+cipta, kuasa, hidup, kafir --> manusia
+cipta, hidup, manusia, kafir --> kuasa
+kuasa, hidup, manusia, kafir --> cipta
+bintang, tuhan, cipta, manusia --> semayam
+bintang, tuhan, cipta, semayam --> manusia
+bintang, tuhan, manusia, semayam --> cipta
+bintang, cipta, manusia, semayam --> tuhan
+cipta, semayam, langit, manusia --> allah
+cipta, semayam, manusia, allah --> langit
+allah, tuhan, malam, perintah --> kaum
+allah, tuhan, malam, kaum --> perintah
+allah, langit, bumi, air --> pohon
+allah, langit, bumi, pohon --> air
+allah, langit, air, pohon --> bumi
+allah, bumi, air, pohon --> langit
+langit, bumi, air, pohon --> allah
+cipta, allah, semayam, manusia --> pohon
+perintah, tuhan, malam, kaum --> siang
+perintah, tuhan, malam, siang --> kaum
+perintah, tuhan, kaum, siang --> malam
+perintah, malam, kaum, siang --> tuhan
+tuhan, malam, kaum, siang --> perintah
+cipta, allah, kuasa, kafir --> bumi
+cipta, allah, kuasa, bumi --> kafir
+allah, langit, tuhan, semayam --> pohon
+allah, langit, tuhan, pohon --> semayam
+allah, langit, semayam, pohon --> tuhan
+allah, tuhan, semayam, pohon --> langit
+manusia, langit, bumi, semayam --> pohon
+manusia, langit, semayam, pohon --> bumi
+manusia, bumi, semayam, pohon --> langit
+langit, bumi, semayam, pohon --> manusia
+allah, langit, tuhan, pohon --> sungai
+allah, langit, tuhan, sungai --> pohon
+allah, tuhan, pohon, sungai --> langit
+allah, kuasa, bumi, hidup --> langit
+allah, kuasa, bumi, langit --> hidup
+allah, kuasa, hidup, langit --> bumi
+bumi, kuasa, hidup, allah --> mati
+bumi, kuasa, hidup, mati --> allah
+bumi, hidup, allah, mati --> kuasa
+bintang, tuhan, langit, semayam --> pohon
+bintang, tuhan, semayam, pohon --> langit
+bintang, langit, semayam, pohon --> tuhan
+tuhan, langit, semayam, pohon --> bintang
+cipta, langit, hidup, kuasa --> kafir
+cipta, langit, hidup, kafir --> kuasa
+cipta, hidup, kuasa, kafir --> langit
+langit, hidup, kuasa, kafir --> cipta
+bintang, perintah, malam, siang --> kaum
+bintang, perintah, kaum, siang --> malam
+bintang, malam, kaum, siang --> perintah
+perintah, malam, kaum, siang --> bintang
+cipta, kuasa, bumi, langit --> air
+cipta, kuasa, bumi, air --> langit
+kuasa, bumi, langit, air --> cipta
+bintang, cipta, langit, pohon --> allah
+bintang, cipta, langit, allah --> pohon
+bumi, langit, hidup, manusia --> kuasa
+bumi, langit, hidup, kuasa --> manusia
+langit, hidup, manusia, kuasa --> bumi
+allah, siang, kaum, perintah --> malam
+bintang, manusia, cipta, semayam --> allah
+bintang, manusia, semayam, allah --> cipta
+bintang, manusia, cipta, semayam --> pohon
+bintang, manusia, semayam, pohon --> cipta
+bintang, tuhan, semayam, allah --> manusia
+bintang, tuhan, semayam, manusia --> allah
+allah, kuasa, kaum, siang --> air
+kuasa, air, kaum, siang --> allah
+allah, langit, air, turun --> kaum
+allah, langit, air, kaum --> turun
+allah, air, turun, kaum --> langit
+langit, air, turun, kaum --> allah
+cipta, allah, manusia, semayam --> bintang
+cipta, allah, manusia, bintang --> semayam
+cipta, allah, semayam, bintang --> manusia
+cipta, manusia, semayam, bintang --> allah
+cipta, semayam, tuhan, manusia --> allah
+sungai, tuhan, pohon, gunung --> allah
+allah, tuhan, pohon, gunung --> sungai
+cipta, langit, bumi, kuasa --> air
+cipta, langit, bumi, air --> kuasa
+cipta, langit, kuasa, air --> bumi
+langit, bumi, kuasa, air --> cipta
+hidup, langit, bumi, kafir --> allah
+hidup, langit, bumi, allah --> kafir
+bintang, jalan, kuasa, air --> allah
+bintang, jalan, kuasa, allah --> air
+allah, tuhan, malam, perintah --> siang
+bintang, allah, langit, semayam --> manusia
+bintang, allah, langit, manusia --> semayam
+bintang, allah, semayam, manusia --> langit
+cipta, bumi, langit, hidup --> kuasa
+cipta, langit, hidup, kuasa --> bumi
+bumi, langit, hidup, kuasa --> cipta
+manusia, allah, tuhan, semayam --> bintang
+manusia, tuhan, semayam, bintang --> allah
+cipta, hidup, kuasa, kafir --> manusia
+cipta, hidup, kafir, manusia --> kuasa
+cipta, kuasa, kafir, manusia --> hidup
+hidup, kuasa, kafir, manusia --> cipta
+bintang, cipta, manusia, semayam --> pohon
+bintang, cipta, manusia, pohon --> semayam
+bintang, manusia, semayam, pohon --> cipta
+cipta, manusia, semayam, pohon --> bintang
+cipta, langit, kuasa, pohon --> air
+cipta, langit, kuasa, air --> pohon
+langit, kuasa, pohon, air --> cipta
+cipta, manusia, langit, tuhan --> pohon
+cipta, manusia, tuhan, pohon --> langit
+cipta, langit, tuhan, pohon --> manusia
+manusia, langit, tuhan, pohon --> cipta
+bintang, allah, tuhan, malam --> perintah
+bintang, allah, tuhan, perintah --> malam
+allah, tuhan, malam, perintah --> bintang
+tuhan, langit, semayam, pohon --> allah
+tuhan, langit, semayam, allah --> pohon
+cipta, kuasa, bumi, langit --> pohon
+cipta, kuasa, bumi, pohon --> langit
+cipta, kuasa, langit, pohon --> bumi
+kuasa, bumi, langit, pohon --> cipta
+cipta, allah, manusia, bintang --> tuhan
+cipta, allah, tuhan, bintang --> manusia
+cipta, manusia, tuhan, bintang --> allah
+bintang, cipta, langit, bumi --> pohon
+bintang, cipta, langit, pohon --> bumi
+bintang, cipta, bumi, pohon --> langit
+bintang, langit, bumi, pohon --> cipta
+cipta, langit, bumi, pohon --> bintang
+semayam, langit, tuhan, pohon --> allah
+semayam, langit, tuhan, allah --> pohon
+semayam, tuhan, pohon, allah --> langit
+cipta, allah, langit, pohon --> bintang
+cipta, allah, langit, bintang --> pohon
+hidup, kuasa, kafir, manusia --> langit
+kuasa, kafir, manusia, langit --> hidup
+allah, kuasa, hidup, langit --> air
+kuasa, hidup, langit, air --> allah
+cipta, hidup, langit, bumi --> kuasa
+cipta, langit, bumi, kuasa --> hidup
+hidup, langit, bumi, kuasa --> cipta
+bintang, semayam, tuhan, pohon --> allah
+bintang, semayam, tuhan, allah --> pohon
+semayam, tuhan, pohon, allah --> bintang
+bintang, manusia, langit, tuhan --> cipta
+bintang, manusia, cipta, tuhan --> langit
+bintang, manusia, langit, semayam --> bumi
+bintang, manusia, bumi, semayam --> langit
+bintang, langit, bumi, semayam --> manusia
+manusia, langit, bumi, semayam --> bintang
+bintang, allah, tuhan, kaum --> malam
+bintang, allah, tuhan, malam --> kaum
+bintang, tuhan, kaum, malam --> allah
+allah, tuhan, kaum, malam --> bintang
+jalan, allah, kuasa, tuhan --> air
+jalan, allah, tuhan, air --> kuasa
+jalan, kuasa, tuhan, air --> allah
+allah, kuasa, tuhan, air --> jalan
+manusia, allah, tuhan, pohon --> bintang
+kuasa, bumi, manusia, langit --> kafir
+kuasa, bumi, manusia, kafir --> langit
+kuasa, bumi, langit, kafir --> manusia
+tuhan, manusia, semayam, pohon --> allah
+manusia, semayam, pohon, allah --> tuhan
+cipta, allah, bumi, manusia --> tuhan
+cipta, allah, bumi, tuhan --> manusia
+allah, bumi, manusia, tuhan --> cipta
+bintang, semayam, langit, manusia --> bumi
+bintang, semayam, bumi, manusia --> langit
+bintang, langit, bumi, manusia --> semayam
+semayam, langit, bumi, manusia --> bintang
+cipta, bumi, kuasa, kafir --> langit
+cipta, kuasa, kafir, langit --> bumi
+cipta, allah, tuhan, manusia --> bintang
+cipta, bintang, tuhan, manusia --> allah
+bintang, manusia, langit, tuhan --> semayam
+bintang, manusia, langit, semayam --> tuhan
+bintang, manusia, tuhan, semayam --> langit
+manusia, langit, tuhan, semayam --> bintang
+cipta, hidup, kuasa, bumi --> manusia
+cipta, hidup, bumi, manusia --> kuasa
+cipta, kuasa, bumi, manusia --> hidup
+hidup, kuasa, bumi, manusia --> cipta
+cipta, allah, hidup, bumi --> manusia
+cipta, allah, hidup, manusia --> bumi
+cipta, allah, bumi, manusia --> hidup
+cipta, hidup, bumi, manusia --> allah
+allah, hidup, bumi, manusia --> cipta
+cipta, manusia, langit, semayam --> bintang
+cipta, manusia, semayam, bintang --> langit
+bumi, kuasa, hidup, langit --> allah
+bumi, kuasa, hidup, allah --> langit
+cipta, bumi, langit, hidup --> kafir
+cipta, bumi, langit, kafir --> hidup
+cipta, bumi, hidup, kafir --> langit
+cipta, langit, hidup, kafir --> bumi
+bumi, langit, hidup, kafir --> cipta
+bintang, semayam, bumi, tuhan --> allah
+bintang, semayam, tuhan, allah --> bumi
+semayam, bumi, tuhan, allah --> bintang
+cipta, tuhan, manusia, semayam --> bintang
+cipta, tuhan, manusia, bintang --> semayam
+cipta, manusia, semayam, bintang --> tuhan
+cipta, allah, langit, bumi --> kuasa
+cipta, allah, langit, kuasa --> bumi
+cipta, langit, bumi, kuasa --> allah
+allah, langit, bumi, kuasa --> cipta
+allah, kuasa, bumi, manusia --> langit
+allah, kuasa, bumi, langit --> manusia
+allah, kuasa, manusia, langit --> bumi
+kuasa, bumi, manusia, langit --> allah
+bintang, tuhan, cipta, semayam --> manusia
+bintang, tuhan, cipta, manusia --> semayam
+bintang, tuhan, semayam, manusia --> cipta
+bintang, allah, langit, tuhan --> semayam
+bintang, allah, langit, semayam --> tuhan
+bintang, allah, tuhan, semayam --> langit
+allah, langit, tuhan, semayam --> bintang
+cipta, tuhan, langit, manusia --> bintang
+cipta, tuhan, manusia, bintang --> langit
+allah, kuasa, angin, kaum --> siang
+bintang, tuhan, kaum, malam --> siang
+siang, tuhan, kaum, malam --> bintang
+manusia, allah, tuhan, semayam --> cipta
+cipta, semayam, manusia, pohon --> allah
+cipta, semayam, manusia, allah --> pohon
+semayam, manusia, pohon, allah --> cipta
+bumi, kafir, hidup, allah --> manusia
+bumi, hidup, manusia, allah --> kafir
+cipta, allah, kuasa, bumi --> kafir
+cipta, allah, kuasa, kafir --> bumi
+cipta, allah, bumi, kafir --> kuasa
+cipta, kuasa, bumi, kafir --> allah
+allah, kuasa, bumi, kafir --> cipta
+allah, langit, bumi, tuhan --> kafir
+allah, langit, bumi, kafir --> tuhan
+allah, bumi, tuhan, kafir --> langit
+langit, bumi, tuhan, kafir --> allah
+bintang, allah, langit, tuhan --> manusia
+bintang, allah, langit, manusia --> tuhan
+bintang, allah, tuhan, manusia --> langit
+allah, langit, tuhan, manusia --> bintang
+tuhan, langit, manusia, pohon --> allah
+tuhan, langit, manusia, allah --> pohon
+tuhan, langit, bumi, manusia --> semayam
+tuhan, langit, bumi, semayam --> manusia
+tuhan, langit, manusia, semayam --> bumi
+tuhan, bumi, manusia, semayam --> langit
+langit, bumi, manusia, kuasa --> kafir
+langit, bumi, manusia, kafir --> kuasa
+langit, bumi, kuasa, kafir --> manusia
+perintah, tuhan, allah, siang --> malam
+manusia, allah, bumi, tuhan --> pohon
+manusia, allah, tuhan, pohon --> bumi
+manusia, bumi, tuhan, pohon --> allah
+allah, bumi, tuhan, pohon --> manusia
+cipta, semayam, langit, tuhan --> manusia
+cipta, semayam, langit, manusia --> tuhan
+cipta, semayam, tuhan, manusia --> langit
+bintang, semayam, tuhan, pohon --> manusia
+bintang, semayam, tuhan, manusia --> pohon
+cipta, kuasa, langit, pohon --> air
+kuasa, langit, pohon, air --> cipta
+bintang, manusia, tuhan, semayam --> allah
+bintang, manusia, tuhan, allah --> semayam
+bintang, manusia, semayam, allah --> tuhan
+bintang, tuhan, semayam, allah --> manusia
+manusia, tuhan, semayam, allah --> bintang
+allah, langit, tuhan, pohon --> laut
+allah, langit, tuhan, laut --> pohon
+allah, langit, pohon, laut --> tuhan
+cipta, semayam, tuhan, pohon --> manusia
+cipta, semayam, tuhan, manusia --> pohon
+cipta, semayam, bumi, manusia --> allah
+cipta, semayam, manusia, allah --> bumi
+manusia, tuhan, semayam, pohon --> bintang
+manusia, tuhan, semayam, bintang --> pohon
+allah, langit, bumi, hidup --> air
+allah, langit, bumi, air --> hidup
+allah, langit, hidup, air --> bumi
+bintang, cipta, langit, semayam --> allah
+bintang, cipta, langit, allah --> semayam
+allah, langit, air, pohon --> laut
+allah, langit, air, laut --> pohon
+allah, langit, pohon, laut --> air
+jalan, bintang, tuhan, air --> allah
+jalan, bintang, tuhan, allah --> air
+jalan, bintang, air, allah --> tuhan
+cipta, allah, bumi, manusia --> pohon
+cipta, allah, bumi, pohon --> manusia
+cipta, allah, manusia, pohon --> bumi
+cipta, bumi, manusia, pohon --> allah
+allah, bumi, manusia, pohon --> cipta
+allah, kuasa, bumi, langit --> hidup
+allah, kuasa, bumi, hidup --> langit
+malam, bumi, kaum, siang --> langit
+langit, bumi, kaum, siang --> malam
+bintang, tuhan, malam, kaum --> siang
+bintang, tuhan, malam, siang --> kaum
+bintang, tuhan, kaum, siang --> malam
+bintang, malam, kaum, siang --> tuhan
+tuhan, malam, kaum, siang --> bintang
+cipta, bintang, tuhan, manusia --> pohon
+cipta, bintang, tuhan, pohon --> manusia
+cipta, bintang, manusia, pohon --> tuhan
+cipta, tuhan, manusia, pohon --> bintang
+bintang, tuhan, manusia, pohon --> cipta
+bumi, langit, kafir, manusia --> kuasa
+bumi, langit, kafir, kuasa --> manusia
+langit, kafir, manusia, kuasa --> bumi
+semayam, bumi, manusia, pohon --> allah
+semayam, manusia, pohon, allah --> bumi
+cipta, kuasa, kafir, manusia --> langit
+cipta, kuasa, kafir, langit --> manusia
+cipta, kuasa, manusia, langit --> kafir
+kuasa, kafir, manusia, langit --> cipta
+cipta, hidup, kuasa, bumi --> allah
+hidup, kuasa, bumi, allah --> cipta
+cipta, bumi, hidup, allah --> kafir
+bumi, kafir, hidup, allah --> cipta
+cipta, hidup, langit, bumi --> allah
+hidup, langit, bumi, allah --> cipta
+cipta, allah, manusia, pohon --> bintang
+cipta, allah, manusia, bintang --> pohon
+cipta, bintang, bumi, semayam --> allah
+cipta, bintang, bumi, allah --> semayam
+cipta, bintang, semayam, allah --> bumi
+cipta, allah, langit, bumi --> semayam
+cipta, allah, langit, semayam --> bumi
+cipta, allah, bumi, semayam --> langit
+cipta, langit, bumi, semayam --> allah
+allah, langit, bumi, semayam --> cipta
+cipta, allah, bumi, hidup --> manusia
+cipta, allah, bumi, manusia --> hidup
+cipta, allah, hidup, manusia --> bumi
+cipta, bumi, hidup, manusia --> allah
+bintang, allah, bumi, manusia --> tuhan
+bintang, allah, bumi, tuhan --> manusia
+allah, bumi, manusia, tuhan --> bintang
+cipta, bumi, hidup, manusia --> kafir
+cipta, bumi, hidup, kafir --> manusia
+cipta, bumi, manusia, kafir --> hidup
+cipta, hidup, manusia, kafir --> bumi
+bumi, hidup, manusia, kafir --> cipta
+angin, kuasa, kaum, siang --> air
+kuasa, kaum, air, siang --> angin
+cipta, bintang, langit, tuhan --> pohon
+cipta, bintang, langit, pohon --> tuhan
+cipta, bintang, tuhan, pohon --> langit
+cipta, langit, tuhan, pohon --> bintang
+bintang, langit, tuhan, pohon --> cipta
+bumi, allah, langit, hidup --> kafir
+bumi, allah, langit, kafir --> hidup
+bumi, langit, hidup, kafir --> allah
+allah, langit, hidup, kafir --> bumi
+cipta, manusia, semayam, allah --> bintang
+cipta, bintang, semayam, allah --> manusia
+cipta, manusia, tuhan, semayam --> pohon
+cipta, manusia, tuhan, pohon --> semayam
+cipta, manusia, semayam, pohon --> tuhan
+manusia, tuhan, semayam, pohon --> cipta
+bintang, cipta, bumi, manusia --> allah
+bintang, cipta, bumi, allah --> manusia
+bintang, cipta, manusia, allah --> bumi
+bumi, allah, langit, hidup --> air
+bumi, langit, hidup, air --> allah
+allah, langit, hidup, air --> bumi
+allah, bumi, manusia, pohon --> tuhan
+allah, bumi, manusia, tuhan --> pohon
+cipta, allah, tuhan, semayam --> manusia
+cipta, allah, tuhan, manusia --> semayam
+cipta, allah, semayam, manusia --> tuhan
+bintang, allah, bumi, tuhan --> pohon
+bintang, allah, bumi, pohon --> tuhan
+bintang, allah, tuhan, pohon --> bumi
+bintang, bumi, tuhan, pohon --> allah
+allah, bumi, tuhan, pohon --> bintang
+cipta, allah, bumi, tuhan --> manusia
+cipta, allah, bumi, manusia --> tuhan
+cipta, allah, tuhan, manusia --> bumi
+allah, langit, kafir, manusia --> hidup
+allah, langit, kafir, hidup --> manusia
+allah, langit, tuhan, pohon --> gunung
+allah, langit, tuhan, gunung --> pohon
+allah, langit, pohon, gunung --> tuhan
+allah, tuhan, pohon, gunung --> langit
+cipta, kuasa, bumi, manusia --> kafir
+cipta, kuasa, bumi, kafir --> manusia
+cipta, bumi, manusia, kafir --> kuasa
+kuasa, bumi, manusia, kafir --> cipta
+cipta, manusia, tuhan, pohon --> allah
+bumi, allah, kuasa, kafir --> manusia
+bumi, kuasa, kafir, manusia --> allah
+allah, kuasa, kafir, manusia --> bumi
+bintang, perintah, tuhan, malam --> allah
+bintang, perintah, tuhan, allah --> malam
+perintah, tuhan, malam, allah --> bintang
+cipta, allah, bumi, hidup --> kafir
+cipta, allah, bumi, kafir --> hidup
+cipta, allah, hidup, kafir --> bumi
+cipta, bumi, hidup, kafir --> allah
+manusia, semayam, langit, tuhan --> pohon
+manusia, semayam, tuhan, pohon --> langit
+manusia, langit, tuhan, pohon --> semayam
+semayam, langit, tuhan, pohon --> manusia
+cipta, allah, langit, tuhan --> semayam
+cipta, allah, langit, semayam --> tuhan
+cipta, allah, tuhan, semayam --> langit
+allah, langit, tuhan, semayam --> cipta
+cipta, bintang, langit, tuhan --> allah
+cipta, bintang, langit, allah --> tuhan
+cipta, bintang, tuhan, allah --> langit
+cipta, bintang, langit, manusia --> semayam
+cipta, bintang, langit, semayam --> manusia
+cipta, bintang, manusia, semayam --> langit
+tunduk, langit, bumi, matahari --> allah
+tunduk, langit, bumi, allah --> matahari
+cipta, tuhan, bumi, semayam --> pohon
+cipta, bumi, semayam, pohon --> tuhan
+tuhan, bumi, semayam, pohon --> cipta
+cipta, hidup, bumi, kafir --> allah
+allah, tuhan, kaum, sebahagian --> air
+allah, tuhan, kaum, air --> sebahagian
+allah, kaum, sebahagian, air --> tuhan
+tuhan, kaum, sebahagian, air --> allah
+allah, tuhan, malam, kaum --> siang
+allah, tuhan, malam, siang --> kaum
+allah, tuhan, kaum, siang --> malam
+allah, malam, kaum, siang --> tuhan
+tuhan, malam, kaum, siang --> allah
+allah, hidup, bumi, kuasa --> kafir
+allah, hidup, bumi, kafir --> kuasa
+cipta, kuasa, hidup, langit --> kafir
+cipta, kuasa, hidup, kafir --> langit
+cipta, hidup, langit, kafir --> kuasa
+kuasa, hidup, langit, kafir --> cipta
+allah, langit, bumi, air --> hidup
+allah, langit, bumi, hidup --> air
+bintang, semayam, manusia, allah --> tuhan
+bintang, semayam, tuhan, allah --> manusia
+bintang, manusia, tuhan, allah --> semayam
+hidup, langit, bumi, manusia --> allah
+hidup, langit, bumi, allah --> manusia
+bintang, semayam, manusia, pohon --> allah
+bintang, semayam, manusia, allah --> pohon
+semayam, manusia, pohon, allah --> bintang
+cipta, manusia, bumi, tuhan --> allah
+bintang, jalan, kuasa, tuhan --> air
+bintang, jalan, kuasa, air --> tuhan
+bintang, jalan, tuhan, air --> kuasa
+bintang, kuasa, tuhan, air --> jalan
+jalan, kuasa, tuhan, air --> bintang
+cipta, allah, langit, hidup --> kafir
+cipta, allah, langit, kafir --> hidup
+cipta, allah, hidup, kafir --> langit
+cipta, langit, hidup, kafir --> allah
+allah, langit, hidup, kafir --> cipta
+allah, kuasa, bumi, manusia --> hidup
+allah, kuasa, bumi, hidup --> manusia
+tumbuh, allah, langit, kebun --> pohon
+tumbuh, allah, langit, pohon --> kebun
+tumbuh, langit, kebun, pohon --> allah
+allah, langit, kebun, pohon --> tumbuh
+cipta, manusia, semayam, allah --> bintang
+cipta, manusia, semayam, bintang --> allah
+sungai, tuhan, pohon, gunung --> allah
+bintang, allah, cipta, tuhan --> semayam
+bintang, allah, cipta, semayam --> tuhan
+bintang, allah, tuhan, semayam --> cipta
+bintang, cipta, tuhan, semayam --> allah
+cipta, semayam, bumi, manusia --> tuhan
+cipta, semayam, bumi, tuhan --> manusia
+tumbuh, kebun, langit, pohon --> air
+tumbuh, kebun, langit, air --> pohon
+kebun, langit, pohon, air --> tumbuh
+cipta, bumi, langit, kafir --> tuhan
+cipta, bumi, kafir, tuhan --> langit
+cipta, langit, kafir, tuhan --> bumi
+bumi, langit, kafir, tuhan --> cipta
+kuasa, malam, air, siang --> kaum
+cipta, manusia, bumi, semayam --> tuhan
+cipta, manusia, bumi, tuhan --> semayam
+manusia, bumi, semayam, tuhan --> cipta
+allah, langit, bumi, kuasa --> air
+allah, langit, bumi, air --> kuasa
+allah, langit, kuasa, air --> bumi
+langit, bumi, kuasa, air --> allah
+bumi, allah, kuasa, hidup --> langit
+bumi, kuasa, hidup, langit --> allah
+allah, kuasa, hidup, langit --> bumi
+cipta, allah, semayam, bintang --> pohon
+cipta, langit, bumi, kuasa --> kafir
+cipta, langit, bumi, kafir --> kuasa
+cipta, bumi, kuasa, kafir --> langit
+langit, bumi, kuasa, kafir --> cipta
+cipta, semayam, langit, manusia --> pohon
+cipta, semayam, manusia, pohon --> langit
+cipta, langit, manusia, pohon --> semayam
+semayam, langit, manusia, pohon --> cipta
+tumbuh, langit, kebun, pohon --> air
+tumbuh, langit, kebun, air --> pohon
+langit, kebun, pohon, air --> tumbuh
+cipta, allah, kuasa, hidup --> manusia
+cipta, allah, kuasa, manusia --> hidup
+cipta, allah, hidup, manusia --> kuasa
+cipta, kuasa, hidup, manusia --> allah
+allah, kuasa, hidup, manusia --> cipta
+bumi, langit, hidup, kuasa --> kafir
+bumi, langit, hidup, kafir --> kuasa
+langit, hidup, kuasa, kafir --> bumi
+manusia, semayam, bumi, tuhan --> pohon
+manusia, semayam, tuhan, pohon --> bumi
+manusia, bumi, tuhan, pohon --> semayam
+semayam, bumi, tuhan, pohon --> manusia
+allah, langit, hidup, kuasa --> kafir
+allah, langit, hidup, kafir --> kuasa
+langit, hidup, kuasa, kafir --> allah
+cipta, sekutu, langit, bumi --> tuhan
+cipta, sekutu, langit, tuhan --> bumi
+cipta, sekutu, bumi, tuhan --> langit
+cipta, langit, bumi, tuhan --> sekutu
+sekutu, langit, bumi, tuhan --> cipta
+cipta, bintang, manusia, pohon --> allah
+cipta, bintang, manusia, allah --> pohon
+cipta, bintang, pohon, allah --> manusia
+cipta, bintang, langit, semayam --> manusia
+cipta, bintang, langit, manusia --> semayam
+cipta, bintang, semayam, manusia --> langit
+allah, siang, kaum, perintah --> tuhan
+allah, tuhan, kaum, perintah --> siang
+bintang, manusia, tuhan, pohon --> allah
+bintang, manusia, tuhan, allah --> pohon
+gunung, tuhan, sungai, pohon --> allah
+tuhan, sungai, pohon, allah --> gunung
+bintang, semayam, cipta, manusia --> allah
+bintang, semayam, manusia, allah --> cipta
+bintang, cipta, manusia, allah --> semayam
+semayam, langit, bumi, manusia --> allah
+allah, kuasa, bumi, langit --> kafir
+allah, kuasa, bumi, kafir --> langit
+kuasa, bumi, langit, kafir --> allah
+cipta, allah, langit, kafir --> kuasa
+cipta, allah, langit, kuasa --> kafir
+cipta, langit, kafir, kuasa --> allah
+allah, langit, kafir, kuasa --> cipta
+cipta, allah, kuasa, bumi --> air
+cipta, allah, bumi, air --> kuasa
+cipta, kuasa, bumi, air --> allah
+bintang, langit, bumi, manusia --> pohon
+bintang, langit, bumi, pohon --> manusia
+bintang, langit, manusia, pohon --> bumi
+bintang, bumi, manusia, pohon --> langit
+langit, bumi, manusia, pohon --> bintang
+bintang, allah, bumi, cipta --> langit
+allah, kuasa, bumi, langit --> pohon
+allah, kuasa, bumi, pohon --> langit
+allah, kuasa, langit, pohon --> bumi
+kuasa, bumi, langit, pohon --> allah
+air, malam, kaum, siang --> angin
+bintang, cipta, langit, semayam --> pohon
+bintang, cipta, langit, pohon --> semayam
+bintang, langit, semayam, pohon --> cipta
+cipta, langit, semayam, pohon --> bintang
+sungai, langit, tuhan, allah --> gunung
+sungai, langit, tuhan, gunung --> allah
+sungai, langit, tuhan, allah --> gunung
+gunung, langit, tuhan, allah --> sungai
+tumbuh, allah, kebun, langit --> air
+tumbuh, kebun, air, langit --> allah
+bintang, semayam, bumi, manusia --> pohon
+bintang, semayam, manusia, pohon --> bumi
+bintang, bumi, manusia, pohon --> semayam
+semayam, bumi, manusia, pohon --> bintang
+bintang, tuhan, cipta, semayam --> bumi
+bintang, tuhan, bumi, semayam --> cipta
+bintang, cipta, bumi, semayam --> tuhan
+cipta, bintang, langit, bumi --> manusia
+cipta, bintang, langit, manusia --> bumi
+cipta, bintang, bumi, manusia --> langit
+cipta, langit, bumi, manusia --> bintang
+bintang, langit, bumi, manusia --> cipta
+semayam, langit, bumi, manusia --> pohon
+semayam, langit, manusia, pohon --> bumi
+semayam, bumi, manusia, pohon --> langit
+langit, bumi, manusia, pohon --> semayam
+cipta, allah, hidup, kafir --> manusia
+cipta, allah, hidup, manusia --> kafir
+cipta, allah, kafir, manusia --> hidup
+cipta, hidup, kafir, manusia --> allah
+bintang, allah, langit, semayam --> pohon
+bintang, allah, langit, pohon --> semayam
+bintang, allah, semayam, pohon --> langit
+bintang, langit, semayam, pohon --> allah
+allah, langit, semayam, pohon --> bintang
+allah, bumi, kaum, siang --> malam
+allah, malam, kaum, siang --> bumi
+bumi, malam, kaum, siang --> allah
+manusia, langit, bumi, tuhan --> allah
+manusia, langit, tuhan, allah --> bumi
+allah, hidup, bumi, manusia --> kafir
+allah, hidup, bumi, kafir --> manusia
+allah, hidup, manusia, kafir --> bumi
+allah, bumi, manusia, kafir --> hidup
+hidup, bumi, manusia, kafir --> allah
+hidup, langit, bumi, kuasa --> mati
+hidup, langit, bumi, mati --> kuasa
+langit, bumi, kuasa, mati --> hidup
+allah, malam, kaum, siang --> tuhan
+allah, tuhan, kaum, siang --> malam
+malam, tuhan, kaum, siang --> allah
+gunung, langit, sungai, pohon --> allah
+gunung, langit, sungai, allah --> pohon
+gunung, langit, pohon, allah --> sungai
+bintang, cipta, langit, bumi --> semayam
+bintang, cipta, langit, semayam --> bumi
+bintang, cipta, bumi, semayam --> langit
+bintang, langit, bumi, semayam --> cipta
+cipta, langit, bumi, semayam --> bintang
+allah, langit, kafir, manusia --> kuasa
+allah, langit, kafir, kuasa --> manusia
+allah, langit, manusia, kuasa --> kafir
+langit, kafir, manusia, kuasa --> allah
+bintang, allah, langit, cipta --> pohon
+bintang, allah, langit, pohon --> cipta
+bintang, allah, cipta, pohon --> langit
+perintah, malam, kaum, siang --> tuhan
+perintah, tuhan, kaum, siang --> malam
+malam, tuhan, kaum, siang --> perintah
+manusia, langit, bumi, tuhan --> pohon
+manusia, langit, tuhan, pohon --> bumi
+manusia, bumi, tuhan, pohon --> langit
+langit, bumi, tuhan, pohon --> manusia
+bintang, cipta, tuhan, semayam --> allah
+bintang, cipta, tuhan, allah --> semayam
+bintang, tuhan, semayam, allah --> cipta
+tuhan, langit, bumi, semayam --> allah
+tuhan, langit, semayam, allah --> bumi
+cipta, manusia, langit, semayam --> bumi
+cipta, manusia, bumi, semayam --> langit
+cipta, langit, bumi, semayam --> manusia
+manusia, langit, bumi, semayam --> cipta
+cipta, semayam, langit, tuhan --> pohon
+cipta, semayam, tuhan, pohon --> langit
+cipta, langit, tuhan, pohon --> semayam
+semayam, langit, tuhan, pohon --> cipta
+bintang, langit, bumi, tuhan --> pohon
+bintang, langit, bumi, pohon --> tuhan
+bintang, langit, tuhan, pohon --> bumi
+bintang, bumi, tuhan, pohon --> langit
+langit, bumi, tuhan, pohon --> bintang
+tuhan, langit, manusia, semayam --> allah
+tuhan, langit, manusia, allah --> semayam
+tuhan, langit, semayam, allah --> manusia
+bintang, cipta, langit, manusia --> pohon
+bintang, cipta, langit, pohon --> manusia
+bintang, cipta, manusia, pohon --> langit
+bintang, langit, manusia, pohon --> cipta
+cipta, langit, manusia, pohon --> bintang
+bumi, langit, hidup, kuasa --> mati
+bumi, langit, hidup, mati --> kuasa
+langit, hidup, kuasa, mati --> bumi
+cipta, semayam, langit, manusia --> bumi
+cipta, semayam, bumi, manusia --> langit
+cipta, langit, bumi, manusia --> semayam
+semayam, langit, bumi, manusia --> cipta
+allah, langit, sungai, pohon --> gunung
+allah, langit, sungai, gunung --> pohon
+allah, langit, pohon, gunung --> sungai
+allah, tuhan, manusia, semayam --> pohon
+allah, tuhan, semayam, pohon --> manusia
+allah, manusia, semayam, pohon --> tuhan
+tuhan, manusia, semayam, pohon --> allah
+bintang, allah, tuhan, perintah --> siang
+bintang, allah, tuhan, siang --> perintah
+bintang, allah, perintah, siang --> tuhan
+allah, tuhan, perintah, siang --> bintang
+bintang, semayam, bumi, manusia --> tuhan
+bintang, semayam, bumi, tuhan --> manusia
+cipta, bintang, semayam, pohon --> manusia
+cipta, bintang, semayam, manusia --> pohon
+tumbuh, anggur, kebun, korma --> pohon
+tumbuh, anggur, kebun, pohon --> korma
+tumbuh, anggur, korma, pohon --> kebun
+tumbuh, kebun, korma, pohon --> anggur
+anggur, kebun, korma, pohon --> tumbuh
+jalan, bintang, kuasa, tuhan --> allah
+jalan, bintang, kuasa, allah --> tuhan
+jalan, bintang, tuhan, allah --> kuasa
+laut, langit, tuhan, air --> allah
+laut, langit, tuhan, allah --> air
+laut, langit, air, allah --> tuhan
+laut, tuhan, air, allah --> langit
+cipta, allah, kuasa, hidup --> bumi
+cipta, allah, kuasa, bumi --> hidup
+cipta, allah, hidup, bumi --> kuasa
+manusia, allah, langit, tuhan --> bintang
+cipta, allah, tuhan, pohon --> manusia
+cipta, allah, tuhan, manusia --> pohon
+cipta, bumi, langit, hidup --> allah
+cipta, bumi, hidup, allah --> langit
+bumi, langit, hidup, allah --> cipta
+cipta, allah, langit, bumi --> manusia
+cipta, allah, langit, manusia --> bumi
+cipta, allah, bumi, manusia --> langit
+cipta, langit, bumi, manusia --> allah
+allah, langit, bumi, manusia --> cipta
+cipta, allah, kuasa, kafir --> langit
+cipta, allah, kuasa, langit --> kafir
+cipta, kuasa, kafir, langit --> allah
+allah, kuasa, kafir, langit --> cipta
+cipta, kuasa, hidup, manusia --> langit
+cipta, kuasa, hidup, langit --> manusia
+cipta, kuasa, manusia, langit --> hidup
+kuasa, hidup, manusia, langit --> cipta
+bintang, cipta, manusia, allah --> tuhan
+bintang, cipta, tuhan, allah --> manusia
+bintang, manusia, tuhan, allah --> cipta
+allah, langit, bumi, tuhan --> pohon
+allah, langit, bumi, pohon --> tuhan
+allah, langit, tuhan, pohon --> bumi
+allah, bumi, tuhan, pohon --> langit
+langit, bumi, tuhan, pohon --> allah
+manusia, langit, tuhan, semayam --> allah
+manusia, langit, tuhan, allah --> semayam
+manusia, langit, semayam, allah --> tuhan
+manusia, tuhan, semayam, allah --> langit
+bintang, langit, bumi, semayam --> pohon
+bintang, langit, bumi, pohon --> semayam
+bintang, langit, semayam, pohon --> bumi
+bintang, bumi, semayam, pohon --> langit
+langit, bumi, semayam, pohon --> bintang
+perintah, tuhan, malam, kaum --> allah
+perintah, tuhan, malam, allah --> kaum
+perintah, tuhan, kaum, allah --> malam
+bumi, kafir, hidup, allah --> langit
+allah, langit, bumi, manusia --> kafir
+allah, langit, bumi, kafir --> manusia
+allah, bumi, manusia, kafir --> langit
+langit, bumi, manusia, kafir --> allah
+allah, kuasa, kafir, hidup --> langit
+allah, kuasa, kafir, langit --> hidup
+allah, kuasa, hidup, langit --> kafir
+bintang, tuhan, semayam, pohon --> allah
+bintang, tuhan, semayam, allah --> pohon
+bumi, kuasa, kafir, manusia --> langit
+kuasa, kafir, manusia, langit --> bumi
+allah, langit, kaum, siang --> malam
+cipta, allah, bumi, tuhan --> semayam
+cipta, allah, bumi, semayam --> tuhan
+cipta, allah, tuhan, semayam --> bumi
+allah, bumi, tuhan, semayam --> cipta
+cipta, manusia, bumi, tuhan --> pohon
+cipta, manusia, tuhan, pohon --> bumi
+cipta, bumi, tuhan, pohon --> manusia
+manusia, bumi, tuhan, pohon --> cipta
+allah, kuasa, hidup, manusia --> kafir
+allah, kuasa, hidup, kafir --> manusia
+allah, hidup, manusia, kafir --> kuasa
+kuasa, hidup, manusia, kafir --> allah
+allah, langit, kuasa, air --> pohon
+allah, langit, kuasa, pohon --> air
+allah, langit, air, pohon --> kuasa
+langit, kuasa, air, pohon --> allah
+laut, langit, tuhan, air --> pohon
+laut, langit, tuhan, pohon --> air
+laut, langit, air, pohon --> tuhan
+laut, tuhan, air, pohon --> langit
+langit, tuhan, air, pohon --> laut
+cipta, langit, bumi, tuhan --> pohon
+cipta, langit, bumi, pohon --> tuhan
+cipta, langit, tuhan, pohon --> bumi
+cipta, bumi, tuhan, pohon --> langit
+langit, bumi, tuhan, pohon --> cipta
+hidup, kuasa, bumi, langit --> air
+kuasa, bumi, langit, air --> hidup
+manusia, bumi, tuhan, semayam --> pohon
+manusia, bumi, tuhan, pohon --> semayam
+manusia, bumi, semayam, pohon --> tuhan
+manusia, tuhan, semayam, pohon --> bumi
+malam, kuasa, angin, siang --> kaum
+malam, kuasa, kaum, siang --> angin
+malam, angin, kaum, siang --> kuasa
+kuasa, angin, kaum, siang --> malam
+allah, kuasa, hidup, manusia --> langit
+allah, kuasa, hidup, langit --> manusia
+allah, kuasa, manusia, langit --> hidup
+kuasa, hidup, manusia, langit --> allah
+bumi, langit, hidup, allah --> kafir
+bumi, langit, hidup, kafir --> allah
+bumi, hidup, allah, kafir --> langit
+langit, bumi, malam, siang --> kaum
+langit, bumi, kaum, siang --> malam
+langit, malam, kaum, siang --> bumi
+bumi, malam, kaum, siang --> langit
+bumi, allah, langit, kafir --> manusia
+bumi, langit, kafir, manusia --> allah
+allah, langit, kafir, manusia --> bumi
+allah, langit, hidup, kuasa --> air
+allah, langit, hidup, air --> kuasa
+allah, langit, kuasa, air --> hidup
+langit, hidup, kuasa, air --> allah
+bintang, tuhan, langit, semayam --> allah
+bintang, tuhan, semayam, allah --> langit
+tuhan, langit, semayam, allah --> bintang
+allah, angin, kaum, siang --> malam
+bintang, allah, tuhan, pohon --> manusia
+bintang, allah, tuhan, manusia --> pohon
+allah, langit, kafir, kuasa --> hidup
+allah, langit, kafir, hidup --> kuasa
+bumi, kuasa, hidup, mati --> allah
+bumi, kuasa, hidup, allah --> mati
+cipta, bintang, langit, semayam --> allah
+cipta, bintang, langit, allah --> semayam
+cipta, bintang, semayam, allah --> langit
+cipta, semayam, bumi, manusia --> pohon
+cipta, semayam, manusia, pohon --> bumi
+cipta, bumi, manusia, pohon --> semayam
+semayam, bumi, manusia, pohon --> cipta
+cipta, bumi, kuasa, hidup --> allah
+cipta, bumi, hidup, allah --> kuasa
+bumi, kuasa, hidup, allah --> cipta
+tuhan, bumi, manusia, pohon --> allah
+tuhan, bumi, manusia, allah --> pohon
+bumi, langit, hidup, mati --> allah
+bumi, langit, hidup, allah --> mati
+bintang, cipta, bumi, tuhan --> semayam
+bintang, cipta, bumi, semayam --> tuhan
+bintang, cipta, tuhan, semayam --> bumi
+cipta, allah, langit, manusia --> kuasa
+cipta, allah, langit, kuasa --> manusia
+cipta, langit, manusia, kuasa --> allah
+allah, langit, manusia, kuasa --> cipta
+langit, bumi, kuasa, pohon --> air
+langit, bumi, kuasa, air --> pohon
+langit, kuasa, pohon, air --> bumi
+bintang, allah, kaum, perintah --> siang
+allah, siang, kaum, perintah --> bintang
+allah, bumi, manusia, semayam --> pohon
+allah, bumi, manusia, pohon --> semayam
+allah, bumi, semayam, pohon --> manusia
+allah, manusia, semayam, pohon --> bumi
+semayam, langit, bumi, manusia --> tuhan
+semayam, langit, bumi, tuhan --> manusia
+manusia, bumi, semayam, allah --> tuhan
+bintang, allah, tuhan, manusia --> semayam
+bintang, allah, tuhan, semayam --> manusia
+bintang, allah, manusia, semayam --> tuhan
+bintang, tuhan, manusia, semayam --> allah
+allah, tuhan, manusia, semayam --> bintang
+cipta, bintang, manusia, semayam --> pohon
+cipta, bintang, manusia, pohon --> semayam
+cipta, bintang, semayam, pohon --> manusia
+cipta, manusia, semayam, pohon --> bintang
+bintang, manusia, semayam, pohon --> cipta
+cipta, kuasa, bumi, langit --> kafir
+cipta, kuasa, bumi, kafir --> langit
+cipta, bumi, langit, kafir --> kuasa
+kuasa, bumi, langit, kafir --> cipta
+gunung, langit, tuhan, sungai --> allah
+gunung, langit, tuhan, allah --> sungai
+gunung, langit, sungai, allah --> tuhan
+manusia, langit, semayam, pohon --> allah
+allah, langit, semayam, pohon --> manusia
+cipta, allah, bumi, tuhan --> pohon
+cipta, allah, bumi, pohon --> tuhan
+cipta, allah, tuhan, pohon --> bumi
+cipta, bumi, tuhan, pohon --> allah
+allah, bumi, tuhan, pohon --> cipta
+bintang, semayam, tuhan, allah --> manusia
+bintang, semayam, tuhan, manusia --> allah
+semayam, bumi, tuhan, pohon --> allah
+semayam, bumi, tuhan, allah --> pohon
+semayam, tuhan, pohon, allah --> bumi
+bumi, kuasa, hidup, manusia --> kafir
+bumi, kuasa, hidup, kafir --> manusia
+bumi, hidup, manusia, kafir --> kuasa
+kuasa, hidup, manusia, kafir --> bumi
+cipta, manusia, bumi, semayam --> bintang
+cipta, manusia, semayam, bintang --> bumi
+langit, bumi, kuasa, air --> pohon
+langit, bumi, kuasa, pohon --> air
+langit, bumi, air, pohon --> kuasa
+langit, kuasa, air, pohon --> bumi
+allah, langit, bumi, manusia --> tuhan
+allah, langit, bumi, tuhan --> manusia
+allah, bumi, manusia, tuhan --> langit
+allah, langit, tuhan, air --> pohon
+allah, langit, tuhan, pohon --> air
+allah, langit, air, pohon --> tuhan
+allah, tuhan, air, pohon --> langit
+langit, tuhan, air, pohon --> allah
+allah, kuasa, hidup, langit --> kafir
+allah, kuasa, hidup, kafir --> langit
+kuasa, hidup, langit, kafir --> allah
+bintang, manusia, cipta, tuhan --> pohon
+bintang, manusia, tuhan, pohon --> cipta
+bintang, cipta, tuhan, pohon --> manusia
+bintang, semayam, langit, tuhan --> cipta
+bintang, semayam, cipta, tuhan --> langit
+malam, kuasa, kaum, siang --> air
+malam, kuasa, air, siang --> kaum
+malam, kaum, air, siang --> kuasa
+kuasa, kaum, air, siang --> malam
+manusia, bumi, semayam, pohon --> allah
+manusia, bumi, semayam, allah --> pohon
+manusia, semayam, pohon, allah --> bumi
+cipta, allah, bumi, manusia --> semayam
+cipta, allah, bumi, semayam --> manusia
+cipta, allah, manusia, semayam --> bumi
+allah, bumi, manusia, semayam --> cipta
+allah, langit, bumi, kuasa --> mati
+allah, langit, bumi, mati --> kuasa
+allah, langit, kuasa, mati --> bumi
+langit, bumi, kuasa, mati --> allah
+bintang, allah, bumi, cipta --> semayam
+bintang, allah, bumi, semayam --> cipta
+bintang, allah, cipta, semayam --> bumi
+bintang, tuhan, cipta, semayam --> pohon
+bintang, tuhan, semayam, pohon --> cipta
+allah, tuhan, kaum, perintah --> siang
+allah, tuhan, kaum, siang --> perintah
+allah, tuhan, perintah, siang --> kaum
+allah, kaum, perintah, siang --> tuhan
+bintang, tuhan, langit, semayam --> bumi
+bintang, tuhan, bumi, semayam --> langit
+bintang, langit, bumi, semayam --> tuhan
+tuhan, langit, bumi, semayam --> bintang
+hidup, langit, kafir, manusia --> kuasa
+hidup, langit, kafir, kuasa --> manusia
+langit, kafir, manusia, kuasa --> hidup
+cipta, allah, bumi, semayam --> manusia
+cipta, allah, bumi, manusia --> semayam
+cipta, allah, semayam, manusia --> bumi
+bintang, allah, langit, tuhan --> pohon
+bintang, allah, langit, pohon --> tuhan
+bintang, allah, tuhan, pohon --> langit
+bintang, langit, tuhan, pohon --> allah
+allah, langit, tuhan, pohon --> bintang
+bintang, semayam, langit, manusia --> cipta
+bintang, semayam, cipta, manusia --> langit
+bintang, allah, tuhan, kaum --> perintah
+bintang, allah, tuhan, perintah --> kaum
+bintang, allah, kaum, perintah --> tuhan
+allah, tuhan, kaum, perintah --> bintang
+hidup, langit, bumi, manusia --> kafir
+hidup, langit, bumi, kafir --> manusia
+hidup, bumi, manusia, kafir --> langit
+langit, bumi, manusia, kafir --> hidup
+angin, kuasa, kaum, siang --> malam
+kuasa, malam, kaum, siang --> angin
+cipta, allah, langit, bumi --> kafir
+cipta, allah, langit, kafir --> bumi
+cipta, allah, bumi, kafir --> langit
+cipta, langit, bumi, kafir --> allah
+allah, langit, bumi, kafir --> cipta
+jalan, bintang, kuasa, tuhan --> air
+jalan, bintang, kuasa, air --> tuhan
+jalan, bintang, tuhan, air --> kuasa
+jalan, kuasa, tuhan, air --> bintang
+bintang, kuasa, tuhan, air --> jalan
+cipta, allah, tuhan, manusia --> semayam
+cipta, allah, tuhan, semayam --> manusia
+cipta, allah, manusia, semayam --> tuhan
+cipta, tuhan, manusia, semayam --> allah
+allah, tuhan, manusia, semayam --> cipta
+cipta, allah, bumi, tuhan --> kafir
+cipta, allah, bumi, kafir --> tuhan
+cipta, bumi, tuhan, kafir --> allah
+allah, bumi, tuhan, kafir --> cipta
+cipta, tuhan, langit, semayam --> allah
+tuhan, langit, semayam, allah --> cipta
+bintang, cipta, manusia, semayam --> allah
+bintang, cipta, manusia, allah --> semayam
+bintang, manusia, semayam, allah --> cipta
+cipta, manusia, semayam, allah --> bintang
+bintang, cipta, bumi, tuhan --> allah
+bintang, cipta, bumi, allah --> tuhan
+bintang, cipta, tuhan, allah --> bumi
+angin, siang, kuasa, kaum --> air
+tuhan, langit, manusia, semayam --> pohon
+tuhan, langit, manusia, pohon --> semayam
+tuhan, langit, semayam, pohon --> manusia
+tuhan, manusia, semayam, pohon --> langit
+manusia, tuhan, bumi, semayam --> pohon
+manusia, tuhan, semayam, pohon --> bumi
+manusia, bumi, semayam, pohon --> tuhan
+tuhan, bumi, semayam, pohon --> manusia
+allah, langit, tuhan, sungai --> gunung
+allah, langit, tuhan, gunung --> sungai
+allah, langit, sungai, gunung --> tuhan
+tuhan, langit, sungai, pohon --> gunung
+tuhan, sungai, pohon, gunung --> langit
+allah, kuasa, kafir, manusia --> hidup
+allah, kuasa, kafir, hidup --> manusia
+cipta, manusia, bumi, semayam --> allah
+cipta, manusia, semayam, allah --> bumi
+manusia, bumi, semayam, allah --> cipta
+allah, hidup, bumi, langit --> kafir
+allah, hidup, bumi, kafir --> langit
+cipta, allah, langit, manusia --> pohon
+cipta, allah, langit, pohon --> manusia
+cipta, allah, manusia, pohon --> langit
+cipta, langit, manusia, pohon --> allah
+allah, langit, manusia, pohon --> cipta
+bumi, langit, hidup, kuasa --> allah
+bumi, langit, hidup, allah --> kuasa
+bumi, kafir, hidup, allah --> kuasa
+cipta, bintang, bumi, pohon --> allah
+cipta, bintang, bumi, allah --> pohon
+cipta, bintang, pohon, allah --> bumi
+cipta, tuhan, langit, semayam --> bintang
+cipta, allah, langit, kafir --> manusia
+cipta, allah, langit, manusia --> kafir
+cipta, allah, kafir, manusia --> langit
+cipta, langit, kafir, manusia --> allah
+allah, langit, kafir, manusia --> cipta
+allah, langit, tuhan, kaum --> pohon
+allah, langit, tuhan, pohon --> kaum
+allah, langit, kaum, pohon --> tuhan
+langit, tuhan, kaum, pohon --> allah
+cipta, semayam, manusia, bintang --> tuhan
+cipta, semayam, tuhan, bintang --> manusia
+cipta, manusia, tuhan, bintang --> semayam
+cipta, bumi, kuasa, hidup --> kafir
+cipta, bumi, kuasa, kafir --> hidup
+cipta, bumi, hidup, kafir --> kuasa
+cipta, kuasa, hidup, kafir --> bumi
+bumi, kuasa, hidup, kafir --> cipta
+bintang, cipta, langit, semayam --> manusia
+bintang, cipta, langit, manusia --> semayam
+bintang, tuhan, manusia, semayam --> allah
+bintang, tuhan, semayam, allah --> manusia
+bintang, manusia, semayam, allah --> tuhan
+cipta, manusia, langit, semayam --> pohon
+cipta, manusia, semayam, pohon --> langit
+cipta, langit, semayam, pohon --> manusia
+manusia, langit, semayam, pohon --> cipta
+bumi, langit, hidup, air --> allah
+bumi, langit, hidup, allah --> air
+cipta, allah, semayam, manusia --> bintang
+cipta, bintang, semayam, manusia --> allah
+cipta, allah, langit, tuhan --> bintang
+cipta, allah, langit, bintang --> tuhan
+cipta, allah, tuhan, bintang --> langit
+cipta, bumi, kuasa, hidup --> manusia
+cipta, bumi, hidup, manusia --> kuasa
+cipta, kuasa, hidup, manusia --> bumi
+bumi, kuasa, hidup, manusia --> cipta
+bumi, mati, hidup, allah --> langit
+allah, bumi, semayam, pohon --> tuhan
+cipta, tuhan, langit, manusia --> pohon
+cipta, tuhan, manusia, pohon --> langit
+cipta, langit, manusia, pohon --> tuhan
+tuhan, langit, manusia, pohon --> cipta
+tuhan, sungai, pohon, allah --> gunung
+cipta, allah, hidup, manusia --> kafir
+cipta, allah, hidup, kafir --> manusia
+cipta, hidup, manusia, kafir --> allah
+allah, hidup, manusia, kafir --> cipta
+bumi, allah, kuasa, hidup --> mati
+bumi, allah, hidup, mati --> kuasa
+bumi, kuasa, hidup, mati --> allah
+allah, kuasa, hidup, mati --> bumi
+bintang, allah, bumi, semayam --> manusia
+bintang, allah, bumi, manusia --> semayam
+bintang, allah, semayam, manusia --> bumi
+cipta, allah, kuasa, hidup --> langit
+cipta, allah, kuasa, langit --> hidup
+cipta, kuasa, hidup, langit --> allah
+allah, kuasa, hidup, langit --> cipta
+cipta, bintang, langit, semayam --> pohon
+cipta, bintang, langit, pohon --> semayam
+cipta, bintang, semayam, pohon --> langit
+cipta, langit, semayam, pohon --> bintang
+bintang, langit, semayam, pohon --> cipta
+bintang, manusia, bumi, semayam --> pohon
+bintang, manusia, semayam, pohon --> bumi
+bintang, bumi, semayam, pohon --> manusia
+manusia, bumi, semayam, pohon --> bintang
+bintang, allah, cipta, manusia --> tuhan
+bintang, allah, cipta, tuhan --> manusia
+bintang, manusia, bumi, semayam --> allah
+bintang, manusia, semayam, allah --> bumi
+manusia, bumi, semayam, allah --> bintang
+hidup, kuasa, bumi, allah --> kafir
+hidup, kuasa, bumi, kafir --> allah
+bintang, malam, kaum, siang --> tuhan
+bintang, tuhan, kaum, siang --> malam
+malam, tuhan, kaum, siang --> bintang
+bintang, manusia, bumi, tuhan --> semayam
+bintang, manusia, bumi, semayam --> tuhan
+bintang, manusia, tuhan, semayam --> bumi
+manusia, bumi, tuhan, semayam --> bintang
+manusia, bumi, tuhan, pohon --> allah
+allah, tuhan, malam, kaum --> perintah
+allah, tuhan, malam, perintah --> kaum
+allah, tuhan, kaum, perintah --> malam
+cipta, manusia, semayam, pohon --> allah
+cipta, manusia, semayam, allah --> pohon
+manusia, semayam, pohon, allah --> cipta
+cipta, allah, langit, kuasa --> air
+cipta, allah, langit, air --> kuasa
+cipta, langit, kuasa, air --> allah
+allah, langit, kuasa, air --> cipta
+bintang, jalan, tuhan, air --> allah
+bintang, jalan, tuhan, allah --> air
+bumi, allah, kuasa, kafir --> hidup
+bumi, allah, kuasa, hidup --> kafir
+allah, kuasa, kafir, hidup --> bumi
+cipta, tuhan, manusia, semayam --> allah
+cipta, tuhan, manusia, allah --> semayam
+cipta, manusia, semayam, allah --> tuhan
+semayam, langit, tuhan, pohon --> manusia
+semayam, langit, manusia, pohon --> tuhan
+semayam, tuhan, manusia, pohon --> langit
+tumbuh, allah, kebun, langit --> air
+tumbuh, allah, langit, air --> kebun
+tumbuh, kebun, langit, air --> allah
+bumi, kuasa, hidup, langit --> mati
+bumi, kuasa, hidup, mati --> langit
+kuasa, hidup, langit, mati --> bumi
+perintah, tuhan, allah, siang --> kaum
+perintah, tuhan, kaum, siang --> allah
+cipta, semayam, tuhan, manusia --> bintang
+cipta, bintang, tuhan, manusia --> semayam
+angin, siang, kuasa, kaum --> malam
+bintang, perintah, tuhan, allah --> siang
+bintang, perintah, tuhan, siang --> allah
+bintang, perintah, allah, siang --> tuhan
+perintah, tuhan, allah, siang --> bintang
+cipta, allah, langit, hidup --> kuasa
+cipta, allah, langit, kuasa --> hidup
+cipta, langit, hidup, kuasa --> allah
+allah, langit, hidup, kuasa --> cipta
+manusia, tuhan, cipta, semayam --> pohon
+manusia, tuhan, semayam, pohon --> cipta
+perintah, siang, kaum, allah --> malam
+bintang, allah, bumi, tuhan --> manusia
+bintang, allah, bumi, manusia --> tuhan
+bintang, allah, tuhan, manusia --> bumi
+bintang, allah, cipta, semayam --> manusia
+bintang, allah, cipta, manusia --> semayam
+bintang, allah, semayam, manusia --> cipta
+bumi, allah, kuasa, hidup --> manusia
+bumi, allah, hidup, manusia --> kuasa
+bumi, kuasa, hidup, manusia --> allah
+allah, kuasa, hidup, manusia --> bumi
+manusia, tuhan, langit, semayam --> cipta
+manusia, tuhan, cipta, semayam --> langit
+allah, hidup, bumi, kuasa --> mati
+allah, hidup, bumi, mati --> kuasa
+cipta, allah, hidup, bumi --> langit
+allah, hidup, bumi, langit --> cipta
+cipta, bintang, tuhan, semayam --> allah
+cipta, bintang, tuhan, allah --> semayam
+cipta, bintang, semayam, allah --> tuhan
+bintang, tuhan, semayam, allah --> cipta
+hidup, kuasa, bumi, allah --> air
+angin, siang, kuasa, kaum --> malam
+allah, kuasa, bumi, pohon --> air
+allah, bumi, air, pohon --> kuasa
+manusia, tuhan, bumi, semayam --> allah
+manusia, tuhan, semayam, allah --> bumi
+manusia, bumi, semayam, allah --> tuhan
+bintang, manusia, tuhan, semayam --> pohon
+bintang, manusia, tuhan, pohon --> semayam
+bintang, manusia, semayam, pohon --> tuhan
+bintang, tuhan, semayam, pohon --> manusia
+manusia, tuhan, semayam, pohon --> bintang
+bumi, langit, tunduk, matahari --> allah
+bintang, cipta, langit, bumi, tuhan --> pohon
+bintang, manusia, cipta, bumi, tuhan --> langit
+bintang, manusia, langit, bumi, tuhan --> cipta
+bintang, cipta, langit, bumi, tuhan --> manusia
+bintang, manusia, langit, bumi, tuhan --> semayam
+bintang, semayam, langit, bumi, tuhan --> manusia
+manusia, semayam, langit, bumi, tuhan --> bintang
+cipta, allah, langit, hidup, bumi --> kafir
+bintang, semayam, cipta, bumi, tuhan --> pohon
+manusia, allah, langit, bumi, tuhan --> cipta
+cipta, allah, langit, bumi, tuhan --> manusia
+bintang, perintah, allah, malam, siang --> kaum
+perintah, allah, tuhan, malam, siang --> kaum
+manusia, semayam, langit, bumi, tuhan --> allah
+manusia, allah, langit, bumi, tuhan --> semayam
+kuasa, hidup, manusia, langit, kafir --> allah
+bintang, perintah, allah, malam, siang --> tuhan
+bintang, perintah, tuhan, malam, siang --> allah
+bintang, allah, tuhan, malam, siang --> perintah
+perintah, allah, tuhan, malam, siang --> bintang
+bintang, semayam, cipta, bumi, tuhan --> langit
+bintang, semayam, langit, bumi, tuhan --> cipta
+bintang, cipta, langit, bumi, tuhan --> semayam
+cipta, allah, langit, bumi, tuhan --> semayam
+manusia, allah, langit, bumi, tuhan --> pohon
+bintang, manusia, cipta, bumi, tuhan --> semayam
+bintang, semayam, cipta, bumi, tuhan --> manusia
+bintang, allah, langit, bumi, tuhan --> pohon
+cipta, allah, langit, bumi, tuhan --> pohon
+bintang, perintah, tuhan, malam, siang --> kaum
+tumbuh, kebun, air, pohon, langit --> allah
+bintang, semayam, langit, bumi, tuhan --> allah
+bintang, allah, langit, bumi, tuhan --> semayam
+bintang, manusia, langit, bumi, tuhan --> pohon
+bintang, cipta, langit, bumi, tuhan --> allah
+bintang, allah, langit, bumi, tuhan --> cipta
+cipta, allah, langit, bumi, tuhan --> bintang
+bintang, manusia, langit, bumi, tuhan --> allah
+bintang, allah, langit, bumi, tuhan --> manusia
+manusia, allah, langit, bumi, tuhan --> bintang
+manusia, semayam, langit, bumi, tuhan --> pohon
+kuasa, hidup, manusia, langit, kafir --> cipta
+bintang, semayam, langit, bumi, tuhan --> pohon
+bintang, manusia, cipta, bumi, tuhan --> pohon
+bintang, allah, tuhan, malam, siang --> kaum
+manusia, semayam, langit, bumi, tuhan --> cipta
+allah, langit, bumi, malam, siang --> kaum
+cipta, allah, langit, bumi, tuhan --> kafir
+bintang, semayam, cipta, bumi, tuhan --> allah
+bintang, manusia, cipta, bumi, tuhan --> allah
+cipta, bintang, langit, bumi, manusia, pohon, tuhan --> semayam
+cipta, bintang, langit, bumi, manusia, pohon, semayam --> tuhan
+cipta, bintang, langit, bumi, manusia, tuhan, semayam --> pohon
+cipta, bintang, langit, manusia, pohon, tuhan, semayam --> bumi
+cipta, bintang, bumi, manusia, pohon, tuhan, semayam --> langit
+cipta, langit, bumi, manusia, pohon, tuhan, semayam --> bintang
+bintang, langit, bumi, manusia, pohon, tuhan, semayam --> cipta
+bintang, cipta, langit, bumi, tuhan, pohon, allah --> manusia
+bintang, cipta, langit, bumi, tuhan, pohon, manusia --> allah
+bintang, cipta, langit, bumi, tuhan, allah, manusia --> pohon
+bintang, cipta, langit, tuhan, pohon, allah, manusia --> bumi
+bintang, cipta, bumi, tuhan, pohon, allah, manusia --> langit
+bintang, cipta, langit, bumi, manusia, pohon, allah --> tuhan
+bintang, cipta, langit, bumi, manusia, pohon, tuhan --> allah
+bintang, cipta, langit, bumi, manusia, allah, tuhan --> pohon
+bintang, cipta, langit, manusia, pohon, allah, tuhan --> bumi
+bintang, cipta, bumi, manusia, pohon, allah, tuhan --> langit
+bintang, allah, langit, bumi, manusia, pohon, cipta --> semayam
+bintang, allah, langit, bumi, manusia, pohon, semayam --> cipta
+bintang, allah, langit, bumi, manusia, cipta, semayam --> pohon
+bintang, allah, langit, bumi, pohon, cipta, semayam --> manusia
+bintang, allah, bumi, manusia, pohon, cipta, semayam --> langit
+bintang, allah, bumi, manusia, pohon, tuhan, cipta --> semayam
+bintang, allah, bumi, manusia, pohon, tuhan, semayam --> cipta
+bintang, allah, bumi, manusia, pohon, cipta, semayam --> tuhan
+bintang, allah, bumi, manusia, tuhan, cipta, semayam --> pohon
+bintang, allah, langit, cipta, manusia, pohon, tuhan --> semayam
+bintang, allah, langit, cipta, manusia, pohon, semayam --> tuhan
+bintang, allah, langit, cipta, manusia, tuhan, semayam --> pohon
+bintang, allah, langit, manusia, pohon, tuhan, semayam --> cipta
+bintang, allah, cipta, manusia, pohon, tuhan, semayam --> langit
+bintang, allah, langit, bumi, tuhan, pohon, manusia --> semayam
+bintang, allah, langit, bumi, tuhan, pohon, semayam --> manusia
+bintang, allah, langit, bumi, tuhan, manusia, semayam --> pohon
+bintang, allah, langit, tuhan, pohon, manusia, semayam --> bumi
+bintang, allah, bumi, tuhan, pohon, manusia, semayam --> langit
+bintang, langit, bumi, tuhan, pohon, manusia, semayam --> allah
+allah, langit, bumi, tuhan, pohon, manusia, semayam --> bintang
+cipta, allah, langit, bumi, tuhan, pohon, bintang --> semayam
+cipta, allah, langit, bumi, tuhan, pohon, semayam --> bintang
+cipta, allah, langit, bumi, tuhan, bintang, semayam --> pohon
+cipta, allah, langit, bumi, pohon, bintang, semayam --> tuhan
+cipta, allah, langit, tuhan, pohon, bintang, semayam --> bumi
+cipta, allah, bumi, tuhan, pohon, bintang, semayam --> langit
+bintang, cipta, langit, bumi, tuhan, pohon, allah --> semayam
+bintang, cipta, langit, bumi, tuhan, pohon, semayam --> allah
+bintang, cipta, langit, bumi, tuhan, allah, semayam --> pohon
+bintang, cipta, langit, bumi, pohon, allah, semayam --> tuhan
+bintang, cipta, langit, tuhan, pohon, allah, semayam --> bumi
+bintang, cipta, bumi, tuhan, pohon, allah, semayam --> langit
+cipta, allah, langit, bumi, manusia, bintang, tuhan --> semayam
+cipta, allah, langit, bumi, manusia, bintang, semayam --> tuhan
+cipta, allah, langit, bumi, manusia, tuhan, semayam --> bintang
+cipta, allah, langit, manusia, bintang, tuhan, semayam --> bumi
+cipta, allah, bumi, manusia, bintang, tuhan, semayam --> langit
+bintang, cipta, langit, manusia, pohon, allah, tuhan --> semayam
+bintang, cipta, langit, manusia, pohon, allah, semayam --> tuhan
+bintang, cipta, langit, manusia, pohon, tuhan, semayam --> allah
+bintang, cipta, langit, manusia, allah, tuhan, semayam --> pohon
+bintang, cipta, manusia, pohon, allah, tuhan, semayam --> langit
+bintang, cipta, langit, bumi, manusia, allah, tuhan --> semayam
+bintang, cipta, langit, bumi, manusia, allah, semayam --> tuhan
+bintang, cipta, langit, bumi, manusia, tuhan, semayam --> allah
+bintang, cipta, langit, manusia, allah, tuhan, semayam --> bumi
+bintang, cipta, bumi, manusia, allah, tuhan, semayam --> langit
+bintang, cipta, langit, bumi, tuhan, pohon, manusia --> semayam
+bintang, cipta, langit, bumi, tuhan, pohon, semayam --> manusia
+bintang, cipta, langit, bumi, tuhan, manusia, semayam --> pohon
+bintang, cipta, langit, tuhan, pohon, manusia, semayam --> bumi
+bintang, cipta, bumi, tuhan, pohon, manusia, semayam --> langit
+bintang, langit, bumi, tuhan, pohon, manusia, semayam --> cipta
+cipta, langit, bumi, tuhan, pohon, manusia, semayam --> bintang
+cipta, allah, langit, hidup, manusia, kafir, bumi --> kuasa
+cipta, allah, langit, hidup, manusia, kafir, kuasa --> bumi
+cipta, allah, langit, hidup, manusia, bumi, kuasa --> kafir
+cipta, allah, langit, hidup, kafir, bumi, kuasa --> manusia
+cipta, langit, hidup, manusia, kafir, bumi, kuasa --> allah
+allah, langit, hidup, manusia, kafir, bumi, kuasa --> cipta
+cipta, allah, langit, bumi, tuhan, pohon, manusia --> semayam
+cipta, allah, langit, bumi, tuhan, pohon, semayam --> manusia
+cipta, allah, langit, bumi, tuhan, manusia, semayam --> pohon
+cipta, allah, langit, tuhan, pohon, manusia, semayam --> bumi
+cipta, allah, bumi, tuhan, pohon, manusia, semayam --> langit
+cipta, langit, bumi, tuhan, pohon, manusia, semayam --> allah
+allah, langit, bumi, tuhan, pohon, manusia, semayam --> cipta
+cipta, allah, kuasa, kafir, manusia, bumi, hidup --> langit
+cipta, allah, kuasa, kafir, manusia, bumi, langit --> hidup
+cipta, allah, kuasa, kafir, manusia, hidup, langit --> bumi
+cipta, allah, kuasa, kafir, bumi, hidup, langit --> manusia
+allah, kuasa, kafir, manusia, bumi, hidup, langit --> cipta
+bintang, cipta, langit, bumi, manusia, pohon, allah --> semayam
+bintang, cipta, langit, bumi, manusia, pohon, semayam --> allah
+bintang, cipta, langit, bumi, manusia, allah, semayam --> pohon
+bintang, cipta, langit, bumi, pohon, allah, semayam --> manusia
+bintang, cipta, langit, manusia, pohon, allah, semayam --> bumi
+bintang, cipta, bumi, manusia, pohon, allah, semayam --> langit
+cipta, allah, kuasa, hidup, manusia, kafir, bumi --> langit
+cipta, allah, kuasa, hidup, manusia, kafir, langit --> bumi
+cipta, allah, kuasa, hidup, manusia, bumi, langit --> kafir
+cipta, allah, kuasa, hidup, kafir, bumi, langit --> manusia
+cipta, kuasa, hidup, manusia, kafir, bumi, langit --> allah
+allah, kuasa, hidup, manusia, kafir, bumi, langit --> cipta
+bintang, cipta, langit, bumi, manusia, pohon, tuhan --> semayam
+bintang, cipta, langit, bumi, manusia, pohon, semayam --> tuhan
+bintang, cipta, langit, bumi, manusia, tuhan, semayam --> pohon
+bintang, cipta, langit, manusia, pohon, tuhan, semayam --> bumi
+bintang, cipta, bumi, manusia, pohon, tuhan, semayam --> langit
+bintang, langit, bumi, manusia, pohon, tuhan, semayam --> cipta
+cipta, langit, bumi, manusia, pohon, tuhan, semayam --> bintang
+cipta, allah, langit, bumi, manusia, pohon, bintang --> tuhan
+cipta, allah, langit, bumi, manusia, pohon, tuhan --> bintang
+cipta, allah, langit, bumi, manusia, bintang, tuhan --> pohon
+cipta, allah, langit, manusia, pohon, bintang, tuhan --> bumi
+cipta, allah, bumi, manusia, pohon, bintang, tuhan --> langit
+cipta, hidup, kuasa, kafir, manusia, allah, bumi --> langit
+cipta, hidup, kuasa, kafir, manusia, bumi, langit --> allah
+hidup, kuasa, kafir, manusia, allah, bumi, langit --> cipta
+cipta, allah, langit, bumi, manusia, pohon, bintang --> semayam
+cipta, allah, langit, bumi, manusia, pohon, semayam --> bintang
+cipta, allah, langit, bumi, manusia, bintang, semayam --> pohon
+cipta, allah, langit, bumi, pohon, bintang, semayam --> manusia
+cipta, allah, langit, manusia, pohon, bintang, semayam --> bumi
+cipta, allah, bumi, manusia, pohon, bintang, semayam --> langit
+cipta, allah, bumi, manusia, pohon, bintang, tuhan --> semayam
+cipta, allah, bumi, manusia, pohon, bintang, semayam --> tuhan
+cipta, allah, bumi, manusia, pohon, tuhan, semayam --> bintang
+cipta, allah, bumi, manusia, bintang, tuhan, semayam --> pohon
+cipta, allah, manusia, pohon, bintang, tuhan, semayam --> bumi
+cipta, allah, langit, manusia, pohon, bintang, tuhan --> semayam
+cipta, allah, langit, manusia, pohon, bintang, semayam --> tuhan
+cipta, allah, langit, manusia, pohon, tuhan, semayam --> bintang
+cipta, allah, langit, manusia, bintang, tuhan, semayam --> pohon
+cipta, allah, manusia, pohon, bintang, tuhan, semayam --> langit
+bintang, cipta, bumi, manusia, pohon, allah, tuhan --> semayam
+bintang, cipta, bumi, manusia, pohon, allah, semayam --> tuhan
+bintang, cipta, bumi, manusia, pohon, tuhan, semayam --> allah
+bintang, cipta, bumi, manusia, allah, tuhan, semayam --> pohon
+bintang, cipta, manusia, pohon, allah, tuhan, semayam --> bumi
+bintang, allah, langit, bumi, tuhan, pohon, cipta --> semayam
+bintang, allah, langit, bumi, tuhan, pohon, semayam --> cipta
+bintang, allah, langit, bumi, tuhan, cipta, semayam --> pohon
+bintang, allah, langit, bumi, pohon, cipta, semayam --> tuhan
+bintang, allah, bumi, tuhan, pohon, cipta, semayam --> langit
+bintang, cipta, langit, tuhan, pohon, allah, manusia --> semayam
+bintang, cipta, langit, tuhan, pohon, allah, semayam --> manusia
+bintang, cipta, langit, tuhan, pohon, manusia, semayam --> allah
+bintang, cipta, langit, tuhan, allah, manusia, semayam --> pohon
+bintang, cipta, tuhan, pohon, allah, manusia, semayam --> langit
+bintang, cipta, langit, bumi, tuhan, allah, manusia --> semayam
+bintang, cipta, langit, bumi, tuhan, allah, semayam --> manusia
+bintang, cipta, langit, bumi, tuhan, manusia, semayam --> allah
+bintang, cipta, langit, tuhan, allah, manusia, semayam --> bumi
+bintang, cipta, bumi, tuhan, allah, manusia, semayam --> langit
+bintang, allah, langit, bumi, manusia, pohon, tuhan --> cipta
+bintang, allah, langit, bumi, manusia, pohon, cipta --> tuhan
+bintang, allah, langit, bumi, manusia, tuhan, cipta --> pohon
+bintang, allah, bumi, manusia, pohon, tuhan, cipta --> langit
+cipta, allah, langit, bumi, manusia, pohon, tuhan --> semayam
+cipta, allah, langit, bumi, manusia, pohon, semayam --> tuhan
+cipta, allah, langit, bumi, manusia, tuhan, semayam --> pohon
+cipta, allah, langit, manusia, pohon, tuhan, semayam --> bumi
+cipta, allah, bumi, manusia, pohon, tuhan, semayam --> langit
+cipta, langit, bumi, manusia, pohon, tuhan, semayam --> allah
+allah, langit, bumi, manusia, pohon, tuhan, semayam --> cipta
+bintang, allah, langit, bumi, manusia, tuhan, cipta --> semayam
+bintang, allah, langit, bumi, manusia, tuhan, semayam --> cipta
+bintang, allah, langit, bumi, manusia, cipta, semayam --> tuhan
+bintang, allah, langit, bumi, tuhan, cipta, semayam --> manusia
+bintang, allah, bumi, manusia, tuhan, cipta, semayam --> langit
+bintang, allah, langit, bumi, manusia, pohon, tuhan --> semayam
+bintang, allah, langit, bumi, manusia, pohon, semayam --> tuhan
+bintang, allah, langit, bumi, manusia, tuhan, semayam --> pohon
+bintang, allah, langit, manusia, pohon, tuhan, semayam --> bumi
+bintang, allah, bumi, manusia, pohon, tuhan, semayam --> langit
+bintang, langit, bumi, manusia, pohon, tuhan, semayam --> allah
+allah, langit, bumi, manusia, pohon, tuhan, semayam --> bintang
+bintang, cipta, bumi, tuhan, pohon, allah, manusia --> semayam
+bintang, cipta, bumi, tuhan, pohon, allah, semayam --> manusia
+bintang, cipta, bumi, tuhan, pohon, manusia, semayam --> allah
+bintang, cipta, bumi, tuhan, allah, manusia, semayam --> pohon
+bintang, cipta, tuhan, pohon, allah, manusia, semayam --> bumi

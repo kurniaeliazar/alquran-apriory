@@ -1,0 +1,100 @@
+{allah, janji}
+{allah, ganti}
+{allah, miskin}
+{rezki, hamba}
+{sembunyi, nafkah}
+{jalan, terang}
+{siang, malam}
+{sedekah, terima}
+{rezki, nafkah}
+{allah, suruh}
+{allah, barangsiapa}
+{sembunyi, jalan}
+{rezki, jalan}
+{allah, mati}
+{allah, timpa}
+{allah, barang}
+{rezki, terang}
+{allah, aniaya}
+{sembunyi, terang}
+{allah, niscaya}
+{beli, jual}
+{allah, kaya}
+{allah, yatim}
+{tuhan, terang}
+{allah, kafir}
+{allah, sayang}
+{allah, terang}
+{allah, sempurna}
+{allah, balas}
+{allah, tuhan}
+{allah, dosa}
+{sembunyi, kerabat}
+{nafkah, shalat}
+{nafkah, terang}
+{allah, keridhaan}
+{kerabat, yatim}
+{rezki, shalat}
+{allah, takwa}
+{allah, kelak}
+{allah, manusia}
+{beli, jalan}
+{miskin, yatim}
+{wasiat, kerabat}
+{tuhan, sembunyi}
+{pahala, kerabat}
+{nafkah, keridhaan}
+{harta, yatim, miskin}
+{dosa, allah, saksi}
+{allah, terima, sakit}
+{allah, sedekah, suka}
+{allah, nafkah, rezki}
+{harta, allah, jiwa}
+{harta, kuasa, allah}
+{nafkah, rezki, sebahagian}
+{allah, jalan, beli}
+{harta, allah, belanja}
+{harta, allah, hasil}
+{harta, belanja, allah}
+{allah, waris, tinggal}
+{terang, allah, jalan}
+{dosa, allah, hutang}
+{terang, allah, nafkah}
+{harta, allah, sedekah}
+{allah, saksi, batas}
+{allah, sedekah, pahala}
+{harta, allah, bayar}
+{nafkah, hamba, rezki}
+{harta, allah, kuasa}
+{harta, allah, jalan, jihad}
+{jalan, nafkah, rugi, allah}
+{terang, shalat, nafkah, rezki}
+{shalat, terang, nafkah, rezki}
+{harta, allah, nafkah, usaha}
+{harta, allah, wasiat, tinggal}
+{terang, nafkah, sembunyi, rezki}
+{allah, perempuan, bayar, hutang}
+{allah, nafkah, jalan, rugi}
+{allah, kerabat, wasiat, jalan}
+{allah, kerabat, jalan, sembunyi}
+{kafir, allah, harta, sedekah}
+{harta, allah, jalan, rezki}
+{allah, kerabat, jalan, pahala, nafkah}
+{allah, nafkah, kerabat, jalan, pahala}
+{allah, nafkah, jalan, kerabat, pahala}
+{harta, allah, kerabat, nafkah, pahala}
+{harta, allah, nafkah, jalan, kerabat}
+{allah, kerabat, jalan, nafkah, pahala}
+{harta, kerabat, nafkah, jalan, pahala}
+{harta, allah, nafkah, terima, pahala}
+{harta, allah, kerabat, jalan, pahala}
+{harta, allah, nafkah, kerabat, pahala}
+{harta, allah, kerabat, pahala, nafkah}
+{harta, allah, kerabat, jalan, nafkah}
+{harta, allah, terima, nafkah, pahala}
+{harta, allah, terima, pahala, nafkah}
+{harta, kerabat, jalan, pahala, nafkah}
+{harta, nafkah, jalan, kerabat, pahala}
+{harta, kerabat, jalan, nafkah, pahala}
+{harta, allah, nafkah, jalan, pahala}
+{kerabat, pahala, harta, allah, nafkah, jalan}

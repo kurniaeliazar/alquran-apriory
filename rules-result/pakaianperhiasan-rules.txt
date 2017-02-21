@@ -1,0 +1,57 @@
+allah --> perempuan
+perempuan --> allah
+pakai --> hias
+hias --> pakai
+henti --> allah
+isteri --> nabi
+nabi --> isteri
+nabi --> allah
+milik --> perempuan
+perempuan --> milik
+hias --> perempuan
+perempuan --> hias
+judi --> allah
+isteri --> perempuan
+perempuan --> isteri
+milik --> saudara
+milik --> allah
+pakai --> allah
+aurat --> allah
+khamar --> judi
+judi --> khamar
+suruh --> allah
+takwa --> allah
+aurat --> hias
+hias --> aurat
+malu --> allah
+tabir --> nabi
+nabi --> tabir
+perempuan --> saudara
+mudah --> allah
+allah, isteri --> perempuan
+allah, hias --> pakai
+allah, hias --> perempuan
+allah, terang --> dosa
+dosa, terang --> allah
+allah, ganggu --> isteri
+allah, isteri --> ganggu
+ganggu, isteri --> allah
+dosa, allah --> terang
+dosa, terang --> allah
+allah, terang --> dosa
+nabi, tabir, isteri --> allah
+nabi, allah, isteri --> tabir
+tabir, allah, isteri --> nabi
+tutup, allah, hias --> aurat
+tutup, allah, aurat --> hias
+tutup, hias, aurat --> allah
+allah, hias, aurat --> tutup
+nabi, allah, tabir --> isteri
+nabi, allah, isteri --> tabir
+nabi, tabir, isteri --> allah
+allah, tabir, isteri --> nabi
+laki, perempuan, allah, saudara --> milik
+laki, perempuan, allah, milik --> saudara
+laki, perempuan, saudara, milik --> allah
+laki, allah, saudara, milik --> perempuan
+perempuan, allah, saudara, milik --> laki

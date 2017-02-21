@@ -1,0 +1,70 @@
+{menep, nilai}
+{ilmu, mahar}
+{rumah, meni}
+{bahagia, malam}
+{sedia, juang}
+{tawar, wanita}
+{pilih, damping}
+{ekonomi, jinabah}
+{rumah, hubung}
+{intim, rumah}
+{intim, hubung}
+{istri, shalat}
+{urus, damping}
+{bumi, suci}
+{mubazir, undang}
+{intim, tinggal}
+{amal, shalih}
+{halal, ancam}
+{laki, wanita}
+{pasca, tangga}
+{jenjang, malam}
+{az, zahra}
+{pilih, meni}
+{istri, parfum}
+{keluarga, hancur}
+{cinta, agung}
+{suami, istri}
+{selisih, agama}
+{jima, posisi}
+{pulang, hants}
+{akad, damping}
+{psikis, sifat}
+{laki, beda}
+{tinggal, hubung}
+{cerai, rumah}
+{psikis, wanita}
+{zahra, fathimatuz}
+{malu, hamil}
+{kursif, didik}
+{rukun, agama}
+{pergi, dadak}
+{muka, cenderung}
+{menep, sosial}
+{nilai, sosial}
+{sulit, tumbuh, proses}
+{sosial, nilai, menep}
+{agama, selisih, rukun}
+{persepsi, allah, calon}
+{zafaf, wanita, laki}
+{perkara, prinsip, wadag}
+{wanita, zafaf, laki}
+{hati, cantik, wall}
+{janabah, jinabah, ekonomi}
+{ancam, halal, malu}
+{peremption, rumah, tinggal}
+{proses, tumbuh, sulit}
+{calon, allah, persepsi}
+{cantik, hati, wall}
+{istri, pinang, syarat}
+{tumbuh, proses, sulit}
+{istri, meni, rumah, orangtua}
+{pinang, rumah, wanita, kontrak}
+{kontrak, rumah, wanita, pinang}
+{istri, suami, didik, kursif, bicara}
+{milik, hamil, butuh, haid, malu}
+{istri, sifat, cenderung, muka, suami}
+{meni, damping, pilih, akad, urus}
+{milik, haid, butuh, hamil, malu}
+{istri, suami, cenderung, muka, sifat}
+{istri, hubung, rumah, tinggal, intim}

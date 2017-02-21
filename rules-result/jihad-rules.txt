@@ -1,0 +1,141 @@
+dunia --> akhirat
+akhirat --> dunia
+musyrikin --> allah
+mati --> allah
+menang --> allah
+nikmat --> allah
+jiwa --> jihad
+golong --> allah
+dosa --> allah
+bijaksana --> allah
+siksa --> allah
+jiwa --> harta
+kaum --> allah
+kuasa --> allah
+urus --> allah
+keras --> kafir
+sayang --> allah
+mukmin --> allah
+jiwa --> jalan
+tinggal --> allah
+tuhan --> allah
+karunia --> allah
+niscaya --> allah
+manusia --> allah
+tolong --> kafir
+kaum --> kafir
+lampau --> batas
+tolong --> jalan
+balas --> allah
+muka --> bumi
+bumi --> muka
+takwa --> allah
+timpa --> allah
+kaum --> perang
+hati --> allah
+perang, kafir --> niscaya
+perang, keras --> allah
+allah, keras --> perang
+allah, bunuh --> jalan
+jalan, bunuh --> allah
+allah, surga --> jalan
+jalan, surga --> allah
+allah, akhirat --> dunia
+allah, dunia --> akhirat
+perang, agama --> allah
+allah, agama --> perang
+perang, agama --> allah
+perang, kafir --> keras
+perang, keras --> kafir
+perang, aniaya --> allah
+allah, aniaya --> perang
+allah, hidup --> dunia
+allah, dunia --> hidup
+hidup, dunia --> allah
+agama, tolong --> allah
+allah, tolong --> agama
+allah, kafir --> niscaya
+allah, tolong --> jalan
+kaum, jalan --> allah
+perang, bumi --> allah
+allah, bumi --> perang
+perang, niscaya --> kafir
+perang, kafir --> niscaya
+perang, pahala, jalan --> allah
+perang, pahala, allah --> jalan
+pahala, jalan, allah --> perang
+perang, allah, jalan --> rasul
+perang, allah, rasul --> jalan
+allah, jalan, rasul --> perang
+allah, harta, jalan --> rasul
+allah, harta, rasul --> jalan
+allah, jalan, rasul --> harta
+rasul, jalan, jihad --> allah
+rasul, jalan, allah --> jihad
+rasul, jihad, allah --> jalan
+perang, allah, jalan --> niscaya
+perang, allah, kafir --> rasul
+perang, allah, rasul --> kafir
+allah, kafir, rasul --> perang
+perang, allah, kafir --> lemah
+perang, allah, lemah --> kafir
+perang, kafir, lemah --> allah
+allah, kafir, lemah --> perang
+perang, rasul, kafir --> allah
+perang, rasul, allah --> kafir
+rasul, kafir, allah --> perang
+rasul, harta, jalan --> allah
+rasul, jalan, allah --> harta
+perang, allah, suka --> rasul
+perang, allah, rasul --> suka
+allah, suka, rasul --> perang
+perang, rasul, jalan --> allah
+perang, rasul, allah --> jalan
+rasul, jalan, allah --> perang
+allah, jalan, jihad --> rasul
+allah, jalan, rasul --> jihad
+allah, jihad, rasul --> jalan
+perang, rasul, suka --> allah
+perang, rasul, allah --> suka
+rasul, suka, allah --> perang
+allah, harta, jalan --> benda
+allah, harta, benda --> jalan
+allah, jalan, benda --> harta
+harta, jalan, benda --> allah
+perang, allah, jalan --> kafir
+perang, allah, kafir --> jalan
+perang, jalan, kafir --> allah
+allah, jalan, kafir --> perang
+perang, allah, jalan --> suka
+perang, allah, suka --> jalan
+perang, jalan, suka --> allah
+allah, jalan, suka --> perang
+niscaya, perang, jalan --> allah
+allah, jalan, suka --> rasul
+allah, jalan, rasul --> suka
+allah, suka, rasul --> jalan
+niscaya, allah, perang --> jalan
+niscaya, allah, jalan --> perang
+niscaya, perang, jalan --> allah
+perang, allah, harta --> jalan
+perang, allah, jalan --> harta
+perang, harta, jalan --> allah
+allah, harta, jalan --> perang
+perang, niscaya, jalan --> allah
+niscaya, allah, jalan --> perang
+niscaya, allah, perang --> jalan
+perang, allah, jalan --> pahala
+perang, allah, pahala --> jalan
+allah, jalan, pahala --> perang
+perang, allah, jalan --> amal
+perang, allah, amal --> jalan
+perang, jalan, amal --> allah
+allah, jalan, amal --> perang
+rasul, jalan, suka --> allah
+rasul, jalan, allah --> suka
+rasul, suka, allah --> jalan
+allah, harta, jalan, jihad --> jiwa
+allah, harta, jalan, jiwa --> jihad
+allah, harta, jihad, jiwa --> jalan
+allah, jalan, jihad, jiwa --> harta
+harta, jalan, jihad, jiwa --> allah

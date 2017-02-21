@@ -1,0 +1,98 @@
+{alaihi, sedekah}
+{sehat, allah}
+{sore, adam}
+{hadits, wassalam}
+{hr, rakaat}
+{wassalam, shallahu}
+{shallahu, laksana}
+{dhuha, subhanahu}
+{taala, subhanahu}
+{sabda, nabi}
+{aljami, rakaat}
+{alaihi, laksana}
+{tubuh, sedekah}
+{shahih, aljami}
+{dhuha, tubuh}
+{wassalam, nabi}
+{sabda, alaihi}
+{sholat, hr}
+{dhuha, pahala}
+{sore, rakaat}
+{hadits, shallahu}
+{sholat, subhanahu}
+{moga, laksana}
+{rumah, surga}
+{adam, rakaat}
+{nikmat, allah}
+{dhuha, jalan}
+{syukur, allah}
+{wassalam, muhammad}
+{shahih, rakaat}
+{kasih, allah}
+{wassalam, laksana}
+{rasulullah, laksana}
+{allah, rakaat}
+{sabda, shallahu}
+{allah, nikmat, sehat}
+{shalat, dhuha, allah}
+{dhuha, hr, allah}
+{rakaat, adam, sore}
+{rakaat, dhuha, hr}
+{shalat, surga, rumah, dhuha}
+{shalat, dhuha, rumah, surga}
+{shalat, laksana, istimewa, dhuha}
+{pahala, dhuha, rakaat, allah}
+{pahala, rakaat, allah, dhuha}
+{pahala, rakaat, dhuha, allah}
+{shalat, rakaat, aljami, shahih}
+{rakaat, dhuha, pahala, allah}
+{surga, shalat, rumah, dhuha}
+{shalat, dhuha, istimewa, laksana}
+{dhuha, sedekah, tubuh, allah}
+{rakaat, shalat, aljami, shahih}
+{surga, dhuha, rumah, shalat}
+{subhanahu, taala, allah, dhuha, sholat}
+{dhuha, shallahu, alaihi, rasulullah, sholat}
+{subhanahu, taala, dhuha, sholat, allah}
+{dhuha, shallahu, wassalam, alaihi, hadits}
+{shallahu, wassalam, alaihi, sahabat, rasulullah}
+{subhanahu, sholat, dhuha, taala, allah}
+{muhammad, shallahu, wassalam, alaihi, rasulullah}
+{shalat, dhuha, shallahu, hadits, alaihi}
+{dhuha, shallahu, wassalam, hadits, alaihi}
+{sholat, shallahu, alaihi, rasulullah, dhuha}
+{shalat, dhuha, shallahu, alaihi, hadits}
+{shalat, dhuha, wassalam, alaihi, hadits}
+{subhanahu, dhuha, sholat, taala, allah}
+{dhuha, shallahu, wassalam, rasulullah, sholat}
+{sholat, shallahu, wassalam, alaihi, dhuha}
+{shallahu, wassalam, sedekah, alaihi, rasulullah}
+{shalat, shallahu, wassalam, hadits, alaihi}
+{subhanahu, sholat, allah, taala, dhuha}
+{sholat, shallahu, wassalam, rasulullah, dhuha}
+{subhanahu, dhuha, allah, taala, sholat}
+{shallahu, wassalam, sahabat, rasulullah, alaihi}
+{sholat, wassalam, alaihi, rasulullah, dhuha}
+{shallahu, wassalam, rasulullah, sahabat, alaihi}
+{dhuha, shallahu, wassalam, hadits, rasulullah}
+{dhuha, shallahu, alaihi, rasulullah, hadits}
+{dhuha, wassalam, hadits, rasulullah, alaihi}
+{shallahu, wassalam, alaihi, rasulullah, hadits}
+{laksana, shallahu, wassalam, alaihi, rasulullah}
+{subhanahu, dhuha, taala, sholat, allah}
+{nabi, shallahu, wassalam, alaihi, sabda}
+{dhuha, wassalam, alaihi, rasulullah, hadits}
+{dhuha, shallahu, wassalam, alaihi, sholat}
+{sahabat, shallahu, wassalam, alaihi, rasulullah}
+{shalat, shallahu, wassalam, alaihi, hadits}
+{shalat, dhuha, wassalam, hadits, alaihi}
+{shallahu, wassalam, hadits, rasulullah, alaihi}
+{subhanahu, sholat, allah, dhuha, taala}
+{shalat, dhuha, shallahu, wassalam, hadits}
+{dhuha, shallahu, hadits, rasulullah, alaihi}
+{dhuha, wassalam, alaihi, rasulullah, sholat}
+{subhanahu, dhuha, allah, sholat, taala}
+{subhanahu, taala, allah, sholat, dhuha}
+{sholat, dhuha, shallahu, wassalam, alaihi, rasulullah}
+{hadits, dhuha, shallahu, wassalam, alaihi, rasulullah}
+{hadits, shalat, dhuha, shallahu, wassalam, alaihi}

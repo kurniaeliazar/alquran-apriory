@@ -1,0 +1,28 @@
+{perempuan, takwa}
+{isteri, laki}
+{allah, sayang}
+{allah, hukum}
+{dosa, isteri}
+{perempuan, wanita}
+{allah, niscaya}
+{allah, saudara}
+{perempuan, milik}
+{allah, tuhan}
+{allah, jalan}
+{allah, suami}
+{allah, pelihara}
+{allah, yatim}
+{allah, dosa}
+{isteri, suami}
+{kawin, laki}
+{allah, isteri, cerai}
+{perempuan, kawin, awin}
+{cerai, isteri, allah}
+{perempuan, cerai, allah}
+{allah, laki, wanita}
+{takwa, isteri, allah}
+{allah, isteri, takwa}
+{allah, laki, kawin}
+{perempuan, hati, isteri}
+{perempuan, allah, isteri, hati}
+{perempuan, allah, laki, isteri}

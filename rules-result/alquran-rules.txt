@@ -1,0 +1,9 @@
+barangsiapa --> allah
+jalan --> allah
+kafir --> allah
+quran, tuhan --> allah
+allah, tuhan --> quran
+quran, allah, kitab --> turun
+quran, allah, turun --> kitab
+quran, kitab, turun --> allah
+allah, kitab, turun --> quran

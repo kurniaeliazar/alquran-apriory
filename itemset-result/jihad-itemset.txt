@@ -1,0 +1,89 @@
+{dunia, akhirat}
+{allah, musyrikin}
+{jalan, harta}
+{allah, mati}
+{allah, musuh}
+{allah, menang}
+{allah, nikmat}
+{jiwa, jihad}
+{allah, golong}
+{allah, dosa}
+{perang, jihad}
+{kafir, niscaya}
+{allah, bijaksana}
+{allah, siksa}
+{perang, mukmin}
+{jiwa, harta}
+{allah, kaum}
+{allah, kuasa}
+{allah, urus}
+{keras, kafir}
+{allah, sayang}
+{allah, mukmin}
+{perang, musuh}
+{jiwa, jalan}
+{allah, tinggal}
+{allah, tuhan}
+{allah, karunia}
+{allah, takut}
+{allah, sabar}
+{allah, niscaya}
+{allah, manusia}
+{tolong, kafir}
+{suka, jalan}
+{kaum, kafir}
+{batas, lampau}
+{jalan, tolong}
+{kafir, musuh}
+{allah, balas}
+{muka, bumi}
+{allah, batas}
+{allah, takwa}
+{jalan, niscaya}
+{allah, timpa}
+{perang, kaum}
+{allah, janji}
+{allah, hati}
+{niscaya, perang, kafir}
+{perang, allah, keras}
+{allah, jalan, bunuh}
+{allah, jalan, surga}
+{allah, akhirat, dunia}
+{perang, allah, agama}
+{perang, agama, allah}
+{perang, kafir, keras}
+{perang, allah, aniaya}
+{allah, hidup, dunia}
+{agama, allah, tolong}
+{agama, allah, perang}
+{niscaya, allah, kafir}
+{allah, tolong, jalan}
+{kaum, allah, jalan}
+{perang, allah, bumi}
+{perang, niscaya, kafir}
+{perang, pahala, jalan, allah}
+{perang, allah, jalan, rasul}
+{allah, harta, jalan, rasul}
+{rasul, jalan, jihad, allah}
+{perang, allah, jalan, niscaya}
+{perang, allah, kafir, rasul}
+{perang, allah, kafir, lemah}
+{perang, rasul, kafir, allah}
+{rasul, harta, jalan, allah}
+{perang, allah, suka, rasul}
+{perang, rasul, jalan, allah}
+{allah, jalan, jihad, rasul}
+{perang, rasul, suka, allah}
+{allah, harta, jalan, benda}
+{perang, allah, jalan, kafir}
+{perang, allah, jalan, suka}
+{niscaya, perang, jalan, allah}
+{allah, jalan, suka, rasul}
+{niscaya, allah, perang, jalan}
+{perang, allah, harta, jalan}
+{perang, niscaya, jalan, allah}
+{niscaya, allah, jalan, perang}
+{perang, allah, jalan, pahala}
+{perang, allah, jalan, amal}
+{rasul, jalan, suka, allah}
+{allah, harta, jalan, jihad, jiwa}

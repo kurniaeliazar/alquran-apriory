@@ -1,0 +1,182 @@
+ternak --> binatang
+tuhan --> allah
+rezki --> binatang
+terang --> allah
+rezki --> sembelih
+tuhan --> binatang
+ayat --> allah
+terang --> haram
+syukur --> allah
+allah, ternak --> binatang
+allah, binatang --> ternak
+haram, adakan --> allah
+allah, adakan --> haram
+haram, sayang --> allah
+allah, sayang --> haram
+haram, dusta --> allah
+allah, dusta --> haram
+allah, binatang --> tuhan
+haram, allah, binatang --> barangsiapa
+haram, allah, barangsiapa --> binatang
+haram, binatang, barangsiapa --> allah
+haram, allah, binatang --> halal
+haram, allah, halal --> binatang
+haram, binatang, halal --> allah
+allah, binatang, halal --> haram
+binatang, allah, barangsiapa --> haram
+haram, allah, barangsiapa --> binatang
+haram, allah, binatang --> barangsiapa
+haram, barangsiapa, binatang --> allah
+allah, barangsiapa, binatang --> haram
+haram, binatang, barangsiapa --> allah
+batas, binatang, lampau, sembelih --> paksa
+batas, binatang, lampau, paksa --> sembelih
+batas, binatang, sembelih, paksa --> lampau
+batas, lampau, sembelih, paksa --> binatang
+haram, allah, batas, binatang --> lampau
+haram, allah, batas, lampau --> binatang
+haram, allah, binatang, lampau --> batas
+haram, batas, binatang, lampau --> allah
+allah, batas, binatang, lampau --> haram
+allah, sembelih, binatang, lampau --> batas
+allah, sembelih, binatang, batas --> lampau
+allah, sembelih, lampau, batas --> binatang
+sembelih, binatang, lampau, batas --> allah
+rezki, haram, sembelih, binatang --> allah
+rezki, haram, sembelih, allah --> binatang
+rezki, haram, binatang, allah --> sembelih
+allah, batas, binatang, lampau --> paksa
+allah, batas, binatang, paksa --> lampau
+allah, batas, lampau, paksa --> binatang
+allah, binatang, lampau, paksa --> batas
+batas, binatang, lampau, paksa --> allah
+allah, batas, lampau, sembelih --> paksa
+allah, batas, lampau, paksa --> sembelih
+allah, batas, sembelih, paksa --> lampau
+batas, lampau, sembelih, paksa --> allah
+haram, allah, batas, lampau --> sembelih
+haram, allah, batas, sembelih --> lampau
+haram, batas, lampau, sembelih --> allah
+allah, batas, lampau, sembelih --> haram
+haram, batas, binatang, lampau --> paksa
+haram, batas, binatang, paksa --> lampau
+haram, batas, lampau, paksa --> binatang
+haram, binatang, lampau, paksa --> batas
+batas, binatang, lampau, paksa --> haram
+haram, batas, binatang, sembelih --> paksa
+haram, batas, binatang, paksa --> sembelih
+haram, batas, sembelih, paksa --> binatang
+batas, binatang, sembelih, paksa --> haram
+haram, sembelih, binatang, lampau --> paksa
+haram, sembelih, binatang, paksa --> lampau
+haram, sembelih, lampau, paksa --> binatang
+haram, binatang, lampau, paksa --> sembelih
+sembelih, binatang, lampau, paksa --> haram
+sembelih, binatang, lampau, batas --> paksa
+sembelih, binatang, lampau, paksa --> batas
+sembelih, binatang, batas, paksa --> lampau
+sembelih, lampau, batas, paksa --> binatang
+rezki, allah, sembelih, haram --> binatang
+rezki, allah, sembelih, binatang --> haram
+rezki, allah, haram, binatang --> sembelih
+allah, sembelih, binatang, batas --> paksa
+allah, sembelih, binatang, paksa --> batas
+allah, sembelih, batas, paksa --> binatang
+sembelih, binatang, batas, paksa --> allah
+haram, allah, batas, binatang --> paksa
+haram, allah, batas, paksa --> binatang
+haram, allah, binatang, paksa --> batas
+haram, batas, binatang, paksa --> allah
+allah, batas, binatang, paksa --> haram
+rezki, allah, binatang, haram --> sembelih
+haram, allah, batas, lampau --> paksa
+haram, allah, batas, paksa --> lampau
+haram, allah, lampau, paksa --> batas
+haram, batas, lampau, paksa --> allah
+allah, batas, lampau, paksa --> haram
+haram, sembelih, binatang, batas --> paksa
+haram, sembelih, binatang, paksa --> batas
+haram, sembelih, batas, paksa --> binatang
+sembelih, binatang, batas, paksa --> haram
+rezki, allah, sembelih, binatang --> haram
+rezki, allah, sembelih, haram --> binatang
+rezki, allah, binatang, haram --> sembelih
+allah, sembelih, lampau, batas --> paksa
+allah, sembelih, lampau, paksa --> batas
+allah, sembelih, batas, paksa --> lampau
+sembelih, lampau, batas, paksa --> allah
+haram, batas, lampau, sembelih --> paksa
+haram, batas, lampau, paksa --> sembelih
+haram, batas, sembelih, paksa --> lampau
+batas, lampau, sembelih, paksa --> haram
+haram, batas, binatang, lampau --> sembelih
+haram, batas, binatang, sembelih --> lampau
+haram, batas, lampau, sembelih --> binatang
+batas, binatang, lampau, sembelih --> haram
+haram, allah, sembelih, lampau --> paksa
+haram, allah, sembelih, paksa --> lampau
+haram, allah, lampau, paksa --> sembelih
+haram, sembelih, lampau, paksa --> allah
+allah, sembelih, lampau, paksa --> haram
+haram, allah, sembelih, lampau --> batas
+haram, allah, sembelih, batas --> lampau
+haram, sembelih, lampau, batas --> allah
+allah, sembelih, lampau, batas --> haram
+haram, sembelih, lampau, batas --> paksa
+haram, sembelih, lampau, paksa --> batas
+haram, sembelih, batas, paksa --> lampau
+sembelih, lampau, batas, paksa --> haram
+haram, allah, sembelih, binatang --> batas
+haram, allah, sembelih, batas --> binatang
+haram, sembelih, binatang, batas --> allah
+allah, sembelih, binatang, batas --> haram
+allah, batas, binatang, lampau --> sembelih
+allah, batas, binatang, sembelih --> lampau
+allah, batas, lampau, sembelih --> binatang
+batas, binatang, lampau, sembelih --> allah
+haram, allah, sembelih, batas --> paksa
+haram, allah, sembelih, paksa --> batas
+haram, allah, batas, paksa --> sembelih
+haram, sembelih, batas, paksa --> allah
+allah, sembelih, batas, paksa --> haram
+allah, sembelih, binatang, lampau --> paksa
+allah, sembelih, binatang, paksa --> lampau
+allah, sembelih, lampau, paksa --> binatang
+allah, binatang, lampau, paksa --> sembelih
+sembelih, binatang, lampau, paksa --> allah
+haram, allah, sembelih, binatang --> rezki
+haram, allah, sembelih, rezki --> binatang
+haram, allah, binatang, rezki --> sembelih
+rezki, allah, haram, binatang --> sembelih
+haram, allah, batas, binatang --> sembelih
+haram, allah, batas, sembelih --> binatang
+haram, batas, binatang, sembelih --> allah
+allah, batas, binatang, sembelih --> haram
+haram, allah, batas, sembelih --> paksa
+haram, allah, batas, paksa --> sembelih
+haram, allah, sembelih, paksa --> batas
+haram, batas, sembelih, paksa --> allah
+allah, batas, sembelih, paksa --> haram
+haram, allah, sembelih, binatang --> lampau
+haram, allah, sembelih, lampau --> binatang
+haram, allah, binatang, lampau --> sembelih
+haram, sembelih, binatang, lampau --> allah
+allah, sembelih, binatang, lampau --> haram
+haram, allah, binatang, lampau --> paksa
+haram, allah, binatang, paksa --> lampau
+haram, allah, lampau, paksa --> binatang
+haram, binatang, lampau, paksa --> allah
+allah, binatang, lampau, paksa --> haram
+haram, sembelih, binatang, lampau --> batas
+haram, sembelih, binatang, batas --> lampau
+haram, sembelih, lampau, batas --> binatang
+sembelih, binatang, lampau, batas --> haram
+allah, batas, binatang, sembelih --> paksa
+allah, batas, binatang, paksa --> sembelih
+allah, batas, sembelih, paksa --> binatang
+batas, binatang, sembelih, paksa --> allah
+haram, rezki, sembelih, binatang --> allah
+haram, rezki, sembelih, allah --> binatang
+haram, rezki, binatang, allah --> sembelih
+haram, allah, sembelih, binatang, paksa --> lampau
+haram, allah, sembelih, binatang, paksa --> batas

@@ -1,0 +1,32 @@
+{allah, perempuan}
+{pakai, hias}
+{allah, henti}
+{isteri, nabi}
+{allah, nabi}
+{milik, perempuan}
+{hias, perempuan}
+{allah, judi}
+{isteri, perempuan}
+{milik, saudara}
+{saudara, allah}
+{milik, allah}
+{pakai, allah}
+{aurat, allah}
+{khamar, judi}
+{suruh, allah}
+{allah, takwa}
+{aurat, hias}
+{malu, allah}
+{tabir, nabi}
+{saudara, perempuan}
+{allah, mudah}
+{perempuan, allah, isteri}
+{allah, hias, pakai}
+{perempuan, allah, hias}
+{allah, dosa, terang}
+{allah, ganggu, isteri}
+{dosa, allah, terang}
+{nabi, tabir, allah, isteri}
+{tutup, allah, hias, aurat}
+{nabi, allah, tabir, isteri}
+{laki, perempuan, allah, saudara, milik}

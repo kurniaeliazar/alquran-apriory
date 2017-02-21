@@ -1,0 +1,68 @@
+{lampau, binatang}
+{binatang, ternak}
+{allah, tuhan}
+{allah, dosa}
+{binatang, rezki}
+{allah, terang}
+{lampau, sembelih}
+{sembelih, rezki}
+{binatang, tuhan}
+{allah, ayat}
+{haram, terang}
+{allah, syukur}
+{allah, ternak, binatang}
+{haram, allah, adakan}
+{haram, allah, sayang}
+{haram, allah, dusta}
+{tuhan, allah, binatang}
+{haram, allah, binatang, barangsiapa}
+{haram, allah, binatang, halal}
+{binatang, allah, haram, barangsiapa}
+{haram, allah, barangsiapa, binatang}
+{haram, binatang, barangsiapa, allah}
+{batas, binatang, lampau, sembelih, paksa}
+{haram, allah, batas, binatang, lampau}
+{allah, sembelih, binatang, lampau, batas}
+{rezki, haram, sembelih, binatang, allah}
+{allah, batas, binatang, lampau, paksa}
+{allah, batas, lampau, sembelih, paksa}
+{haram, allah, batas, lampau, sembelih}
+{haram, batas, binatang, lampau, paksa}
+{haram, batas, binatang, sembelih, paksa}
+{haram, sembelih, binatang, lampau, paksa}
+{sembelih, binatang, lampau, batas, paksa}
+{rezki, allah, sembelih, haram, binatang}
+{allah, sembelih, binatang, batas, paksa}
+{haram, allah, batas, binatang, paksa}
+{rezki, allah, binatang, haram, sembelih}
+{haram, allah, batas, lampau, paksa}
+{haram, sembelih, binatang, batas, paksa}
+{rezki, allah, sembelih, binatang, haram}
+{allah, sembelih, lampau, batas, paksa}
+{haram, batas, lampau, sembelih, paksa}
+{haram, batas, binatang, lampau, sembelih}
+{haram, allah, sembelih, lampau, paksa}
+{haram, allah, sembelih, lampau, batas}
+{haram, sembelih, lampau, batas, paksa}
+{haram, allah, sembelih, binatang, batas}
+{allah, batas, binatang, lampau, sembelih}
+{haram, allah, sembelih, batas, paksa}
+{allah, sembelih, binatang, lampau, paksa}
+{haram, allah, sembelih, binatang, rezki}
+{rezki, allah, haram, binatang, sembelih}
+{haram, allah, batas, binatang, sembelih}
+{haram, allah, batas, sembelih, paksa}
+{haram, allah, sembelih, binatang, lampau}
+{haram, allah, binatang, lampau, paksa}
+{haram, sembelih, binatang, lampau, batas}
+{allah, batas, binatang, sembelih, paksa}
+{haram, rezki, sembelih, binatang, allah}
+{lampau, haram, allah, sembelih, binatang, paksa}
+{batas, lampau, allah, sembelih, binatang, paksa}
+{batas, lampau, haram, allah, sembelih, paksa}
+{batas, lampau, haram, allah, sembelih, binatang}
+{batas, haram, allah, sembelih, binatang, paksa}
+{batas, lampau, haram, allah, binatang, paksa}
+{batas, lampau, haram, sembelih, binatang, paksa}
+{haram, allah, sembelih, binatang, lampau, paksa, batas}
+{haram, allah, batas, binatang, lampau, paksa, sembelih}

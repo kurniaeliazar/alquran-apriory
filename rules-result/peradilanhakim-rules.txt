@@ -1,0 +1,153 @@
+siksa --> allah
+cinta --> allah
+kuat --> perintah
+bumi --> jalan
+utus --> allah
+taurat --> allah
+ingkar --> kaum
+azab --> allah
+nabi --> kitab
+turun --> kitab
+halang --> allah
+muka --> bumi
+bumi --> muka
+lindung --> zalim
+kaya --> allah
+rasul --> allah
+bumi --> allah
+tolong --> zalim
+kuasa --> allah
+dosa --> allah
+harta --> allah
+sebahagian --> dosa
+lemah --> allah
+sesat --> jalan
+urus --> jalan
+fasik --> allah
+dusta --> allah
+takwa --> allah
+harun, kaum --> saudara
+allah, tuhan --> kaum
+kaum, tuhan --> allah
+turun, hawa --> allah
+allah, hawa --> turun
+mukmin, kafir --> allah
+allah, kafir --> mukmin
+quran, kafir --> kitab
+allah, tuhan --> perintah
+allah, perintah --> tuhan
+turun, hawa --> kitab
+jalan, kaum --> harun
+harun, kaum --> jalan
+turun, manusia --> hawa
+turun, hawa --> manusia
+hawa, jalan --> manusia
+allah, kafir --> kaum
+allah, berita --> yahudi
+allah, yahudi --> berita
+berita, yahudi --> allah
+jalan, manusia --> hawa
+hawa, manusia --> jalan
+allah, musuh --> tuhan
+allah, tuhan --> musuh
+musuh, tuhan --> allah
+kafir, jalan --> hawa
+kafir, hawa --> jalan
+jalan, manusia --> urus
+allah, harun --> kaum
+harun, kaum --> allah
+allah, kafir --> mukmin
+allah, mukmin --> kafir
+allah, ingkar --> tuhan
+allah, tuhan --> ingkar
+ingkar, tuhan --> allah
+kafir, jalan --> kitab
+kafir, kaum --> allah
+turun, jalan, kitab --> manusia
+turun, manusia, kitab --> jalan
+jalan, manusia, kitab --> turun
+allah, jalan, hawa --> putus
+allah, hawa, putus --> jalan
+kafir, jalan, putus --> allah
+kafir, jalan, allah --> putus
+turun, perkara, manusia --> allah
+perkara, manusia, allah --> turun
+kafir, jalan, tinggal --> allah
+kafir, jalan, allah --> tinggal
+turun, kafir, kitab --> taurat
+turun, kafir, taurat --> kitab
+putus, jalan, hawa --> allah
+putus, hawa, allah --> jalan
+turun, manusia, jalan --> kitab
+turun, manusia, kitab --> jalan
+turun, jalan, kitab --> manusia
+manusia, jalan, kitab --> turun
+kafir, jalan, allah --> tinggal
+kafir, jalan, tinggal --> allah
+kafir, allah, tinggal --> jalan
+kafir, jalan, allah --> putus
+kafir, jalan, putus --> allah
+kafir, allah, putus --> jalan
+allah, kafir, putus --> jalan
+kafir, kitab, allah --> perintah
+allah, perintah, kafir --> kitab
+allah, kitab, kafir --> perintah
+turun, allah, perkara --> manusia
+allah, manusia, perkara --> turun
+bumi, allah, jalan --> muka
+bumi, allah, muka --> jalan
+bumi, jalan, muka --> allah
+allah, jalan, muka --> bumi
+kafir, kitab, perintah --> allah
+turun, perkara, putus, barangsiapa --> allah
+turun, perkara, allah, barangsiapa --> putus
+turun, putus, allah, barangsiapa --> perkara
+perkara, putus, allah, barangsiapa --> turun
+perkara, jalan, manusia, allah --> putus
+perkara, jalan, putus, allah --> manusia
+turun, perkara, allah, barangsiapa --> putus
+turun, perkara, putus, barangsiapa --> allah
+turun, allah, putus, barangsiapa --> perkara
+perkara, allah, putus, barangsiapa --> turun
+allah, nafsu, hawa, perkara --> manusia
+allah, nafsu, manusia, perkara --> hawa
+turun, putus, allah, barangsiapa --> perkara
+turun, putus, perkara, barangsiapa --> allah
+turun, allah, perkara, barangsiapa --> putus
+putus, allah, perkara, barangsiapa --> turun
+perkara, manusia, allah, putus --> jalan
+perkara, manusia, jalan, putus --> allah
+perkara, manusia, jalan, allah --> putus
+perkara, manusia, jalan, putus --> allah
+perkara, manusia, allah, putus --> jalan
+perkara, jalan, allah, putus --> manusia
+turun, allah, putus, barangsiapa --> perkara
+turun, allah, perkara, barangsiapa --> putus
+turun, putus, perkara, barangsiapa --> allah
+allah, putus, perkara, barangsiapa --> turun
+perkara, manusia, jalan, putus --> allah
+perkara, manusia, jalan, allah --> putus
+perkara, jalan, putus, allah --> manusia
+allah, manusia, hawa, perkara --> nafsu
+allah, manusia, nafsu, perkara --> hawa
+allah, jalan, manusia, perkara --> putus
+allah, jalan, putus, perkara --> manusia
+allah, manusia, putus, perkara --> jalan
+perkara, manusia, hawa, nafsu --> allah
+perkara, manusia, hawa, allah --> nafsu
+perkara, manusia, nafsu, allah --> hawa
+perkara, nafsu, hawa, manusia --> allah
+perkara, nafsu, hawa, allah --> manusia
+perkara, nafsu, manusia, allah --> hawa
+perkara, barangsiapa, allah, putus --> turun
+turun, allah, barangsiapa, putus --> perkara
+turun, allah, barangsiapa, perkara --> putus
+perkara, jalan, manusia, allah --> putus
+perkara, jalan, allah, putus --> manusia
+perkara, manusia, allah, putus --> jalan
+turun, allah, barangsiapa, perkara --> putus
+turun, allah, barangsiapa, putus --> perkara
+allah, barangsiapa, perkara, putus --> turun
+allah, manusia, jalan, perkara --> putus
+allah, manusia, putus, perkara --> jalan
+allah, jalan, putus, perkara --> manusia

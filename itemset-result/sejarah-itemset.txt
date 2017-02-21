@@ -1,0 +1,28 @@
+{allah, jalan}
+{allah, takwa}
+{allah, berita}
+{allah, janji}
+{allah, niscaya}
+{allah, tolong}
+{rasul, hati}
+{allah, siksa}
+{allah, manusia}
+{allah, azab}
+{allah, rasul}
+{tuhan, quran}
+{kafir, hati}
+{allah, kaum}
+{allah, utus}
+{allah, kitab}
+{allah, sembah}
+{allah, dusta}
+{allah, hati}
+{manusia, tuhan}
+{allah, quran, turun}
+{muhammad, tuhan, allah}
+{rasul, allah, kafir}
+{allah, tuhan, turun}
+{allah, tuhan, kafir}
+{allah, quran, tuhan}
+{allah, tuhan, muhammad}
+{rasul, allah, tuhan}

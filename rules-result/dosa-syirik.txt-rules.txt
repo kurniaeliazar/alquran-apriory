@@ -1,0 +1,291 @@
+alaihi --> sedekah
+sedekah --> alaihi
+sehat --> allah
+allah --> sehat
+sore --> adam
+adam --> sore
+hadits --> wassalam
+wassalam --> hadits
+hr --> rakaat
+rakaat --> hr
+wassalam --> shallahu
+shallahu --> wassalam
+shallahu --> laksana
+laksana --> shallahu
+dhuha --> subhanahu
+subhanahu --> dhuha
+taala --> subhanahu
+subhanahu --> taala
+sabda --> nabi
+nabi --> sabda
+aljami --> rakaat
+rakaat --> aljami
+alaihi --> laksana
+laksana --> alaihi
+tubuh --> sedekah
+sedekah --> tubuh
+shahih --> aljami
+aljami --> shahih
+dhuha --> tubuh
+tubuh --> dhuha
+wassalam --> nabi
+nabi --> wassalam
+sabda --> alaihi
+alaihi --> sabda
+sholat --> hr
+hr --> sholat
+dhuha --> pahala
+pahala --> dhuha
+sore --> rakaat
+rakaat --> sore
+hadits --> shallahu
+shallahu --> hadits
+sholat --> subhanahu
+subhanahu --> sholat
+moga --> laksana
+laksana --> moga
+rumah --> surga
+surga --> rumah
+adam --> rakaat
+rakaat --> adam
+nikmat --> allah
+allah --> nikmat
+dhuha --> jalan
+jalan --> dhuha
+syukur --> allah
+allah --> syukur
+wassalam --> muhammad
+muhammad --> wassalam
+shahih --> rakaat
+rakaat --> shahih
+kasih --> allah
+allah --> kasih
+wassalam --> laksana
+laksana --> wassalam
+rasulullah --> laksana
+laksana --> rasulullah
+allah --> rakaat
+rakaat --> allah
+sabda --> shallahu
+shallahu --> sabda
+nikmat, sehat --> allah
+shalat, allah --> dhuha
+dhuha, allah --> shalat
+dhuha, hr --> allah
+dhuha, allah --> hr
+hr, allah --> dhuha
+dhuha, hr --> rakaat
+shalat, surga, rumah --> dhuha
+shalat, dhuha, rumah --> surga
+shalat, dhuha, surga --> rumah
+shalat, laksana, istimewa --> dhuha
+shalat, laksana, dhuha --> istimewa
+pahala, dhuha, rakaat --> allah
+pahala, dhuha, allah --> rakaat
+pahala, rakaat, allah --> dhuha
+pahala, rakaat, allah --> dhuha
+pahala, rakaat, dhuha --> allah
+pahala, rakaat, dhuha --> allah
+pahala, rakaat, allah --> dhuha
+pahala, dhuha, allah --> rakaat
+rakaat, dhuha, allah --> pahala
+shalat, rakaat, shahih --> aljami
+shalat, aljami, shahih --> rakaat
+rakaat, aljami, shahih --> shalat
+rakaat, dhuha, allah --> pahala
+surga, shalat, rumah --> dhuha
+shalat, dhuha, istimewa --> laksana
+shalat, dhuha, laksana --> istimewa
+dhuha, istimewa, laksana --> shalat
+dhuha, sedekah, allah --> tubuh
+sedekah, tubuh, allah --> dhuha
+rakaat, shalat, shahih --> aljami
+rakaat, aljami, shahih --> shalat
+shalat, aljami, shahih --> rakaat
+surga, dhuha, rumah --> shalat
+surga, dhuha, shalat --> rumah
+subhanahu, taala, allah, dhuha --> sholat
+subhanahu, taala, allah, sholat --> dhuha
+subhanahu, taala, dhuha, sholat --> allah
+dhuha, shallahu, alaihi, rasulullah --> sholat
+dhuha, shallahu, alaihi, sholat --> rasulullah
+dhuha, shallahu, rasulullah, sholat --> alaihi
+dhuha, alaihi, rasulullah, sholat --> shallahu
+subhanahu, taala, dhuha, sholat --> allah
+subhanahu, taala, dhuha, allah --> sholat
+subhanahu, taala, sholat, allah --> dhuha
+subhanahu, dhuha, sholat, allah --> taala
+taala, dhuha, sholat, allah --> subhanahu
+dhuha, shallahu, wassalam, alaihi --> hadits
+dhuha, shallahu, wassalam, hadits --> alaihi
+dhuha, shallahu, alaihi, hadits --> wassalam
+dhuha, wassalam, alaihi, hadits --> shallahu
+shallahu, wassalam, alaihi, hadits --> dhuha
+shallahu, wassalam, alaihi, sahabat --> rasulullah
+shallahu, wassalam, alaihi, rasulullah --> sahabat
+shallahu, wassalam, sahabat, rasulullah --> alaihi
+shallahu, alaihi, sahabat, rasulullah --> wassalam
+wassalam, alaihi, sahabat, rasulullah --> shallahu
+subhanahu, sholat, dhuha, taala --> allah
+subhanahu, sholat, dhuha, allah --> taala
+subhanahu, sholat, taala, allah --> dhuha
+subhanahu, dhuha, taala, allah --> sholat
+sholat, dhuha, taala, allah --> subhanahu
+muhammad, shallahu, wassalam, alaihi --> rasulullah
+muhammad, shallahu, wassalam, rasulullah --> alaihi
+muhammad, shallahu, alaihi, rasulullah --> wassalam
+muhammad, wassalam, alaihi, rasulullah --> shallahu
+shallahu, wassalam, alaihi, rasulullah --> muhammad
+shalat, dhuha, shallahu, hadits --> alaihi
+shalat, dhuha, shallahu, alaihi --> hadits
+shalat, dhuha, hadits, alaihi --> shallahu
+shalat, shallahu, hadits, alaihi --> dhuha
+dhuha, shallahu, hadits, alaihi --> shalat
+dhuha, shallahu, wassalam, hadits --> alaihi
+dhuha, shallahu, wassalam, alaihi --> hadits
+dhuha, shallahu, hadits, alaihi --> wassalam
+dhuha, wassalam, hadits, alaihi --> shallahu
+shallahu, wassalam, hadits, alaihi --> dhuha
+sholat, shallahu, alaihi, rasulullah --> dhuha
+sholat, shallahu, alaihi, dhuha --> rasulullah
+sholat, shallahu, rasulullah, dhuha --> alaihi
+sholat, alaihi, rasulullah, dhuha --> shallahu
+shalat, dhuha, shallahu, alaihi --> hadits
+shalat, dhuha, shallahu, hadits --> alaihi
+shalat, dhuha, alaihi, hadits --> shallahu
+shalat, shallahu, alaihi, hadits --> dhuha
+dhuha, shallahu, alaihi, hadits --> shalat
+shalat, dhuha, wassalam, alaihi --> hadits
+shalat, dhuha, wassalam, hadits --> alaihi
+shalat, dhuha, alaihi, hadits --> wassalam
+shalat, wassalam, alaihi, hadits --> dhuha
+dhuha, wassalam, alaihi, hadits --> shalat
+subhanahu, dhuha, sholat, taala --> allah
+subhanahu, dhuha, sholat, allah --> taala
+subhanahu, dhuha, taala, allah --> sholat
+subhanahu, sholat, taala, allah --> dhuha
+dhuha, sholat, taala, allah --> subhanahu
+dhuha, shallahu, wassalam, rasulullah --> sholat
+dhuha, shallahu, wassalam, sholat --> rasulullah
+dhuha, shallahu, rasulullah, sholat --> wassalam
+dhuha, wassalam, rasulullah, sholat --> shallahu
+sholat, shallahu, wassalam, alaihi --> dhuha
+sholat, shallahu, wassalam, dhuha --> alaihi
+sholat, shallahu, alaihi, dhuha --> wassalam
+sholat, wassalam, alaihi, dhuha --> shallahu
+shallahu, wassalam, sedekah, alaihi --> rasulullah
+shallahu, wassalam, sedekah, rasulullah --> alaihi
+shallahu, wassalam, alaihi, rasulullah --> sedekah
+shallahu, sedekah, alaihi, rasulullah --> wassalam
+wassalam, sedekah, alaihi, rasulullah --> shallahu
+shalat, shallahu, wassalam, hadits --> alaihi
+shalat, shallahu, wassalam, alaihi --> hadits
+shalat, shallahu, hadits, alaihi --> wassalam
+shalat, wassalam, hadits, alaihi --> shallahu
+shallahu, wassalam, hadits, alaihi --> shalat
+subhanahu, sholat, allah, taala --> dhuha
+subhanahu, sholat, allah, dhuha --> taala
+subhanahu, sholat, taala, dhuha --> allah
+sholat, shallahu, wassalam, rasulullah --> dhuha
+sholat, shallahu, wassalam, dhuha --> rasulullah
+sholat, shallahu, rasulullah, dhuha --> wassalam
+sholat, wassalam, rasulullah, dhuha --> shallahu
+subhanahu, dhuha, allah, taala --> sholat
+subhanahu, dhuha, allah, sholat --> taala
+subhanahu, dhuha, taala, sholat --> allah
+dhuha, allah, taala, sholat --> subhanahu
+shallahu, wassalam, sahabat, rasulullah --> alaihi
+shallahu, sahabat, rasulullah, alaihi --> wassalam
+wassalam, sahabat, rasulullah, alaihi --> shallahu
+sholat, wassalam, alaihi, rasulullah --> dhuha
+sholat, wassalam, alaihi, dhuha --> rasulullah
+sholat, wassalam, rasulullah, dhuha --> alaihi
+sholat, alaihi, rasulullah, dhuha --> wassalam
+shallahu, wassalam, rasulullah, sahabat --> alaihi
+shallahu, rasulullah, sahabat, alaihi --> wassalam
+wassalam, rasulullah, sahabat, alaihi --> shallahu
+dhuha, shallahu, wassalam, hadits --> rasulullah
+dhuha, shallahu, wassalam, rasulullah --> hadits
+dhuha, shallahu, hadits, rasulullah --> wassalam
+dhuha, wassalam, hadits, rasulullah --> shallahu
+shallahu, wassalam, hadits, rasulullah --> dhuha
+dhuha, shallahu, alaihi, rasulullah --> hadits
+dhuha, shallahu, alaihi, hadits --> rasulullah
+dhuha, alaihi, rasulullah, hadits --> shallahu
+shallahu, alaihi, rasulullah, hadits --> dhuha
+dhuha, wassalam, hadits, rasulullah --> alaihi
+dhuha, wassalam, hadits, alaihi --> rasulullah
+dhuha, hadits, rasulullah, alaihi --> wassalam
+wassalam, hadits, rasulullah, alaihi --> dhuha
+shallahu, wassalam, alaihi, rasulullah --> hadits
+shallahu, wassalam, alaihi, hadits --> rasulullah
+shallahu, alaihi, rasulullah, hadits --> wassalam
+wassalam, alaihi, rasulullah, hadits --> shallahu
+laksana, shallahu, wassalam, alaihi --> rasulullah
+laksana, shallahu, wassalam, rasulullah --> alaihi
+laksana, shallahu, alaihi, rasulullah --> wassalam
+laksana, wassalam, alaihi, rasulullah --> shallahu
+shallahu, wassalam, alaihi, rasulullah --> laksana
+subhanahu, dhuha, taala, sholat --> allah
+subhanahu, dhuha, taala, allah --> sholat
+subhanahu, dhuha, sholat, allah --> taala
+subhanahu, taala, sholat, allah --> dhuha
+dhuha, taala, sholat, allah --> subhanahu
+nabi, shallahu, wassalam, alaihi --> sabda
+nabi, shallahu, wassalam, sabda --> alaihi
+nabi, shallahu, alaihi, sabda --> wassalam
+nabi, wassalam, alaihi, sabda --> shallahu
+shallahu, wassalam, alaihi, sabda --> nabi
+dhuha, wassalam, alaihi, rasulullah --> hadits
+dhuha, wassalam, alaihi, hadits --> rasulullah
+dhuha, alaihi, rasulullah, hadits --> wassalam
+wassalam, alaihi, rasulullah, hadits --> dhuha
+dhuha, shallahu, wassalam, alaihi --> sholat
+dhuha, shallahu, wassalam, sholat --> alaihi
+dhuha, shallahu, alaihi, sholat --> wassalam
+dhuha, wassalam, alaihi, sholat --> shallahu
+sahabat, shallahu, alaihi, rasulullah --> wassalam
+sahabat, wassalam, alaihi, rasulullah --> shallahu
+shallahu, wassalam, alaihi, rasulullah --> sahabat
+shalat, shallahu, wassalam, alaihi --> hadits
+shalat, shallahu, wassalam, hadits --> alaihi
+shalat, shallahu, alaihi, hadits --> wassalam
+shalat, wassalam, alaihi, hadits --> shallahu
+shallahu, wassalam, alaihi, hadits --> shalat
+shalat, dhuha, wassalam, hadits --> alaihi
+shalat, dhuha, wassalam, alaihi --> hadits
+shalat, dhuha, hadits, alaihi --> wassalam
+shalat, wassalam, hadits, alaihi --> dhuha
+dhuha, wassalam, hadits, alaihi --> shalat
+shallahu, wassalam, hadits, rasulullah --> alaihi
+shallahu, wassalam, hadits, alaihi --> rasulullah
+shallahu, hadits, rasulullah, alaihi --> wassalam
+wassalam, hadits, rasulullah, alaihi --> shallahu
+subhanahu, sholat, allah, dhuha --> taala
+subhanahu, sholat, allah, taala --> dhuha
+subhanahu, sholat, dhuha, taala --> allah
+sholat, allah, dhuha, taala --> subhanahu
+shalat, dhuha, shallahu, wassalam --> hadits
+shalat, dhuha, shallahu, hadits --> wassalam
+shalat, dhuha, wassalam, hadits --> shallahu
+shalat, shallahu, wassalam, hadits --> dhuha
+dhuha, shallahu, wassalam, hadits --> shalat
+dhuha, shallahu, hadits, rasulullah --> alaihi
+dhuha, shallahu, hadits, alaihi --> rasulullah
+dhuha, hadits, rasulullah, alaihi --> shallahu
+shallahu, hadits, rasulullah, alaihi --> dhuha
+dhuha, wassalam, alaihi, rasulullah --> sholat
+dhuha, wassalam, alaihi, sholat --> rasulullah
+dhuha, wassalam, rasulullah, sholat --> alaihi
+dhuha, alaihi, rasulullah, sholat --> wassalam
+subhanahu, dhuha, allah, sholat --> taala
+subhanahu, dhuha, allah, taala --> sholat
+subhanahu, dhuha, sholat, taala --> allah
+dhuha, allah, sholat, taala --> subhanahu
+subhanahu, taala, allah, sholat --> dhuha
+subhanahu, taala, allah, dhuha --> sholat
+subhanahu, taala, sholat, dhuha --> allah
+sholat, shallahu, wassalam, alaihi, rasulullah --> dhuha
+dhuha, shallahu, wassalam, alaihi, rasulullah --> sholat
+dhuha, shallahu, wassalam, alaihi, rasulullah --> hadits
+shalat, dhuha, shallahu, wassalam, alaihi --> hadits

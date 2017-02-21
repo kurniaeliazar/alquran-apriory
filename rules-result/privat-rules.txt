@@ -1,0 +1,22 @@
+niscaya --> allah
+milik --> perempuan
+allah, isteri --> cerai
+allah, cerai --> isteri
+perempuan, kawin --> awin
+perempuan, awin --> kawin
+kawin, awin --> perempuan
+cerai, isteri --> allah
+perempuan, cerai --> allah
+allah, laki --> wanita
+allah, wanita --> laki
+laki, wanita --> allah
+allah, isteri --> takwa
+isteri, takwa --> allah
+allah, laki --> kawin
+perempuan, hati --> isteri
+perempuan, isteri --> hati
+perempuan, allah, isteri --> hati
+perempuan, allah, laki --> isteri
+perempuan, allah, isteri --> laki
+perempuan, laki, isteri --> allah
+allah, laki, isteri --> perempuan

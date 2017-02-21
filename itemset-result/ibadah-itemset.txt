@@ -1,0 +1,11 @@
+{tuhan, doa}
+{allah, kaum}
+{allah, jalan}
+{allah, manusia}
+{zakat, tunai}
+{allah, shalat}
+{allah, zakat}
+{allah, tuhan}
+{allah, tunai}
+{allah, kafir}
+{allah, tolong}

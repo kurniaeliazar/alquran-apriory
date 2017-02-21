@@ -1,0 +1,9 @@
+{allah, barangsiapa}
+{kitab, tuhan}
+{allah, jalan}
+{allah, quran}
+{allah, kafir}
+{turun, tuhan}
+{allah, ayat}
+{quran, allah, tuhan}
+{quran, allah, kitab, turun}

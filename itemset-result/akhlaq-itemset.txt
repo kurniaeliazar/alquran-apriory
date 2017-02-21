@@ -1,0 +1,46 @@
+{allah, sayang}
+{allah, urus}
+{allah, suka}
+{allah, perintah}
+{allah, balas}
+{allah, ajar}
+{hati, takwa}
+{allah, nikmat}
+{allah, bertawakkal}
+{allah, siksa}
+{akhirat, dunia}
+{allah, hamba}
+{niscaya, dunia}
+{allah, janji}
+{allah, taubat}
+{allah, muka}
+{allah, manusia}
+{allah, sebahagian}
+{tuhan, niscaya}
+{allah, kitab}
+{niscaya, takwa}
+{allah, tuhan}
+{allah, rahmat}
+{allah, harta}
+{allah, dosa}
+{allah, pahala}
+{allah, tolong}
+{allah, kafir}
+{allah, barangsiapa}
+{allah, bumi}
+{tuhan, taubat}
+{allah, kaum}
+{allah, jalan}
+{allah, azab}
+{allah, rasul}
+{allah, karunia}
+{tuhan, takut, allah}
+{allah, takwa, hati}
+{allah, dunia, akhirat}
+{allah, dunia, niscaya}
+{tuhan, allah, dunia}
+{allah, dunia, hidup}
+{tuhan, allah, takut}
+{tuhan, allah, hati}
+{allah, takwa, niscaya}
+{tuhan, allah, takwa}

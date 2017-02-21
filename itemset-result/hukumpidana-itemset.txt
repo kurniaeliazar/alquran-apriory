@@ -1,0 +1,1229 @@
+{saksi, zina}
+{dada, laki}
+{budak, isteri}
+{bunuh, adakan}
+{laki, budak}
+{budak, jaga}
+{lampau, wanita}
+{barangsiapa, zalim}
+{islam, wanita}
+{barangsiapa, wanita}
+{dera, zina}
+{pandang, malu}
+{agama, pimpin}
+{perempuan, zina}
+{keji, nampak}
+{milik, paksa}
+{suam, wanita}
+{potong, siksa}
+{dusta, terima}
+{balas, tuhan}
+{lampau, barangsiapa}
+{lampau, merdeka}
+{keji, jalan}
+{saudara, siksa}
+{jalan, zina}
+{awin, halal}
+{janji, damai}
+{kampung, bangsa}
+{haram, jiwa}
+{zalim, jiwa}
+{laki, wanita}
+{muka, rusa}
+{janji, perang}
+{batas, wanita}
+{janji, kafir}
+{tahan, malu}
+{hidup, pelihara}
+{saudara, wanita}
+{allah, saudara}
+{dada, wanita}
+{zina, halal}
+{ayah, perempuan}
+{kafir, jaga}
+{suam, hukum}
+{laki, malu}
+{allah, perintah}
+{sayang, jaga}
+{allah, agama}
+{alas, jiwa}
+{allah, taubat}
+{batas, barangsiapa}
+{kubur, hidup}
+{allah, bijaksana}
+{dunia, siksa}
+{keji, zina}
+{balas, suci}
+{bunuh, mukmin}
+{hukum, halal}
+{perempuan, malu}
+{milik, kawin}
+{wanita, halal}
+{wanita, jaga}
+{allah, suci}
+{dosa, jiwa}
+{kitab, kiamat}
+{hukum, jaga}
+{keji, takut}
+{barangsiapa, kafir}
+{awin, jaga}
+{hukum, kawin}
+{allah, kuasa}
+{barangsiapa, jaga}
+{dada, budak}
+{dosa, sebahagian}
+{wanita, terima}
+{barangsiapa, jiwa}
+{janji, sayang}
+{batas, merdeka}
+{akhirat, zina}
+{saksi, saudara}
+{keji, dosa}
+{kawin, halal}
+{halaman, bangsa}
+{israil, hidup}
+{keji, sembunyi}
+{bunuh, zalim}
+{tuhan, bunuh, keji}
+{allah, saksi, wanita}
+{allah, kaki, perempuan}
+{balas, zalim, dosa}
+{tuhan, bunuh, maaf}
+{allah, adakan, bunuh}
+{allah, curi, perempuan}
+{terima, wanita, zina}
+{adakan, bunuh, allah}
+{allah, balas, siksa}
+{allah, bunuh, kaki}
+{allah, damai, janji}
+{bunuh, hidup, israil}
+{isteri, budak, milik}
+{siksa, allah, potong}
+{bayar, wanita, barangsiapa}
+{allah, perempuan, kaki}
+{allah, barangsiapa, janji}
+{siksa, balas, allah}
+{allah, dunia, sebahagian}
+{allah, dunia, wanita}
+{allah, dunia, akhirat}
+{allah, bunuh, niscaya}
+{allah, dunia, lengah}
+{jaga, wanita, barangsiapa}
+{allah, bunuh, barangsiapa}
+{siksa, bunuh, saudara}
+{allah, sayang, janji}
+{allah, wanita, dunia}
+{damai, allah, janji}
+{allah, siksa, potong}
+{allah, bunuh, sekutu}
+{allah, zina, sayang, bunuh}
+{allah, sembunyi, nampak, keji}
+{balas, keji, dosa, bunuh}
+{allah, bunuh, takut, keji}
+{allah, siksa, dunia, bunuh}
+{allah, bunuh, lampau, batas}
+{terima, kafir, barangsiapa, bayar}
+{allah, zina, hukum, laki}
+{pelihara, bunuh, lampau, batas}
+{allah, balas, tebus, dosa}
+{bunuh, rasul, muka, bumi}
+{allah, bunuh, janji, terima}
+{allah, pelihara, laki, balas}
+{allah, bunuh, takut, tuhan}
+{pelihara, batas, lampau, bunuh}
+{allah, terima, dusta, zina}
+{bunuh, larang, dosa, balas}
+{allah, balas, laki, pelihara}
+{bayar, kafir, barangsiapa, terima}
+{siksa, bunuh, dunia, allah}
+{allah, jiwa, dosa, balas}
+{balas, larang, dosa, bunuh}
+{allah, balas, jiwa, dosa}
+{allah, zina, dusta, terima}
+{jiwa, allah, zalim, barangsiapa}
+{jiwa, balas, allah, dosa}
+{bunuh, keji, dosa, balas}
+{bunuh, pelihara, lampau, batas}
+{allah, terima, janji, bunuh}
+{allah, bunuh, dunia, siksa}
+{bunuh, balas, dosa, keji}
+{allah, bunuh, haram, rezki}
+{bunuh, dosa, balas, keji}
+{allah, laki, hukum, zina}
+{tuhan, bunuh, allah, takut}
+{allah, zina, wanita, azab}
+{allah, jiwa, zalim, barangsiapa}
+{bunuh, batas, lampau, pelihara}
+{allah, rezki, haram, bunuh}
+{jiwa, allah, dosa, balas}
+{bunuh, barangsiapa, lampau, batas}
+{allah, bunuh, sayang, zina}
+{allah, saksi, laki, jalan}
+{balas, bunuh, dosa, keji}
+{allah, tuhan, takut, bunuh}
+{awin, kawin, suam, hukum, zina}
+{awin, wanita, kawin, hukum, milik}
+{allah, awin, kawin, hukum, budak}
+{bayar, hamba, barangsiapa, merdeka, bunuh}
+{jaga, budak, paksa, milik, sayang}
+{allah, wanita, budak, hukum, milik}
+{allah, awin, wanita, milik, zina}
+{allah, balas, zina, dosa, bunuh}
+{tuhan, balas, bunuh, dosa, niscaya}
+{awin, milik, hukum, zina, suam}
+{allah, zina, awin, budak, milik}
+{suam, awin, budak, milik, zina}
+{allah, laki, tahan, pandang, malu}
+{sayang, wanita, budak, sebahagian, milik}
+{allah, budak, wanita, keji, milik}
+{awin, wanita, kawin, milik, budak}
+{awin, budak, milik, zina, suam}
+{zina, wanita, suam, kawin, milik}
+{allah, jiwa, bunuh, haram, alas}
+{allah, hukum, budak, kawin, suam}
+{zina, wanita, suam, awin, milik}
+{allah, jaga, wanita, sayang, sebahagian}
+{jaga, zina, kafir, hukum, awin}
+{allah, bunuh, zina, dosa, balas}
+{jaga, budak, paksa, sebahagian, milik}
+{allah, awin, budak, suam, zina}
+{allah, zina, wanita, hukum, awin}
+{budak, wanita, keji, laki, milik}
+{awin, budak, kawin, hukum, suam}
+{allah, awin, milik, kawin, zina}
+{jaga, allah, wanita, sayang, paksa}
+{allah, pandang, tahan, laki, malu}
+{allah, jaga, budak, paksa, milik}
+{allah, kawin, budak, hukum, suam}
+{jaga, awin, wanita, kafir, zina}
+{allah, awin, budak, hukum, suam}
+{laki, tahan, pandang, malu, perempuan}
+{zina, budak, kawin, hukum, suam}
+{jaga, wanita, sayang, milik, budak}
+{zina, wanita, budak, milik, suam}
+{awin, budak, kawin, milik, zina}
+{zina, kawin, budak, hukum, awin}
+{jaga, wanita, kawin, hukum, kafir}
+{allah, zina, budak, milik, awin}
+{suam, awin, budak, kawin, hukum}
+{awin, budak, kawin, zina, hukum}
+{hukum, awin, budak, kawin, suam}
+{allah, zina, wanita, kawin, hukum}
+{allah, kawin, suam, hukum, milik}
+{allah, awin, budak, suam, milik}
+{tuhan, bunuh, dosa, balas, niscaya}
+{jaga, zina, wanita, kafir, awin}
+{allah, awin, budak, kawin, hukum}
+{wanita, sebahagian, paksa, milik, budak}
+{allah, budak, paksa, milik, sayang}
+{budak, sayang, wanita, sebahagian, milik}
+{awin, wanita, suam, budak, zina}
+{jaga, allah, wanita, sebahagian, paksa}
+{bayar, hamba, diat, merdeka, bunuh}
+{awin, suam, hukum, zina, milik}
+{allah, jaga, budak, paksa, sayang}
+{awin, wanita, kawin, zina, milik}
+{milik, sayang, paksa, sebahagian, budak}
+{budak, milik, laki, dada, keji}
+{allah, awin, milik, zina, suam}
+{allah, mukmin, kafir, merdeka, bunuh}
+{awin, kawin, hukum, milik, suam}
+{bunuh, hamba, barangsiapa, merdeka, bayar}
+{awin, kafir, kawin, hukum, zina}
+{allah, wanita, budak, laki, milik}
+{allah, zina, suam, milik, awin}
+{allah, jaga, wanita, budak, milik}
+{bunuh, diat, barangsiapa, merdeka, hamba}
+{jaga, sebahagian, paksa, milik, budak}
+{jaga, awin, kafir, wanita, zina}
+{zina, wanita, awin, hukum, milik}
+{allah, budak, milik, dada, keji}
+{allah, awin, suam, hukum, milik}
+{jaga, awin, wanita, hukum, kafir}
+{zina, awin, kawin, wanita, milik}
+{allah, zina, wanita, budak, hukum}
+{allah, awin, suam, kawin, milik}
+{allah, wanita, milik, laki, keji}
+{allah, awin, kawin, zina, milik}
+{wanita, budak, keji, dada, milik}
+{awin, wanita, kawin, hukum, budak}
+{halaman, bunuh, bangsa, kampung, saudara}
+{allah, paksa, budak, sayang, sebahagian}
+{allah, awin, kawin, zina, budak}
+{suam, awin, kawin, hukum, milik}
+{allah, zina, wanita, suam, awin}
+{barangsiapa, bayar, diat, merdeka, hamba}
+{allah, awin, suam, kawin, budak}
+{allah, suam, kawin, hukum, milik}
+{allah, budak, wanita, milik, suam}
+{zina, awin, kawin, hukum, budak}
+{allah, wanita, sayang, milik, budak}
+{jaga, allah, wanita, budak, sebahagian}
+{jaga, zina, wanita, hukum, kafir}
+{allah, budak, dada, milik, keji}
+{allah, awin, budak, milik, zina}
+{zina, wanita, awin, kawin, suam}
+{bunuh, barangsiapa, merdeka, bayar, hamba}
+{allah, zina, budak, hukum, suam}
+{allah, zina, budak, kawin, suam}
+{zina, kawin, budak, hukum, milik}
+{allah, awin, wanita, budak, zina}
+{jaga, allah, wanita, sebahagian, sayang}
+{allah, wanita, sebahagian, paksa, sayang}
+{awin, budak, suam, hukum, zina}
+{awin, wanita, budak, milik, zina}
+{budak, wanita, milik, dada, keji}
+{suam, awin, wanita, kawin, budak}
+{allah, zina, wanita, budak, awin}
+{kampung, bunuh, halaman, saudara, usir}
+{sayang, jaga, budak, sebahagian, milik}
+{allah, wanita, kawin, hukum, milik}
+{suam, zina, allah, budak, awin}
+{allah, jaga, wanita, sayang, budak}
+{suam, awin, kawin, zina, milik}
+{allah, zina, wanita, kawin, suam}
+{sayang, budak, paksa, sebahagian, milik}
+{jaga, allah, sayang, milik, budak}
+{barangsiapa, bunuh, diat, merdeka, bayar}
+{zina, awin, budak, kawin, suam}
+{jaga, sayang, sebahagian, paksa, milik}
+{zina, wanita, kawin, hukum, suam}
+{zina, kawin, hukum, milik, suam}
+{allah, malu, tahan, pandang, perempuan}
+{allah, awin, budak, kawin, suam}
+{allah, awin, wanita, budak, suam}
+{allah, suam, kawin, hukum, budak}
+{mukmin, allah, sengaja, kafir, bunuh}
+{jaga, wanita, budak, sebahagian, milik}
+{zina, kawin, budak, hukum, suam}
+{allah, zina, kawin, hukum, budak}
+{zina, awin, hukum, wanita, suam}
+{bunuh, bangsa, kampung, halaman, usir}
+{zina, wanita, milik, hukum, suam}
+{budak, wanita, kawin, hukum, milik}
+{allah, bunuh, sengaja, kafir, mukmin}
+{allah, wanita, budak, laki, keji}
+{allah, suam, budak, wanita, milik}
+{zina, awin, milik, hukum, suam}
+{jaga, budak, paksa, sebahagian, sayang}
+{suam, awin, kawin, milik, zina}
+{allah, awin, wanita, hukum, milik}
+{zina, budak, kawin, milik, hukum}
+{allah, budak, milik, hukum, suam}
+{jiwa, bunuh, allah, haram, alas}
+{allah, zina, kawin, milik, suam}
+{bunuh, bangsa, saudara, halaman, usir}
+{awin, budak, suam, hukum, milik}
+{jiwa, allah, tuhan, haram, bunuh}
+{zina, kawin, milik, hukum, suam}
+{jaga, zina, kafir, hukum, wanita}
+{allah, wanita, budak, paksa, milik}
+{allah, jaga, budak, sayang, sebahagian}
+{sayang, allah, budak, sebahagian, milik}
+{bayar, diat, merdeka, bunuh, hamba}
+{zina, awin, hukum, wanita, milik}
+{awin, budak, kawin, milik, hukum}
+{jaga, allah, wanita, sayang, budak}
+{wanita, budak, dada, milik, keji}
+{allah, wanita, sebahagian, sayang, milik}
+{sayang, jaga, wanita, budak, milik}
+{awin, wanita, milik, budak, suam}
+{allah, mukmin, kafir, sengaja, bunuh}
+{jaga, sebahagian, paksa, milik, sayang}
+{allah, wanita, laki, dada, milik}
+{bangsa, saudara, halaman, kampung, usir}
+{halal, awin, wanita, kawin, zina}
+{zina, awin, kawin, milik, suam}
+{allah, mukmin, sengaja, merdeka, kafir}
+{hukum, wanita, budak, kawin, milik}
+{allah, budak, wanita, suam, milik}
+{awin, budak, kawin, milik, suam}
+{suam, zina, wanita, kawin, awin}
+{tuhan, balas, niscaya, dosa, bunuh}
+{allah, zina, kawin, budak, hukum}
+{suam, zina, allah, budak, milik}
+{allah, kawin, budak, hukum, milik}
+{allah, wanita, laki, dada, keji}
+{awin, kawin, hukum, zina, milik}
+{allah, wanita, sebahagian, paksa, budak}
+{allah, budak, laki, dada, milik}
+{pandang, tahan, laki, malu, perempuan}
+{allah, awin, milik, kawin, suam}
+{halaman, bunuh, kampung, saudara, usir}
+{suam, budak, wanita, kawin, milik}
+{allah, zina, budak, kawin, awin}
+{allah, zina, awin, milik, suam}
+{suam, awin, wanita, milik, zina}
+{suam, kawin, hukum, milik, budak}
+{allah, awin, budak, hukum, zina}
+{allah, zina, kawin, hukum, milik}
+{allah, sayang, sebahagian, paksa, milik}
+{hukum, wanita, budak, kawin, suam}
+{allah, bunuh, balas, dosa, zina}
+{suam, awin, kawin, hukum, budak}
+{allah, zina, milik, kawin, awin}
+{hukum, awin, budak, kawin, milik}
+{awin, budak, zina, milik, suam}
+{jaga, sayang, paksa, sebahagian, milik}
+{bumi, bunuh, rusa, muka, rasul}
+{allah, wanita, budak, sayang, milik}
+{allah, wanita, budak, hukum, suam}
+{zina, wanita, awin, budak, suam}
+{barangsiapa, bunuh, hamba, merdeka, bayar}
+{awin, wanita, budak, zina, suam}
+{bunuh, saudara, kampung, halaman, usir}
+{jaga, zina, wanita, kawin, awin}
+{jaga, budak, sayang, wanita, milik}
+{allah, jiwa, bunuh, haram, tuhan}
+{mukmin, bunuh, kafir, allah, merdeka}
+{mukmin, bunuh, sengaja, merdeka, kafir}
+{allah, budak, paksa, sebahagian, milik}
+{allah, budak, wanita, milik, keji}
+{allah, budak, sayang, sebahagian, milik}
+{allah, awin, kawin, hukum, milik}
+{zina, kawin, hukum, milik, budak}
+{awin, wanita, kawin, hukum, suam}
+{awin, kawin, zina, milik, suam}
+{awin, wanita, hukum, zina, suam}
+{zina, budak, kawin, hukum, awin}
+{allah, wanita, kawin, milik, suam}
+{zina, wanita, budak, milik, awin}
+{laki, malu, tahan, pandang, perempuan}
+{allah, sayang, paksa, milik, budak}
+{allah, awin, wanita, zina, suam}
+{budak, sayang, paksa, wanita, milik}
+{bumi, rusa, bunuh, muka, rasul}
+{allah, zina, kawin, hukum, suam}
+{jaga, sayang, budak, paksa, milik}
+{halaman, bangsa, kampung, saudara, usir}
+{awin, kawin, milik, hukum, zina}
+{allah, milik, sayang, sebahagian, budak}
+{bunuh, bangsa, halaman, kampung, usir}
+{zina, wanita, awin, kawin, milik}
+{allah, untung, wanita, budak, milik}
+{allah, budak, laki, milik, keji}
+{suam, kawin, budak, hukum, milik}
+{allah, zina, bunuh, dosa, balas}
+{allah, jaga, budak, paksa, sebahagian}
+{jaga, allah, budak, paksa, sebahagian}
+{jaga, allah, wanita, paksa, milik}
+{tuhan, bunuh, niscaya, dosa, balas}
+{zina, budak, milik, hukum, suam}
+{allah, malu, tahan, laki, pandang}
+{awin, wanita, kawin, hukum, kafir}
+{jaga, allah, wanita, budak, milik}
+{zina, wanita, budak, kawin, suam}
+{jaga, paksa, wanita, budak, sayang}
+{allah, budak, keji, dada, milik}
+{jaga, allah, sayang, paksa, budak}
+{allah, budak, wanita, kawin, suam}
+{suam, awin, kawin, hukum, zina}
+{zina, kawin, hukum, milik, awin}
+{awin, budak, hukum, milik, zina}
+{zina, budak, kawin, milik, suam}
+{bunuh, bangsa, saudara, kampung, halaman}
+{jaga, sebahagian, sayang, milik, budak}
+{allah, budak, keji, laki, milik}
+{jiwa, allah, alas, haram, bunuh}
+{jaga, awin, kafir, hukum, zina}
+{zina, awin, milik, wanita, suam}
+{zina, wanita, kawin, awin, budak}
+{zina, wanita, budak, hukum, milik}
+{awin, kafir, hukum, wanita, zina}
+{allah, zina, wanita, kawin, milik}
+{jaga, allah, wanita, sayang, milik}
+{zina, wanita, budak, kawin, awin}
+{halal, awin, wanita, kawin, hukum}
+{zina, awin, budak, wanita, milik}
+{bunuh, wanita, merdeka, lampau, batas}
+{jaga, allah, wanita, budak, sayang}
+{kampung, bunuh, bangsa, halaman, saudara}
+{allah, milik, budak, dada, keji}
+{zina, awin, kawin, wanita, suam}
+{allah, paksa, wanita, sebahagian, sayang}
+{jaga, awin, wanita, hukum, zina}
+{zina, wanita, kawin, hukum, awin}
+{allah, malu, tahan, laki, perempuan}
+{budak, laki, dada, milik, keji}
+{barangsiapa, bayar, diat, merdeka, bunuh}
+{allah, awin, budak, kawin, milik}
+{allah, jaga, wanita, sayang, paksa}
+{mukmin, allah, sengaja, merdeka, bunuh}
+{allah, bunuh, kafir, merdeka, mukmin}
+{allah, jaga, sebahagian, sayang, milik}
+{jaga, wanita, sebahagian, paksa, budak}
+{allah, kawin, hukum, milik, budak}
+{tuhan, allah, jiwa, haram, bunuh}
+{jaga, wanita, budak, paksa, sebahagian}
+{allah, jaga, sayang, milik, budak}
+{barangsiapa, diat, merdeka, bunuh, hamba}
+{sayang, wanita, sebahagian, paksa, budak}
+{zina, wanita, budak, hukum, suam}
+{bumi, rasul, rusa, muka, bunuh}
+{allah, wanita, milik, dada, keji}
+{awin, budak, kawin, hukum, milik}
+{allah, wanita, budak, laki, dada}
+{awin, wanita, suam, zina, milik}
+{zina, wanita, kawin, milik, budak}
+{allah, budak, suam, kawin, milik}
+{allah, awin, budak, hukum, milik}
+{kawin, budak, hukum, wanita, milik}
+{jaga, sayang, paksa, milik, budak}
+{jaga, wanita, sebahagian, paksa, sayang}
+{zina, kafir, kawin, hukum, wanita}
+{wanita, budak, hukum, milik, kawin}
+{allah, suam, wanita, kawin, budak}
+{bunuh, diat, barangsiapa, bayar, hamba}
+{allah, jaga, wanita, sebahagian, sayang}
+{barangsiapa, bayar, hamba, diat, bunuh}
+{halal, awin, wanita, hukum, zina}
+{allah, zina, wanita, awin, milik}
+{jaga, allah, sebahagian, paksa, budak}
+{mukmin, bunuh, sengaja, allah, kafir}
+{milik, budak, wanita, dada, keji}
+{allah, jiwa, alas, haram, bunuh}
+{jaga, wanita, budak, sayang, sebahagian}
+{wanita, milik, laki, dada, keji}
+{allah, wanita, kawin, hukum, suam}
+{suam, allah, wanita, kawin, milik}
+{allah, budak, sayang, wanita, milik}
+{zina, awin, milik, kawin, suam}
+{jaga, allah, budak, sayang, paksa}
+{allah, zina, awin, budak, suam}
+{zina, budak, hukum, milik, suam}
+{zina, awin, budak, kawin, milik}
+{bayar, barangsiapa, merdeka, bunuh, hamba}
+{budak, kawin, hukum, wanita, milik}
+{kawin, budak, hukum, wanita, suam}
+{awin, kafir, kawin, hukum, wanita}
+{zina, wanita, budak, hukum, awin}
+{malu, tahan, perempuan, pandang, laki}
+{mukmin, allah, kafir, sengaja, bunuh}
+{allah, keji, laki, dada, milik}
+{jaga, wanita, sayang, sebahagian, milik}
+{halaman, bangsa, saudara, kampung, usir}
+{awin, wanita, kawin, budak, zina}
+{zina, awin, kawin, hukum, milik}
+{jaga, allah, budak, sayang, milik}
+{budak, wanita, suam, hukum, milik}
+{allah, budak, sebahagian, paksa, milik}
+{zina, wanita, kawin, budak, milik}
+{allah, awin, wanita, kawin, zina}
+{allah, suam, budak, kawin, milik}
+{allah, jaga, sayang, paksa, sebahagian}
+{sayang, wanita, budak, paksa, milik}
+{wanita, kawin, hukum, milik, suam}
+{allah, awin, hukum, zina, milik}
+{jiwa, allah, bunuh, haram, tuhan}
+{suam, awin, budak, zina, milik}
+{awin, kawin, budak, hukum, milik}
+{wanita, sayang, paksa, sebahagian, budak}
+{zina, kawin, suam, hukum, milik}
+{rusa, bumi, rasul, muka, bunuh}
+{jaga, allah, wanita, sebahagian, budak}
+{suam, awin, allah, kawin, zina}
+{allah, zina, milik, hukum, awin}
+{allah, jaga, sebahagian, paksa, sayang}
+{jaga, allah, sebahagian, milik, budak}
+{jaga, zina, wanita, hukum, awin}
+{allah, budak, kawin, hukum, milik}
+{allah, wanita, kawin, milik, budak}
+{allah, awin, wanita, hukum, zina}
+{awin, budak, hukum, zina, suam}
+{wanita, sayang, paksa, milik, budak}
+{jaga, wanita, sayang, paksa, budak}
+{jaga, paksa, sebahagian, sayang, budak}
+{allah, budak, milik, laki, keji}
+{jiwa, tuhan, allah, haram, bunuh}
+{allah, jaga, sebahagian, sayang, paksa}
+{awin, suam, hukum, milik, zina}
+{wanita, milik, hukum, kawin, suam}
+{jaga, zina, kawin, hukum, awin}
+{allah, sebahagian, paksa, milik, budak}
+{suam, awin, wanita, kawin, zina}
+{awin, wanita, kawin, hukum, zina}
+{bayar, diat, barangsiapa, bunuh, hamba}
+{allah, zina, budak, milik, suam}
+{allah, awin, milik, hukum, suam}
+{awin, wanita, kawin, zina, suam}
+{allah, sayang, paksa, sebahagian, budak}
+{allah, pandang, tahan, laki, perempuan}
+{allah, jaga, sebahagian, paksa, milik}
+{allah, wanita, budak, paksa, sayang}
+{bunuh, diat, barangsiapa, merdeka, bayar}
+{allah, bunuh, sengaja, merdeka, mukmin}
+{awin, wanita, budak, hukum, suam}
+{awin, wanita, kawin, budak, milik}
+{allah, jaga, sayang, sebahagian, milik}
+{jaga, wanita, sayang, paksa, sebahagian}
+{allah, awin, wanita, budak, hukum}
+{zina, awin, budak, hukum, milik}
+{zina, wanita, kawin, awin, milik}
+{awin, budak, hukum, zina, milik}
+{allah, awin, wanita, budak, kawin}
+{allah, zina, awin, wanita, milik}
+{suam, awin, budak, kawin, zina}
+{awin, wanita, budak, kawin, hukum}
+{suam, allah, budak, hukum, milik}
+{allah, zina, suam, kawin, awin}
+{zina, kafir, kawin, wanita, awin}
+{zina, awin, budak, milik, suam}
+{budak, wanita, milik, laki, keji}
+{suam, zina, budak, hukum, awin}
+{allah, awin, wanita, kawin, milik}
+{jaga, allah, sayang, paksa, sebahagian}
+{allah, zina, kawin, milik, budak}
+{allah, wanita, kawin, hukum, budak}
+{mukmin, allah, kafir, merdeka, sengaja}
+{suam, zina, allah, kawin, awin}
+{allah, laki, tahan, pandang, perempuan}
+{jaga, paksa, wanita, sebahagian, sayang}
+{allah, wanita, budak, hukum, kawin}
+{budak, laki, keji, dada, milik}
+{allah, budak, paksa, sebahagian, sayang}
+{jaga, zina, kafir, kawin, awin}
+{allah, zina, wanita, milik, suam}
+{awin, kawin, hukum, milik, zina}
+{budak, wanita, milik, hukum, suam}
+{awin, wanita, milik, budak, zina}
+{jaga, awin, kafir, kawin, hukum}
+{allah, jaga, wanita, budak, paksa}
+{jaga, allah, wanita, sebahagian, milik}
+{awin, budak, kawin, hukum, zina}
+{suam, allah, kawin, hukum, budak}
+{laki, tahan, perempuan, pandang, malu}
+{suam, zina, kawin, hukum, awin}
+{allah, bunuh, dosa, balas, zina}
+{allah, wanita, keji, dada, milik}
+{allah, zina, wanita, budak, kawin}
+{jiwa, bunuh, allah, haram, tuhan}
+{allah, jaga, sayang, paksa, budak}
+{allah, zina, wanita, budak, milik}
+{awin, budak, hukum, milik, suam}
+{allah, jaga, budak, sebahagian, milik}
+{suam, wanita, kawin, hukum, budak}
+{suam, awin, budak, hukum, milik}
+{allah, bunuh, sebahagian, dosa, balas}
+{awin, wanita, budak, hukum, zina}
+{bangsa, saudara, kampung, halaman, usir}
+{allah, awin, hukum, zina, suam}
+{allah, wanita, budak, milik, suam}
+{jaga, paksa, budak, sayang, milik}
+{suam, hukum, budak, kawin, milik}
+{allah, sayang, budak, paksa, milik}
+{suam, wanita, kawin, hukum, milik}
+{tuhan, bunuh, allah, jiwa, haram}
+{kampung, bangsa, saudara, halaman, usir}
+{awin, wanita, milik, zina, suam}
+{malu, tahan, laki, pandang, perempuan}
+{awin, wanita, milik, hukum, suam}
+{awin, kawin, hukum, zina, suam}
+{zina, awin, milik, budak, suam}
+{allah, zina, awin, suam, milik}
+{suam, awin, allah, budak, milik}
+{awin, wanita, suam, hukum, milik}
+{halal, zina, wanita, kawin, awin}
+{allah, malu, laki, pandang, perempuan}
+{jaga, allah, sebahagian, sayang, budak}
+{awin, wanita, hukum, zina, milik}
+{wanita, keji, laki, dada, milik}
+{awin, wanita, milik, hukum, zina}
+{allah, zina, wanita, awin, suam}
+{awin, budak, milik, hukum, suam}
+{zina, awin, kawin, hukum, suam}
+{awin, budak, kawin, zina, milik}
+{allah, budak, laki, dada, keji}
+{jaga, zina, kafir, wanita, awin}
+{allah, awin, kawin, hukum, zina}
+{allah, awin, kawin, budak, hukum}
+{halal, zina, kawin, hukum, awin}
+{allah, zina, wanita, suam, milik}
+{allah, paksa, budak, sayang, milik}
+{awin, wanita, budak, zina, milik}
+{zina, awin, budak, kawin, hukum}
+{pandang, tahan, perempuan, laki, malu}
+{zina, wanita, hukum, kafir, awin}
+{awin, wanita, suam, hukum, zina}
+{wanita, budak, laki, keji, milik}
+{allah, zina, awin, kawin, budak}
+{awin, wanita, budak, milik, suam}
+{suam, zina, allah, kawin, milik}
+{wanita, sayang, milik, sebahagian, budak}
+{suam, wanita, budak, hukum, kawin}
+{suam, awin, wanita, budak, zina}
+{awin, kawin, hukum, milik, budak}
+{awin, wanita, kawin, milik, zina}
+{barangsiapa, bayar, diat, bunuh, hamba}
+{suam, awin, allah, kawin, milik}
+{allah, zina, awin, wanita, suam}
+{awin, kawin, hukum, zina, budak}
+{zina, awin, suam, hukum, milik}
+{barangsiapa, bunuh, diat, bayar, hamba}
+{awin, wanita, milik, kawin, suam}
+{suam, awin, milik, hukum, zina}
+{sebahagian, sayang, paksa, milik, budak}
+{jaga, awin, wanita, kawin, kafir}
+{budak, kawin, hukum, milik, suam}
+{awin, kawin, budak, hukum, suam}
+{allah, awin, budak, zina, milik}
+{bunuh, bangsa, saudara, halaman, kampung}
+{allah, zina, balas, dosa, bunuh}
+{tuhan, jiwa, allah, haram, bunuh}
+{allah, bunuh, kafir, merdeka, sengaja}
+{suam, zina, budak, milik, awin}
+{suam, zina, kawin, hukum, budak}
+{allah, kawin, hukum, milik, suam}
+{zina, wanita, kawin, milik, suam}
+{jaga, budak, sayang, paksa, milik}
+{allah, jaga, wanita, budak, sebahagian}
+{awin, wanita, hukum, kafir, zina}
+{allah, zina, kawin, milik, awin}
+{suam, budak, kawin, hukum, milik}
+{allah, malu, perempuan, pandang, laki}
+{jaga, budak, sayang, sebahagian, milik}
+{allah, awin, kawin, milik, budak}
+{bunuh, saudara, halaman, kampung, usir}
+{budak, wanita, kawin, milik, suam}
+{allah, jaga, wanita, sayang, milik}
+{allah, mukmin, sengaja, merdeka, bunuh}
+{allah, wanita, sayang, paksa, budak}
+{allah, suam, wanita, budak, milik}
+{kampung, bunuh, saudara, halaman, usir}
+{jaga, allah, budak, sebahagian, milik}
+{allah, budak, kawin, milik, suam}
+{allah, harta, wanita, budak, milik}
+{allah, wanita, budak, sayang, sebahagian}
+{allah, zina, suam, kawin, budak}
+{allah, awin, suam, zina, milik}
+{allah, pandang, perempuan, laki, malu}
+{budak, wanita, keji, dada, milik}
+{allah, milik, laki, dada, keji}
+{zina, awin, kawin, budak, suam}
+{hukum, budak, kawin, zina, milik}
+{suam, zina, wanita, budak, milik}
+{suam, zina, budak, kawin, milik}
+{milik, sayang, wanita, sebahagian, budak}
+{awin, wanita, suam, milik, zina}
+{allah, suam, budak, hukum, milik}
+{zina, wanita, awin, budak, milik}
+{zina, budak, kawin, hukum, milik}
+{allah, awin, suam, budak, zina}
+{jaga, wanita, sebahagian, sayang, milik}
+{bunuh, hamba, diat, merdeka, bayar}
+{jaga, milik, sayang, sebahagian, budak}
+{jaga, allah, sebahagian, paksa, sayang}
+{allah, awin, kawin, milik, zina}
+{jaga, wanita, sebahagian, sayang, budak}
+{bumi, rusa, muka, rasul, bunuh}
+{allah, awin, wanita, zina, milik}
+{jaga, allah, sebahagian, sayang, paksa}
+{jaga, wanita, sebahagian, milik, budak}
+{allah, awin, kawin, milik, suam}
+{allah, malu, tahan, pandang, laki}
+{wanita, budak, hukum, kawin, milik}
+{allah, wanita, budak, milik, keji}
+{allah, budak, wanita, sayang, milik}
+{zina, wanita, awin, hukum, suam}
+{allah, awin, wanita, suam, zina}
+{suam, zina, wanita, budak, awin}
+{hukum, budak, kawin, milik, suam}
+{bunuh, bangsa, halaman, saudara, usir}
+{jaga, allah, sayang, sebahagian, budak}
+{bayar, diat, barangsiapa, merdeka, bunuh}
+{awin, wanita, kawin, budak, suam}
+{allah, zina, budak, hukum, awin}
+{allah, jaga, wanita, sebahagian, budak}
+{suam, awin, allah, budak, zina}
+{jaga, sayang, paksa, sebahagian, budak}
+{barangsiapa, diat, merdeka, bayar, hamba}
+{allah, bunuh, jiwa, haram, alas}
+{jaga, zina, kafir, kawin, wanita}
+{awin, wanita, suam, kawin, zina}
+{wanita, kawin, hukum, milik, budak}
+{wanita, budak, hukum, kawin, suam}
+{allah, budak, hukum, milik, suam}
+{suam, awin, budak, hukum, zina}
+{sayang, allah, wanita, budak, milik}
+{jaga, wanita, sebahagian, paksa, milik}
+{zina, wanita, kawin, milik, awin}
+{suam, zina, awin, budak, milik}
+{allah, wanita, milik, kawin, suam}
+{allah, tuhan, jiwa, haram, bunuh}
+{bunuh, bangsa, saudara, kampung, usir}
+{allah, zina, wanita, hukum, suam}
+{zina, wanita, suam, budak, milik}
+{allah, zina, budak, kawin, hukum}
+{zina, wanita, budak, awin, suam}
+{awin, wanita, budak, hukum, kawin}
+{allah, zina, awin, hukum, suam}
+{allah, awin, wanita, milik, suam}
+{allah, wanita, budak, paksa, sebahagian}
+{allah, jaga, budak, sayang, milik}
+{jaga, kafir, kawin, hukum, wanita}
+{jaga, allah, wanita, sayang, sebahagian}
+{allah, zina, awin, hukum, milik}
+{suam, zina, budak, kawin, awin}
+{allah, wanita, sebahagian, milik, budak}
+{allah, balas, sebahagian, dosa, bunuh}
+{allah, zina, budak, hukum, milik}
+{zina, budak, kawin, milik, awin}
+{allah, mukmin, sengaja, kafir, bunuh}
+{zina, awin, budak, wanita, suam}
+{allah, zina, wanita, milik, awin}
+{allah, jaga, sebahagian, paksa, budak}
+{allah, awin, suam, milik, zina}
+{zina, wanita, milik, kawin, suam}
+{halaman, bunuh, saudara, kampung, usir}
+{jaga, allah, wanita, budak, paksa}
+{mukmin, bunuh, kafir, allah, sengaja}
+{halal, awin, kawin, hukum, zina}
+{bunuh, rusa, muka, rasul, bumi}
+{budak, kawin, hukum, wanita, suam}
+{allah, zina, wanita, hukum, milik}
+{allah, wanita, suam, hukum, milik}
+{allah, zina, kawin, hukum, awin}
+{mukmin, bunuh, sengaja, allah, merdeka}
+{barangsiapa, bunuh, hamba, diat, bayar}
+{allah, bunuh, jiwa, haram, tuhan}
+{suam, awin, budak, kawin, milik}
+{awin, budak, kawin, zina, suam}
+{bumi, rusa, muka, bunuh, rasul}
+{suam, allah, wanita, budak, milik}
+{allah, budak, wanita, kawin, milik}
+{allah, hukum, wanita, budak, kawin}
+{allah, budak, kawin, hukum, suam}
+{allah, jaga, sebahagian, sayang, budak}
+{hukum, budak, kawin, zina, suam}
+{allah, jaga, wanita, paksa, milik}
+{allah, awin, wanita, kawin, budak}
+{sayang, allah, budak, paksa, milik}
+{mukmin, allah, kafir, merdeka, bunuh}
+{bunuh, diat, hamba, merdeka, bayar}
+{jaga, sayang, sebahagian, paksa, budak}
+{suam, allah, budak, kawin, milik}
+{allah, zina, suam, budak, awin}
+{allah, awin, suam, kawin, zina}
+{allah, jaga, sebahagian, milik, budak}
+{wanita, budak, milik, dada, keji}
+{allah, kawin, milik, hukum, suam}
+{bayar, hamba, barangsiapa, diat, bunuh}
+{zina, budak, suam, hukum, milik}
+{kampung, bangsa, halaman, saudara, usir}
+{allah, zina, suam, hukum, milik}
+{allah, awin, wanita, suam, milik}
+{budak, keji, laki, dada, milik}
+{awin, wanita, budak, hukum, milik}
+{awin, milik, kawin, zina, suam}
+{suam, awin, wanita, budak, milik}
+{zina, wanita, kawin, kafir, awin}
+{allah, pandang, laki, malu, perempuan}
+{allah, bunuh, sengaja, merdeka, kafir}
+{allah, zina, milik, kawin, suam}
+{zina, wanita, kawin, awin, suam}
+{allah, sayang, sebahagian, paksa, budak}
+{zina, awin, budak, hukum, suam}
+{allah, zina, milik, hukum, suam}
+{halaman, bunuh, bangsa, saudara, kampung}
+{zina, wanita, kawin, budak, suam}
+{zina, wanita, suam, hukum, milik}
+{awin, wanita, suam, budak, milik}
+{allah, zina, budak, kawin, milik}
+{allah, jiwa, tuhan, haram, bunuh}
+{allah, jaga, sayang, paksa, milik}
+{halal, zina, wanita, kawin, hukum}
+{suam, zina, wanita, kawin, budak}
+{allah, jaga, wanita, sebahagian, paksa}
+{jaga, awin, kawin, hukum, zina}
+{jaga, awin, kafir, kawin, wanita}
+{zina, wanita, kawin, hukum, milik}
+{wanita, budak, laki, dada, milik}
+{jaga, budak, sebahagian, paksa, sayang}
+{allah, jaga, budak, sayang, paksa}
+{jaga, zina, wanita, kawin, hukum}
+{suam, zina, wanita, awin, milik}
+{zina, wanita, kawin, budak, awin}
+{allah, hukum, budak, kawin, milik}
+{wanita, budak, kawin, milik, suam}
+{jaga, allah, budak, paksa, milik}
+{allah, awin, suam, hukum, zina}
+{bunuh, bangsa, kampung, saudara, usir}
+{jaga, awin, wanita, kawin, zina}
+{awin, kafir, kawin, wanita, zina}
+{allah, awin, wanita, hukum, suam}
+{tuhan, bunuh, balas, dosa, niscaya}
+{jaga, allah, sebahagian, sayang, milik}
+{wanita, suam, hukum, kawin, milik}
+{allah, awin, kawin, zina, suam}
+{allah, budak, suam, hukum, milik}
+{allah, mukmin, kafir, merdeka, sengaja}
+{bunuh, diat, barangsiapa, hamba, bayar}
+{milik, budak, laki, dada, keji}
+{allah, wanita, budak, keji, milik}
+{awin, budak, milik, hukum, zina}
+{jaga, wanita, budak, sayang, milik}
+{allah, bunuh, kafir, sengaja, mukmin}
+{barangsiapa, bunuh, diat, merdeka, hamba}
+{allah, jaga, wanita, budak, sayang}
+{allah, zina, suam, budak, milik}
+{jaga, zina, wanita, kawin, kafir}
+{jaga, zina, kafir, kawin, hukum}
+{allah, wanita, sayang, sebahagian, budak}
+{allah, budak, sayang, paksa, milik}
+{sayang, jaga, budak, paksa, milik}
+{rasul, rusa, bunuh, muka, bumi}
+{allah, awin, budak, milik, suam}
+{allah, awin, kawin, hukum, suam}
+{allah, suam, wanita, kawin, milik}
+{allah, awin, wanita, kawin, suam}
+{jaga, allah, budak, sayang, sebahagian}
+{allah, balas, bunuh, dosa, zina}
+{allah, budak, sebahagian, sayang, milik}
+{jaga, awin, kafir, kawin, zina}
+{jaga, allah, sayang, paksa, milik}
+{allah, zina, dosa, balas, bunuh}
+{jaga, awin, kafir, hukum, wanita}
+{suam, awin, wanita, kawin, milik}
+{kampung, bunuh, bangsa, saudara, halaman}
+{zina, wanita, budak, kawin, hukum}
+{suam, zina, budak, kawin, hukum}
+{kawin, budak, hukum, milik, suam}
+{allah, jaga, sayang, sebahagian, budak}
+{allah, awin, wanita, kawin, hukum}
+{zina, wanita, budak, hukum, kawin}
+{wanita, budak, paksa, sebahagian, milik}
+{allah, wanita, keji, laki, milik}
+{zina, awin, kawin, budak, milik}
+{allah, zina, saksi, dera, akhirat}
+{allah, wanita, budak, kawin, suam}
+{allah, paksa, sebahagian, sayang, milik}
+{jaga, awin, wanita, kawin, hukum}
+{bayar, diat, barangsiapa, hamba, bunuh}
+{allah, suam, kawin, wanita, milik}
+{allah, zina, budak, suam, awin}
+{allah, paksa, wanita, budak, sayang}
+{awin, wanita, budak, kawin, zina}
+{jaga, budak, wanita, sayang, milik}
+{wanita, budak, laki, milik, keji}
+{wanita, budak, laki, dada, keji}
+{jaga, wanita, sayang, sebahagian, budak}
+{mukmin, allah, sengaja, merdeka, kafir}
+{jaga, allah, budak, paksa, sayang}
+{budak, wanita, kawin, hukum, suam}
+{allah, zina, wanita, budak, suam}
+{awin, budak, suam, zina, milik}
+{zina, wanita, budak, kawin, milik}
+{zina, wanita, kawin, hukum, kafir}
+{allah, budak, laki, keji, milik}
+{zina, wanita, milik, hukum, awin}
+{allah, wanita, milik, hukum, suam}
+{zina, budak, hukum, milik, awin}
+{zina, wanita, awin, milik, suam}
+{allah, wanita, budak, sebahagian, milik}
+{allah, awin, budak, zina, suam}
+{allah, wanita, budak, kawin, milik}
+{jaga, paksa, budak, sayang, sebahagian}
+{allah, awin, suam, budak, milik}
+{jaga, wanita, sayang, paksa, milik}
+{allah, zina, awin, kawin, suam}
+{awin, wanita, budak, kawin, suam}
+{suam, wanita, budak, hukum, milik}
+{jaga, budak, sebahagian, paksa, milik}
+{allah, zina, suam, hukum, awin}
+{suam, wanita, budak, kawin, milik}
+{allah, awin, budak, kawin, zina}
+{allah, zina, wanita, kawin, awin}
+{suam, zina, kawin, milik, awin}
+{zina, kafir, kawin, hukum, awin}
+{allah, budak, wanita, sebahagian, milik}
+{suam, zina, budak, hukum, milik}
+{awin, kawin, budak, hukum, zina}
+{wanita, sayang, sebahagian, milik, budak}
+{jaga, allah, sebahagian, paksa, milik}
+{suam, zina, wanita, kawin, milik}
+{zina, wanita, milik, budak, suam}
+{zina, wanita, suam, hukum, awin}
+{zina, kafir, hukum, wanita, awin}
+{awin, wanita, milik, kawin, zina}
+{sayang, wanita, budak, paksa, sebahagian}
+{awin, suam, kawin, zina, milik}
+{allah, wanita, budak, dada, milik}
+{zina, wanita, kawin, hukum, budak}
+{awin, wanita, kawin, kafir, zina}
+{jaga, wanita, budak, paksa, milik}
+{allah, laki, pandang, malu, perempuan}
+{allah, zina, wanita, kawin, budak}
+{allah, awin, milik, hukum, zina}
+{awin, wanita, kawin, milik, suam}
+{awin, wanita, budak, kawin, milik}
+{jaga, allah, sayang, sebahagian, milik}
+{zina, wanita, budak, awin, milik}
+{awin, wanita, suam, kawin, milik}
+{jaga, wanita, budak, paksa, sayang}
+{jiwa, allah, bunuh, haram, alas}
+{mukmin, bunuh, kafir, merdeka, sengaja}
+{allah, wanita, budak, dada, keji}
+{bunuh, hamba, barangsiapa, diat, bayar}
+{suam, zina, kawin, hukum, milik}
+{zina, wanita, milik, awin, suam}
+{jaga, budak, wanita, sebahagian, milik}
+{allah, awin, wanita, budak, milik}
+{allah, jaga, wanita, sebahagian, milik}
+{wanita, budak, hukum, milik, suam}
+{allah, zina, budak, suam, milik}
+{halal, zina, wanita, hukum, awin}
+{awin, wanita, kawin, zina, budak}
+{allah, wanita, sebahagian, sayang, budak}
+{bunuh, diat, merdeka, bayar, hamba}
+{budak, allah, wanita, sebahagian, paksa, milik}
+{budak, hukum, allah, awin, zina, kawin}
+{budak, allah, wanita, jaga, paksa, milik}
+{budak, wanita, sayang, jaga, paksa, sebahagian}
+{hukum, allah, zina, suam, awin, milik}
+{budak, hukum, allah, wanita, zina, milik}
+{budak, allah, sebahagian, jaga, paksa, milik}
+{budak, allah, wanita, suam, kawin, milik}
+{budak, allah, zina, awin, kawin, milik}
+{budak, allah, wanita, zina, kawin, milik}
+{budak, allah, suam, awin, kawin, milik}
+{suam, budak, wanita, awin, zina, kawin}
+{suam, budak, hukum, zina, awin, kawin}
+{kafir, hukum, zina, jaga, awin, kawin}
+{budak, wanita, sayang, paksa, sebahagian, milik}
+{budak, wanita, zina, awin, kawin, milik}
+{suam, budak, allah, zina, awin, milik}
+{laki, keji, budak, allah, wanita, dada}
+{bayar, diat, bunuh, barangsiapa, merdeka, hamba}
+{budak, allah, wanita, suam, awin, kawin}
+{budak, allah, wanita, awin, kawin, milik}
+{hukum, allah, wanita, suam, awin, milik}
+{budak, allah, wanita, suam, zina, awin}
+{suam, hukum, allah, awin, zina, kawin}
+{budak, allah, wanita, zina, awin, milik}
+{hukum, allah, suam, awin, kawin, milik}
+{suam, budak, hukum, wanita, awin, zina}
+{budak, hukum, zina, suam, awin, milik}
+{budak, wanita, sebahagian, jaga, paksa, milik}
+{budak, hukum, wanita, suam, kawin, milik}
+{kafir, hukum, wanita, jaga, zina, kawin}
+{suam, budak, hukum, allah, awin, zina}
+{laki, keji, budak, wanita, dada, milik}
+{budak, allah, wanita, zina, awin, kawin}
+{budak, hukum, allah, suam, zina, milik}
+{suam, budak, hukum, zina, awin, milik}
+{budak, hukum, wanita, awin, kawin, milik}
+{suam, budak, wanita, awin, zina, milik}
+{sayang, budak, allah, wanita, sebahagian, paksa}
+{budak, hukum, allah, zina, awin, milik}
+{sayang, allah, sebahagian, jaga, paksa, milik}
+{suam, hukum, allah, zina, awin, milik}
+{suam, budak, allah, wanita, awin, zina}
+{saudara, halaman, kampung, bunuh, bangsa, usir}
+{budak, hukum, allah, zina, awin, kawin}
+{budak, hukum, allah, wanita, zina, kawin}
+{hukum, allah, wanita, suam, awin, kawin}
+{hukum, allah, awin, zina, kawin, milik}
+{budak, allah, wanita, suam, zina, milik}
+{sayang, budak, allah, sebahagian, jaga, paksa}
+{suam, budak, wanita, zina, awin, milik}
+{budak, hukum, allah, suam, awin, kawin}
+{budak, hukum, allah, suam, zina, kawin}
+{kafir, hukum, wanita, awin, zina, kawin}
+{budak, hukum, zina, suam, awin, kawin}
+{suam, budak, zina, awin, kawin, milik}
+{budak, allah, wanita, zina, suam, awin}
+{budak, wanita, suam, zina, awin, kawin}
+{suam, budak, hukum, awin, zina, kawin}
+{hukum, suam, zina, awin, kawin, milik}
+{suam, hukum, allah, wanita, zina, awin}
+{suam, allah, zina, awin, kawin, milik}
+{budak, hukum, wanita, zina, kawin, milik}
+{budak, allah, wanita, sebahagian, jaga, milik}
+{budak, hukum, allah, wanita, kawin, milik}
+{kafir, wanita, awin, jaga, zina, kawin}
+{suam, allah, wanita, awin, zina, kawin}
+{suam, allah, awin, zina, kawin, milik}
+{sayang, allah, wanita, sebahagian, paksa, milik}
+{budak, hukum, allah, wanita, suam, kawin}
+{budak, allah, wanita, awin, zina, kawin}
+{hukum, allah, wanita, zina, awin, milik}
+{budak, hukum, suam, awin, kawin, milik}
+{hukum, wanita, zina, halal, awin, kawin}
+{budak, hukum, wanita, zina, awin, milik}
+{hukum, zina, suam, awin, kawin, milik}
+{suam, allah, wanita, awin, zina, milik}
+{budak, hukum, allah, suam, awin, milik}
+{budak, allah, wanita, sayang, jaga, sebahagian}
+{suam, wanita, zina, awin, kawin, milik}
+{budak, hukum, wanita, suam, zina, awin}
+{budak, hukum, allah, zina, kawin, milik}
+{suam, hukum, wanita, awin, zina, milik}
+{hukum, wanita, awin, halal, zina, kawin}
+{budak, hukum, allah, wanita, awin, zina}
+{budak, wanita, suam, awin, kawin, milik}
+{hukum, wanita, zina, awin, kawin, milik}
+{budak, allah, wanita, sayang, jaga, paksa}
+{kafir, hukum, wanita, zina, awin, kawin}
+{suam, budak, hukum, awin, zina, milik}
+{hukum, wanita, suam, zina, awin, kawin}
+{budak, allah, suam, zina, kawin, milik}
+{hukum, allah, wanita, suam, kawin, milik}
+{budak, allah, wanita, suam, awin, milik}
+{laki, budak, allah, wanita, dada, milik}
+{sayang, budak, wanita, sebahagian, jaga, paksa}
+{hukum, wanita, awin, zina, kawin, milik}
+{budak, hukum, suam, zina, awin, kawin}
+{hukum, allah, wanita, awin, zina, kawin}
+{kafir, hukum, wanita, zina, jaga, awin}
+{budak, hukum, wanita, suam, awin, milik}
+{hukum, allah, suam, zina, kawin, milik}
+{suam, budak, allah, wanita, zina, awin}
+{sayang, budak, allah, wanita, sebahagian, jaga}
+{laki, perempuan, allah, malu, tahan, pandang}
+{laki, keji, budak, allah, wanita, milik}
+{mukmin, kafir, sengaja, allah, bunuh, merdeka}
+{budak, wanita, suam, zina, kawin, milik}
+{budak, allah, wanita, suam, zina, kawin}
+{budak, allah, wanita, sayang, jaga, milik}
+{hukum, allah, zina, awin, kawin, milik}
+{hukum, allah, wanita, awin, zina, milik}
+{sayang, wanita, sebahagian, jaga, paksa, milik}
+{hukum, allah, wanita, awin, kawin, milik}
+{budak, hukum, allah, wanita, awin, kawin}
+{budak, hukum, wanita, zina, suam, awin}
+{budak, wanita, awin, zina, kawin, milik}
+{suam, budak, hukum, allah, zina, awin}
+{hukum, allah, suam, zina, awin, milik}
+{budak, hukum, allah, wanita, suam, zina}
+{budak, allah, sayang, paksa, sebahagian, milik}
+{budak, allah, zina, suam, awin, kawin}
+{kafir, hukum, wanita, jaga, awin, kawin}
+{budak, wanita, suam, zina, awin, milik}
+{suam, hukum, allah, zina, awin, kawin}
+{budak, hukum, allah, zina, suam, awin}
+{suam, wanita, awin, zina, kawin, milik}
+{budak, hukum, allah, wanita, awin, milik}
+{hukum, wanita, suam, zina, awin, milik}
+{budak, wanita, sayang, jaga, sebahagian, milik}
+{hukum, wanita, suam, awin, kawin, milik}
+{hukum, allah, wanita, suam, zina, kawin}
+{budak, allah, awin, zina, kawin, milik}
+{suam, hukum, awin, zina, kawin, milik}
+{budak, hukum, awin, zina, kawin, milik}
+{budak, allah, wanita, sayang, paksa, milik}
+{budak, hukum, wanita, suam, awin, kawin}
+{hukum, wanita, suam, zina, kawin, milik}
+{suam, hukum, wanita, zina, awin, milik}
+{suam, hukum, wanita, awin, zina, kawin}
+{budak, hukum, wanita, awin, zina, kawin}
+{kafir, hukum, awin, jaga, zina, kawin}
+{sayang, budak, allah, sebahagian, paksa, milik}
+{suam, hukum, allah, awin, zina, milik}
+{budak, allah, suam, zina, awin, kawin}
+{suam, hukum, wanita, zina, awin, kawin}
+{budak, hukum, allah, awin, zina, milik}
+{budak, hukum, allah, suam, zina, awin}
+{budak, allah, zina, suam, awin, milik}
+{budak, allah, wanita, sebahagian, jaga, paksa}
+{hukum, allah, zina, suam, awin, kawin}
+{budak, hukum, allah, wanita, zina, awin}
+{suam, budak, hukum, wanita, zina, awin}
+{laki, keji, budak, allah, dada, milik}
+{sayang, budak, sebahagian, jaga, paksa, milik}
+{budak, allah, wanita, awin, zina, milik}
+{sayang, budak, allah, wanita, sebahagian, milik}
+{suam, budak, allah, awin, zina, milik}
+{budak, hukum, wanita, zina, awin, kawin}
+{budak, allah, wanita, sayang, sebahagian, milik}
+{budak, hukum, allah, suam, kawin, milik}
+{keji, budak, allah, wanita, dada, milik}
+{hukum, allah, wanita, zina, suam, awin}
+{budak, hukum, suam, zina, awin, milik}
+{sayang, allah, wanita, sebahagian, jaga, paksa}
+{suam, allah, wanita, zina, awin, milik}
+{hukum, wanita, zina, jaga, awin, kawin}
+{budak, allah, wanita, sayang, paksa, sebahagian}
+{hukum, wanita, zina, suam, awin, milik}
+{sayang, budak, allah, sebahagian, jaga, milik}
+{budak, sayang, jaga, paksa, sebahagian, milik}
+{suam, budak, allah, zina, awin, kawin}
+{budak, allah, suam, zina, awin, milik}
+{suam, budak, wanita, zina, awin, kawin}
+{hukum, wanita, zina, suam, awin, kawin}
+{budak, hukum, allah, awin, kawin, milik}
+{suam, hukum, zina, awin, kawin, milik}
+{budak, allah, sayang, jaga, sebahagian, milik}
+{suam, hukum, allah, wanita, awin, zina}
+{budak, wanita, zina, suam, awin, milik}
+{sayang, allah, wanita, sebahagian, jaga, milik}
+{kafir, hukum, wanita, awin, jaga, zina}
+{hukum, allah, wanita, zina, awin, kawin}
+{kafir, wanita, zina, jaga, awin, kawin}
+{budak, hukum, allah, wanita, suam, awin}
+{budak, hukum, suam, zina, kawin, milik}
+{suam, budak, allah, awin, zina, kawin}
+{budak, hukum, wanita, suam, zina, kawin}
+{suam, budak, awin, zina, kawin, milik}
+{hukum, allah, wanita, suam, zina, awin}
+{halaman, saudara, kampung, bunuh, bangsa, usir}
+{budak, wanita, zina, suam, awin, kawin}
+{budak, allah, sayang, jaga, paksa, milik}
+{suam, allah, wanita, zina, awin, kawin}
+{budak, hukum, zina, awin, kawin, milik}
+{budak, hukum, allah, wanita, suam, milik}
+{budak, wanita, sayang, jaga, paksa, milik}
+{sayang, budak, wanita, sebahagian, jaga, milik}
+{hukum, allah, suam, zina, awin, kawin}
+{budak, hukum, wanita, suam, zina, milik}
+{budak, hukum, wanita, awin, zina, milik}
+{hukum, allah, wanita, zina, kawin, milik}
+{hukum, allah, wanita, suam, zina, milik}
+{budak, allah, sayang, jaga, paksa, sebahagian}
+{hukum, wanita, awin, jaga, zina, kawin}
+{laki, keji, allah, wanita, dada, milik}
+{allah, wanita, laki, keji, budak, dada, milik}
+{kafir, zina, jaga, awin, kawin, hukum, wanita}
+{allah, wanita, zina, awin, suam, hukum, milik}
+{allah, wanita, awin, zina, suam, hukum, milik}
+{wanita, zina, jaga, awin, kawin, hukum, kafir}
+{kafir, awin, jaga, zina, kawin, hukum, wanita}
+{wanita, awin, jaga, zina, kawin, hukum, kafir}
+{wanita, budak, suam, zina, awin, kawin, hukum, milik}
+{allah, wanita, kawin, zina, suam, awin, budak, hukum}
+{allah, wanita, suam, zina, awin, budak, hukum, milik}
+{allah, wanita, budak, awin, zina, kawin, hukum, milik}
+{allah, wanita, budak, suam, awin, kawin, hukum, milik}
+{allah, wanita, budak, zina, suam, awin, kawin, milik}
+{allah, wanita, kawin, suam, awin, budak, hukum, milik}
+{allah, wanita, kawin, zina, awin, budak, hukum, milik}
+{allah, wanita, sayang, jaga, budak, paksa, sebahagian, milik}
+{wanita, kawin, awin, suam, zina, budak, hukum, milik}
+{allah, wanita, budak, suam, zina, awin, kawin, hukum}
+{allah, wanita, budak, zina, awin, kawin, hukum, milik}
+{allah, kawin, zina, suam, awin, budak, hukum, milik}
+{allah, wanita, kawin, awin, suam, zina, budak, milik}
+{allah, wanita, budak, suam, zina, kawin, hukum, milik}
+{allah, wanita, awin, suam, zina, budak, hukum, milik}
+{allah, wanita, suam, zina, awin, kawin, hukum, milik}
+{allah, kawin, suam, zina, awin, budak, hukum, milik}
+{allah, wanita, kawin, suam, zina, awin, budak, hukum}
+{allah, wanita, kawin, awin, suam, zina, budak, hukum}
+{allah, wanita, budak, zina, suam, awin, kawin, hukum}
+{allah, wanita, kawin, suam, zina, awin, budak, milik}
+{allah, wanita, zina, suam, awin, budak, hukum, milik}
+{allah, wanita, kawin, awin, zina, budak, hukum, milik}
+{allah, wanita, kawin, suam, zina, budak, hukum, milik}
+{allah, budak, zina, suam, awin, kawin, hukum, milik}
+{wanita, kawin, suam, zina, awin, budak, hukum, milik}
+{allah, wanita, awin, suam, zina, kawin, hukum, milik}
+{allah, budak, suam, zina, awin, kawin, hukum, milik}
+{wanita, budak, zina, suam, awin, kawin, hukum, milik}
+{allah, wanita, budak, suam, zina, awin, kawin, milik}
+{allah, wanita, kawin, zina, suam, awin, budak, milik}
+{allah, kawin, awin, suam, zina, budak, hukum, milik}
+{allah, wanita, zina, suam, awin, kawin, hukum, milik}
+{allah, wanita, sebahagian, sayang, jaga, budak, paksa, milik}
+{wanita, kawin, zina, suam, awin, budak, hukum, milik}
+{suam, budak, hukum, allah, wanita, awin, zina, kawin, milik}
+{budak, hukum, allah, wanita, suam, zina, awin, kawin, milik}
+{suam, budak, hukum, allah, wanita, zina, awin, kawin, milik}
+{budak, hukum, allah, wanita, zina, suam, awin, kawin, milik}

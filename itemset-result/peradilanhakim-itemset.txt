@@ -1,0 +1,107 @@
+{allah, siksa}
+{allah, cinta}
+{allah, janji}
+{saudara, harun}
+{perintah, kuat}
+{jalan, bumi}
+{allah, utus}
+{allah, taurat}
+{kafir, turun}
+{ingkar, kaum}
+{allah, azab}
+{perintah, kaum}
+{sesat, manusia}
+{kitab, nabi}
+{kitab, turun}
+{allah, halang}
+{muka, bumi}
+{lindung, zalim}
+{kitab, manusia}
+{kitab, jalan}
+{allah, kaya}
+{allah, rasul}
+{allah, bumi}
+{zalim, tolong}
+{allah, kuasa}
+{allah, dosa}
+{allah, harta}
+{sebahagian, dosa}
+{jalan, taurat}
+{jalan, tuhan}
+{allah, lemah}
+{taurat, tuhan}
+{harun, jalan}
+{tuhan, urus}
+{jalan, sesat}
+{jalan, urus}
+{kitab, hawa}
+{perintah, tuhan}
+{saudara, kaum}
+{jalan, zalim}
+{manusia, urus}
+{taurat, kaum}
+{allah, saudara}
+{hati, urus}
+{perintah, kitab}
+{allah, fasik}
+{allah, dusta}
+{kafir, tuhan}
+{jalan, berita}
+{allah, takwa}
+{harun, kaum, saudara}
+{dosa, allah, sebahagian}
+{allah, kaum, tuhan}
+{turun, allah, hawa}
+{mukmin, allah, kafir}
+{quran, kafir, kitab}
+{allah, tuhan, perintah}
+{turun, hawa, kitab}
+{jalan, harun, kaum}
+{turun, manusia, hawa}
+{manusia, hawa, jalan}
+{allah, kaum, kafir}
+{allah, berita, yahudi}
+{jalan, hawa, manusia}
+{allah, musuh, tuhan}
+{kafir, jalan, hawa}
+{urus, jalan, manusia}
+{turun, kitab, perintah}
+{allah, harun, kaum}
+{allah, kafir, mukmin}
+{allah, ingkar, tuhan}
+{kafir, jalan, kitab}
+{kafir, kaum, allah}
+{turun, jalan, manusia, kitab}
+{allah, jalan, hawa, putus}
+{kafir, jalan, putus, allah}
+{turun, perkara, manusia, allah}
+{kafir, jalan, tinggal, allah}
+{turun, kafir, kitab, taurat}
+{putus, jalan, hawa, allah}
+{turun, manusia, jalan, kitab}
+{kafir, jalan, allah, tinggal}
+{kafir, jalan, allah, putus}
+{allah, jalan, kafir, putus}
+{kafir, perintah, kitab, allah}
+{allah, perintah, kitab, kafir}
+{turun, allah, manusia, perkara}
+{bumi, allah, jalan, muka}
+{kafir, allah, kitab, perintah}
+{turun, perkara, putus, allah, barangsiapa}
+{perkara, jalan, manusia, putus, allah}
+{turun, perkara, allah, putus, barangsiapa}
+{allah, nafsu, hawa, manusia, perkara}
+{turun, putus, allah, perkara, barangsiapa}
+{perkara, manusia, allah, jalan, putus}
+{perkara, manusia, jalan, allah, putus}
+{turun, allah, putus, perkara, barangsiapa}
+{perkara, manusia, jalan, putus, allah}
+{allah, manusia, hawa, nafsu, perkara}
+{allah, jalan, manusia, putus, perkara}
+{perkara, manusia, hawa, nafsu, allah}
+{perkara, nafsu, hawa, manusia, allah}
+{turun, perkara, barangsiapa, allah, putus}
+{turun, allah, barangsiapa, putus, perkara}
+{perkara, jalan, manusia, allah, putus}
+{turun, allah, barangsiapa, perkara, putus}
+{allah, manusia, jalan, putus, perkara}

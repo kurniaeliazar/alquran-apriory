@@ -1,0 +1,39 @@
+{allah, quran}
+{allah, urus}
+{allah, hukum}
+{allah, dosa}
+{allah, kaum}
+{allah, pahala}
+{allah, saksi}
+{allah, sesat}
+{allah, ayat}
+{tuhan, kitab}
+{allah, ilmu}
+{allah, kitab}
+{allah, jalan}
+{allah, dusta}
+{allah, sayang}
+{ayat, kitab}
+{allah, haram}
+{quran, tuhan}
+{allah, rasul}
+{allah, takut}
+{allah, takwa}
+{allah, binatang}
+{allah, barangsiapa}
+{halal, haram}
+{turun, tuhan}
+{allah, perintah}
+{allah, ajar}
+{allah, hati}
+{tuhan, haram}
+{allah, niscaya}
+{allah, langit}
+{allah, terang}
+{allah, kafir}
+{allah, tuhan, manusia}
+{allah, tuhan, turun}
+{haram, halal, allah}
+{haram, allah, halal}
+{haram, allah, tuhan}
+{rasul, allah, taat}

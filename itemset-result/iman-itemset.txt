@@ -1,0 +1,35 @@
+{tuhan, sayang}
+{bumi, langit}
+{allah, takwa}
+{tuhan, takwa}
+{allah, rasul}
+{allah, manusia}
+{allah, kaum}
+{tuhan, rasul}
+{tuhan, kaum}
+{allah, zalim}
+{allah, janji}
+{allah, bijaksana}
+{allah, hamba}
+{allah, tolong}
+{allah, perkasa}
+{allah, urus}
+{allah, sayang}
+{tuhan, allah, niscaya}
+{tuhan, allah, kuasa}
+{tuhan, allah, azab}
+{tuhan, manusia, allah}
+{tuhan, kafir, allah}
+{tuhan, allah, siksa}
+{tuhan, allah, jalan}
+{tuhan, allah, sembah}
+{tuhan, allah, kafir}
+{tuhan, langit, bumi}
+{tuhan, allah, hati}
+{jalan, allah, tuhan}
+{allah, langit, bumi}
+{tuhan, allah, turun}
+{tuhan, allah, rahmat}
+{tuhan, allah, utus}
+{sembah, allah, tuhan}
+{tuhan, allah, bumi}

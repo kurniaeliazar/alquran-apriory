@@ -1,0 +1,3418 @@
+dada --> laki
+isteri --> budak
+adakan --> bunuh
+jaga --> budak
+islam --> wanita
+pandang --> malu
+malu --> pandang
+agama --> pimpin
+pimpin --> agama
+nampak --> keji
+milik --> paksa
+paksa --> milik
+suam --> wanita
+potong --> siksa
+dusta --> terima
+awin --> halal
+halal --> awin
+kampung --> bangsa
+bangsa --> kampung
+muka --> rusa
+rusa --> muka
+perang --> janji
+tahan --> malu
+malu --> tahan
+dada --> wanita
+halal --> zina
+ayah --> perempuan
+jaga --> kafir
+suam --> hukum
+malu --> laki
+perintah --> allah
+sayang --> jaga
+jaga --> sayang
+agama --> allah
+alas --> jiwa
+kubur --> hidup
+bijaksana --> allah
+dunia --> siksa
+suci --> balas
+halal --> hukum
+malu --> perempuan
+milik --> kawin
+kawin --> milik
+halal --> wanita
+jaga --> wanita
+suci --> allah
+kitab --> kiamat
+kiamat --> kitab
+jaga --> hukum
+takut --> keji
+awin --> jaga
+jaga --> awin
+hukum --> kawin
+kawin --> hukum
+kuasa --> allah
+jaga --> barangsiapa
+dada --> budak
+sebahagian --> dosa
+sayang --> janji
+akhirat --> zina
+kawin --> halal
+halal --> kawin
+halaman --> bangsa
+bangsa --> halaman
+israil --> hidup
+sembunyi --> keji
+tuhan, keji --> bunuh
+bunuh, keji --> tuhan
+allah, saksi --> wanita
+allah, wanita --> saksi
+saksi, wanita --> allah
+allah, kaki --> perempuan
+allah, perempuan --> kaki
+kaki, perempuan --> allah
+balas, zalim --> dosa
+balas, dosa --> zalim
+zalim, dosa --> balas
+tuhan, maaf --> bunuh
+bunuh, maaf --> tuhan
+allah, adakan --> bunuh
+allah, curi --> perempuan
+allah, perempuan --> curi
+curi, perempuan --> allah
+terima, zina --> wanita
+wanita, zina --> terima
+allah, balas --> siksa
+allah, siksa --> balas
+balas, siksa --> allah
+allah, kaki --> bunuh
+bunuh, kaki --> allah
+allah, damai --> janji
+allah, janji --> damai
+bunuh, hidup --> israil
+bunuh, israil --> hidup
+isteri, milik --> budak
+budak, milik --> isteri
+allah, potong --> siksa
+bayar, wanita --> barangsiapa
+bayar, barangsiapa --> wanita
+allah, perempuan --> kaki
+allah, kaki --> perempuan
+allah, barangsiapa --> janji
+allah, janji --> barangsiapa
+barangsiapa, janji --> allah
+allah, dunia --> sebahagian
+allah, sebahagian --> dunia
+dunia, sebahagian --> allah
+allah, dunia --> wanita
+allah, wanita --> dunia
+dunia, wanita --> allah
+allah, dunia --> akhirat
+allah, akhirat --> dunia
+dunia, akhirat --> allah
+allah, niscaya --> bunuh
+bunuh, niscaya --> allah
+allah, dunia --> lengah
+allah, lengah --> dunia
+dunia, lengah --> allah
+allah, barangsiapa --> bunuh
+bunuh, barangsiapa --> allah
+bunuh, saudara --> siksa
+allah, sayang --> janji
+allah, janji --> sayang
+allah, wanita --> dunia
+allah, dunia --> wanita
+allah, janji --> damai
+allah, siksa --> potong
+allah, potong --> siksa
+allah, sekutu --> bunuh
+bunuh, sekutu --> allah
+allah, zina, sayang --> bunuh
+allah, zina, bunuh --> sayang
+zina, sayang, bunuh --> allah
+allah, sembunyi, nampak --> keji
+allah, sembunyi, keji --> nampak
+allah, nampak, keji --> sembunyi
+sembunyi, nampak, keji --> allah
+balas, dosa, bunuh --> keji
+allah, bunuh, takut --> keji
+allah, bunuh, keji --> takut
+allah, takut, keji --> bunuh
+bunuh, takut, keji --> allah
+allah, siksa, dunia --> bunuh
+allah, siksa, bunuh --> dunia
+allah, bunuh, lampau --> batas
+allah, bunuh, batas --> lampau
+allah, lampau, batas --> bunuh
+bunuh, lampau, batas --> allah
+terima, kafir, barangsiapa --> bayar
+terima, kafir, bayar --> barangsiapa
+terima, barangsiapa, bayar --> kafir
+allah, zina, hukum --> laki
+allah, zina, laki --> hukum
+zina, hukum, laki --> allah
+pelihara, lampau, batas --> bunuh
+bunuh, lampau, batas --> pelihara
+allah, balas, tebus --> dosa
+allah, balas, dosa --> tebus
+allah, tebus, dosa --> balas
+balas, tebus, dosa --> allah
+bunuh, rasul, bumi --> muka
+bunuh, muka, bumi --> rasul
+rasul, muka, bumi --> bunuh
+allah, bunuh, janji --> terima
+allah, bunuh, terima --> janji
+bunuh, janji, terima --> allah
+allah, pelihara, laki --> balas
+pelihara, laki, balas --> allah
+allah, bunuh, takut --> tuhan
+pelihara, lampau, bunuh --> batas
+allah, terima, dusta --> zina
+allah, terima, zina --> dusta
+terima, dusta, zina --> allah
+bunuh, larang, dosa --> balas
+bunuh, larang, balas --> dosa
+bunuh, dosa, balas --> larang
+allah, balas, laki --> pelihara
+allah, balas, pelihara --> laki
+balas, laki, pelihara --> allah
+bayar, kafir, barangsiapa --> terima
+bayar, kafir, terima --> barangsiapa
+bayar, barangsiapa, terima --> kafir
+siksa, bunuh, dunia --> allah
+siksa, bunuh, allah --> dunia
+allah, jiwa, dosa --> balas
+allah, jiwa, balas --> dosa
+balas, larang, dosa --> bunuh
+balas, larang, bunuh --> dosa
+balas, dosa, bunuh --> larang
+allah, balas, jiwa --> dosa
+allah, balas, dosa --> jiwa
+allah, jiwa, dosa --> balas
+allah, zina, dusta --> terima
+allah, zina, terima --> dusta
+jiwa, allah, zalim --> barangsiapa
+jiwa, zalim, barangsiapa --> allah
+allah, zalim, barangsiapa --> jiwa
+jiwa, balas, allah --> dosa
+jiwa, balas, dosa --> allah
+jiwa, allah, dosa --> balas
+bunuh, keji, balas --> dosa
+bunuh, dosa, balas --> keji
+bunuh, pelihara, batas --> lampau
+bunuh, lampau, batas --> pelihara
+pelihara, lampau, batas --> bunuh
+allah, terima, janji --> bunuh
+allah, bunuh, dunia --> siksa
+allah, bunuh, siksa --> dunia
+bunuh, balas, keji --> dosa
+bunuh, dosa, keji --> balas
+balas, dosa, keji --> bunuh
+allah, bunuh, haram --> rezki
+allah, bunuh, rezki --> haram
+bunuh, haram, rezki --> allah
+bunuh, dosa, balas --> keji
+bunuh, dosa, keji --> balas
+bunuh, balas, keji --> dosa
+allah, laki, hukum --> zina
+laki, hukum, zina --> allah
+tuhan, bunuh, takut --> allah
+allah, zina, wanita --> azab
+allah, zina, azab --> wanita
+allah, wanita, azab --> zina
+zina, wanita, azab --> allah
+allah, jiwa, zalim --> barangsiapa
+allah, jiwa, barangsiapa --> zalim
+allah, zalim, barangsiapa --> jiwa
+jiwa, zalim, barangsiapa --> allah
+bunuh, batas, pelihara --> lampau
+bunuh, lampau, pelihara --> batas
+allah, rezki, haram --> bunuh
+allah, rezki, bunuh --> haram
+rezki, haram, bunuh --> allah
+jiwa, allah, dosa --> balas
+bunuh, barangsiapa, lampau --> batas
+bunuh, barangsiapa, batas --> lampau
+bunuh, lampau, batas --> barangsiapa
+barangsiapa, lampau, batas --> bunuh
+allah, bunuh, sayang --> zina
+allah, bunuh, zina --> sayang
+bunuh, sayang, zina --> allah
+allah, saksi, laki --> jalan
+allah, saksi, jalan --> laki
+allah, laki, jalan --> saksi
+saksi, laki, jalan --> allah
+balas, bunuh, keji --> dosa
+balas, dosa, keji --> bunuh
+bunuh, dosa, keji --> balas
+allah, tuhan, takut --> bunuh
+allah, tuhan, bunuh --> takut
+awin, kawin, hukum, zina --> suam
+awin, suam, hukum, zina --> kawin
+awin, wanita, kawin, hukum --> milik
+awin, wanita, kawin, milik --> hukum
+awin, wanita, hukum, milik --> kawin
+awin, kawin, hukum, milik --> wanita
+wanita, kawin, hukum, milik --> awin
+allah, awin, kawin, hukum --> budak
+allah, awin, kawin, budak --> hukum
+allah, kawin, hukum, budak --> awin
+awin, kawin, hukum, budak --> allah
+bayar, hamba, barangsiapa, bunuh --> merdeka
+bayar, barangsiapa, merdeka, bunuh --> hamba
+jaga, budak, paksa, milik --> sayang
+jaga, budak, paksa, sayang --> milik
+allah, wanita, budak, hukum --> milik
+allah, wanita, budak, milik --> hukum
+allah, wanita, hukum, milik --> budak
+allah, budak, hukum, milik --> wanita
+wanita, budak, hukum, milik --> allah
+allah, awin, wanita, milik --> zina
+allah, awin, wanita, zina --> milik
+allah, awin, milik, zina --> wanita
+awin, wanita, milik, zina --> allah
+allah, balas, zina, bunuh --> dosa
+allah, balas, dosa, bunuh --> zina
+allah, zina, dosa, bunuh --> balas
+balas, zina, dosa, bunuh --> allah
+tuhan, balas, bunuh, niscaya --> dosa
+tuhan, balas, dosa, niscaya --> bunuh
+tuhan, bunuh, dosa, niscaya --> balas
+balas, bunuh, dosa, niscaya --> tuhan
+awin, milik, hukum, zina --> suam
+awin, milik, hukum, suam --> zina
+awin, milik, zina, suam --> hukum
+awin, hukum, zina, suam --> milik
+allah, zina, awin, milik --> budak
+allah, zina, budak, milik --> awin
+allah, awin, budak, milik --> zina
+zina, awin, budak, milik --> allah
+suam, awin, budak, milik --> zina
+suam, awin, budak, zina --> milik
+suam, awin, milik, zina --> budak
+awin, budak, milik, zina --> suam
+allah, laki, tahan, pandang --> malu
+laki, tahan, pandang, malu --> allah
+sayang, wanita, budak, sebahagian --> milik
+sayang, wanita, budak, milik --> sebahagian
+sayang, wanita, sebahagian, milik --> budak
+sayang, budak, sebahagian, milik --> wanita
+wanita, budak, sebahagian, milik --> sayang
+allah, budak, keji, milik --> wanita
+allah, wanita, keji, milik --> budak
+budak, wanita, keji, milik --> allah
+awin, wanita, kawin, milik --> budak
+awin, wanita, kawin, budak --> milik
+awin, kawin, milik, budak --> wanita
+wanita, kawin, milik, budak --> awin
+awin, budak, milik, zina --> suam
+awin, budak, milik, suam --> zina
+awin, budak, zina, suam --> milik
+awin, milik, zina, suam --> budak
+zina, wanita, suam, milik --> kawin
+zina, wanita, kawin, milik --> suam
+zina, suam, kawin, milik --> wanita
+wanita, suam, kawin, milik --> zina
+allah, jiwa, bunuh, alas --> haram
+allah, jiwa, haram, alas --> bunuh
+allah, bunuh, haram, alas --> jiwa
+jiwa, bunuh, haram, alas --> allah
+allah, hukum, budak, kawin --> suam
+allah, budak, kawin, suam --> hukum
+hukum, budak, kawin, suam --> allah
+zina, wanita, suam, milik --> awin
+zina, wanita, awin, milik --> suam
+allah, jaga, wanita, sayang --> sebahagian
+allah, jaga, wanita, sebahagian --> sayang
+allah, jaga, sayang, sebahagian --> wanita
+allah, wanita, sayang, sebahagian --> jaga
+jaga, wanita, sayang, sebahagian --> allah
+jaga, zina, kafir, hukum --> awin
+jaga, zina, kafir, awin --> hukum
+jaga, zina, hukum, awin --> kafir
+zina, kafir, hukum, awin --> jaga
+allah, bunuh, zina, balas --> dosa
+allah, bunuh, dosa, balas --> zina
+allah, zina, dosa, balas --> bunuh
+bunuh, zina, dosa, balas --> allah
+jaga, budak, paksa, sebahagian --> milik
+jaga, budak, paksa, milik --> sebahagian
+jaga, budak, sebahagian, milik --> paksa
+budak, paksa, sebahagian, milik --> jaga
+allah, awin, budak, suam --> zina
+allah, awin, budak, zina --> suam
+allah, awin, suam, zina --> budak
+awin, budak, suam, zina --> allah
+allah, zina, wanita, hukum --> awin
+allah, zina, wanita, awin --> hukum
+allah, zina, hukum, awin --> wanita
+zina, wanita, hukum, awin --> allah
+budak, wanita, keji, milik --> laki
+budak, keji, laki, milik --> wanita
+wanita, keji, laki, milik --> budak
+awin, budak, kawin, hukum --> suam
+awin, budak, kawin, suam --> hukum
+awin, budak, hukum, suam --> kawin
+awin, kawin, hukum, suam --> budak
+budak, kawin, hukum, suam --> awin
+allah, awin, milik, zina --> kawin
+allah, awin, kawin, zina --> milik
+awin, milik, kawin, zina --> allah
+jaga, allah, wanita, sayang --> paksa
+jaga, allah, sayang, paksa --> wanita
+jaga, wanita, sayang, paksa --> allah
+allah, wanita, sayang, paksa --> jaga
+allah, pandang, tahan, laki --> malu
+allah, pandang, laki, malu --> tahan
+pandang, tahan, laki, malu --> allah
+allah, jaga, budak, paksa --> milik
+allah, jaga, budak, milik --> paksa
+allah, jaga, paksa, milik --> budak
+allah, budak, paksa, milik --> jaga
+jaga, budak, paksa, milik --> allah
+allah, kawin, budak, hukum --> suam
+allah, kawin, hukum, suam --> budak
+allah, budak, hukum, suam --> kawin
+kawin, budak, hukum, suam --> allah
+jaga, awin, wanita, kafir --> zina
+jaga, awin, wanita, zina --> kafir
+jaga, awin, kafir, zina --> wanita
+allah, awin, budak, hukum --> suam
+allah, awin, budak, suam --> hukum
+allah, awin, hukum, suam --> budak
+allah, budak, hukum, suam --> awin
+awin, budak, hukum, suam --> allah
+laki, tahan, pandang, malu --> perempuan
+laki, tahan, pandang, perempuan --> malu
+laki, pandang, malu, perempuan --> tahan
+zina, budak, kawin, hukum --> suam
+zina, budak, kawin, suam --> hukum
+zina, budak, hukum, suam --> kawin
+zina, kawin, hukum, suam --> budak
+budak, kawin, hukum, suam --> zina
+jaga, wanita, sayang, milik --> budak
+jaga, wanita, sayang, budak --> milik
+jaga, sayang, milik, budak --> wanita
+wanita, sayang, milik, budak --> jaga
+zina, wanita, budak, milik --> suam
+zina, wanita, budak, suam --> milik
+zina, wanita, milik, suam --> budak
+zina, budak, milik, suam --> wanita
+wanita, budak, milik, suam --> zina
+awin, budak, kawin, milik --> zina
+awin, budak, kawin, zina --> milik
+awin, budak, milik, zina --> kawin
+awin, kawin, milik, zina --> budak
+zina, kawin, budak, hukum --> awin
+zina, kawin, hukum, awin --> budak
+zina, budak, hukum, awin --> kawin
+jaga, wanita, kawin, hukum --> kafir
+jaga, wanita, kawin, kafir --> hukum
+jaga, wanita, hukum, kafir --> kawin
+wanita, kawin, hukum, kafir --> jaga
+allah, zina, budak, milik --> awin
+allah, zina, budak, awin --> milik
+allah, zina, milik, awin --> budak
+zina, budak, milik, awin --> allah
+awin, budak, kawin, hukum --> suam
+awin, budak, kawin, zina --> hukum
+awin, budak, kawin, hukum --> zina
+hukum, budak, kawin, suam --> awin
+awin, budak, kawin, suam --> hukum
+allah, zina, wanita, kawin --> hukum
+allah, zina, wanita, hukum --> kawin
+allah, zina, kawin, hukum --> wanita
+allah, wanita, kawin, hukum --> zina
+zina, wanita, kawin, hukum --> allah
+allah, kawin, hukum, milik --> suam
+allah, suam, hukum, milik --> kawin
+allah, awin, budak, suam --> milik
+allah, awin, budak, milik --> suam
+allah, awin, suam, milik --> budak
+allah, budak, suam, milik --> awin
+awin, budak, suam, milik --> allah
+tuhan, bunuh, dosa, balas --> niscaya
+tuhan, bunuh, dosa, niscaya --> balas
+tuhan, bunuh, balas, niscaya --> dosa
+jaga, zina, wanita, kafir --> awin
+jaga, zina, wanita, awin --> kafir
+jaga, zina, kafir, awin --> wanita
+zina, wanita, kafir, awin --> jaga
+allah, awin, budak, kawin --> hukum
+allah, awin, budak, hukum --> kawin
+allah, awin, kawin, hukum --> budak
+awin, budak, kawin, hukum --> allah
+wanita, sebahagian, paksa, milik --> budak
+wanita, sebahagian, paksa, budak --> milik
+wanita, sebahagian, milik, budak --> paksa
+allah, budak, paksa, milik --> sayang
+allah, budak, paksa, sayang --> milik
+budak, sayang, sebahagian, milik --> wanita
+budak, wanita, sebahagian, milik --> sayang
+sayang, wanita, sebahagian, milik --> budak
+awin, wanita, suam, zina --> budak
+awin, wanita, budak, zina --> suam
+jaga, allah, wanita, sebahagian --> paksa
+jaga, allah, sebahagian, paksa --> wanita
+jaga, wanita, sebahagian, paksa --> allah
+allah, wanita, sebahagian, paksa --> jaga
+bayar, hamba, diat, bunuh --> merdeka
+bayar, diat, merdeka, bunuh --> hamba
+awin, suam, hukum, zina --> milik
+awin, suam, hukum, milik --> zina
+awin, suam, zina, milik --> hukum
+awin, hukum, zina, milik --> suam
+allah, jaga, budak, paksa --> sayang
+allah, jaga, budak, sayang --> paksa
+allah, budak, paksa, sayang --> jaga
+jaga, budak, paksa, sayang --> allah
+awin, wanita, kawin, zina --> milik
+awin, wanita, kawin, milik --> zina
+awin, wanita, zina, milik --> kawin
+awin, kawin, zina, milik --> wanita
+milik, sayang, sebahagian, budak --> paksa
+sayang, paksa, sebahagian, budak --> milik
+budak, milik, laki, keji --> dada
+budak, milik, dada, keji --> laki
+budak, laki, dada, keji --> milik
+milik, laki, dada, keji --> budak
+allah, awin, milik, zina --> suam
+allah, awin, milik, suam --> zina
+allah, awin, zina, suam --> milik
+awin, milik, zina, suam --> allah
+allah, mukmin, kafir, merdeka --> bunuh
+allah, mukmin, kafir, bunuh --> merdeka
+allah, mukmin, merdeka, bunuh --> kafir
+awin, kawin, hukum, milik --> suam
+awin, kawin, hukum, suam --> milik
+awin, kawin, milik, suam --> hukum
+kawin, hukum, milik, suam --> awin
+bunuh, hamba, barangsiapa, bayar --> merdeka
+bunuh, hamba, merdeka, bayar --> barangsiapa
+bunuh, barangsiapa, merdeka, bayar --> hamba
+awin, kafir, kawin, hukum --> zina
+awin, kafir, kawin, zina --> hukum
+awin, kafir, hukum, zina --> kawin
+awin, kawin, hukum, zina --> kafir
+allah, wanita, budak, laki --> milik
+allah, wanita, budak, milik --> laki
+allah, wanita, laki, milik --> budak
+allah, budak, laki, milik --> wanita
+wanita, budak, laki, milik --> allah
+allah, zina, suam, milik --> awin
+allah, zina, suam, awin --> milik
+allah, zina, milik, awin --> suam
+allah, jaga, wanita, budak --> milik
+allah, jaga, wanita, milik --> budak
+allah, jaga, budak, milik --> wanita
+allah, wanita, budak, milik --> jaga
+jaga, wanita, budak, milik --> allah
+bunuh, diat, barangsiapa, merdeka --> hamba
+bunuh, diat, barangsiapa, hamba --> merdeka
+bunuh, diat, merdeka, hamba --> barangsiapa
+bunuh, barangsiapa, merdeka, hamba --> diat
+diat, barangsiapa, merdeka, hamba --> bunuh
+jaga, sebahagian, paksa, milik --> budak
+jaga, sebahagian, paksa, budak --> milik
+jaga, sebahagian, milik, budak --> paksa
+jaga, awin, kafir, wanita --> zina
+jaga, awin, kafir, zina --> wanita
+jaga, awin, wanita, zina --> kafir
+awin, kafir, wanita, zina --> jaga
+zina, wanita, awin, milik --> hukum
+zina, wanita, hukum, milik --> awin
+zina, awin, hukum, milik --> wanita
+allah, budak, milik, keji --> dada
+allah, budak, dada, keji --> milik
+allah, milik, dada, keji --> budak
+budak, milik, dada, keji --> allah
+allah, awin, suam, milik --> hukum
+allah, awin, hukum, milik --> suam
+allah, suam, hukum, milik --> awin
+awin, suam, hukum, milik --> allah
+jaga, awin, wanita, hukum --> kafir
+jaga, awin, wanita, kafir --> hukum
+jaga, wanita, hukum, kafir --> awin
+awin, wanita, hukum, kafir --> jaga
+zina, awin, kawin, milik --> wanita
+zina, awin, wanita, milik --> kawin
+allah, zina, wanita, budak --> hukum
+allah, zina, wanita, hukum --> budak
+allah, zina, budak, hukum --> wanita
+allah, wanita, budak, hukum --> zina
+zina, wanita, budak, hukum --> allah
+allah, awin, suam, milik --> kawin
+allah, awin, kawin, milik --> suam
+allah, suam, kawin, milik --> awin
+allah, wanita, milik, keji --> laki
+allah, wanita, laki, keji --> milik
+allah, milik, laki, keji --> wanita
+wanita, milik, laki, keji --> allah
+allah, awin, kawin, zina --> milik
+allah, awin, kawin, milik --> zina
+allah, awin, zina, milik --> kawin
+awin, kawin, zina, milik --> allah
+wanita, budak, keji, milik --> dada
+wanita, budak, dada, milik --> keji
+wanita, keji, dada, milik --> budak
+budak, keji, dada, milik --> wanita
+awin, wanita, kawin, hukum --> budak
+awin, wanita, kawin, budak --> hukum
+awin, kawin, hukum, budak --> wanita
+wanita, kawin, hukum, budak --> awin
+halaman, bunuh, kampung, saudara --> bangsa
+halaman, bangsa, kampung, saudara --> bunuh
+bunuh, bangsa, kampung, saudara --> halaman
+allah, budak, sayang, sebahagian --> paksa
+allah, awin, kawin, zina --> budak
+allah, awin, kawin, budak --> zina
+awin, kawin, zina, budak --> allah
+suam, awin, kawin, milik --> hukum
+awin, kawin, hukum, milik --> suam
+allah, zina, wanita, suam --> awin
+allah, zina, wanita, awin --> suam
+allah, zina, suam, awin --> wanita
+barangsiapa, bayar, diat, merdeka --> hamba
+barangsiapa, bayar, diat, hamba --> merdeka
+barangsiapa, diat, merdeka, hamba --> bayar
+bayar, diat, merdeka, hamba --> barangsiapa
+allah, awin, kawin, budak --> suam
+allah, suam, kawin, milik --> hukum
+allah, suam, hukum, milik --> kawin
+allah, kawin, hukum, milik --> suam
+allah, budak, milik, suam --> wanita
+allah, wanita, milik, suam --> budak
+budak, wanita, milik, suam --> allah
+zina, awin, kawin, budak --> hukum
+zina, kawin, hukum, budak --> awin
+awin, kawin, hukum, budak --> zina
+allah, wanita, sayang, milik --> budak
+allah, wanita, sayang, budak --> milik
+allah, sayang, milik, budak --> wanita
+wanita, sayang, milik, budak --> allah
+jaga, allah, wanita, budak --> sebahagian
+jaga, allah, wanita, sebahagian --> budak
+jaga, allah, budak, sebahagian --> wanita
+jaga, wanita, budak, sebahagian --> allah
+allah, wanita, budak, sebahagian --> jaga
+jaga, zina, wanita, hukum --> kafir
+jaga, zina, wanita, kafir --> hukum
+jaga, wanita, hukum, kafir --> zina
+zina, wanita, hukum, kafir --> jaga
+allah, budak, dada, milik --> keji
+allah, budak, dada, keji --> milik
+allah, budak, milik, keji --> dada
+allah, awin, budak, milik --> zina
+allah, awin, budak, zina --> milik
+allah, awin, milik, zina --> budak
+awin, budak, milik, zina --> allah
+zina, wanita, awin, suam --> kawin
+zina, wanita, kawin, suam --> awin
+zina, awin, kawin, suam --> wanita
+bunuh, barangsiapa, merdeka, bayar --> hamba
+bunuh, barangsiapa, merdeka, hamba --> bayar
+bunuh, merdeka, bayar, hamba --> barangsiapa
+allah, zina, budak, hukum --> suam
+allah, zina, budak, suam --> hukum
+allah, zina, hukum, suam --> budak
+allah, budak, hukum, suam --> zina
+zina, budak, hukum, suam --> allah
+allah, zina, budak, kawin --> suam
+allah, zina, budak, suam --> kawin
+allah, zina, kawin, suam --> budak
+allah, budak, kawin, suam --> zina
+zina, budak, kawin, suam --> allah
+zina, kawin, budak, hukum --> milik
+zina, kawin, hukum, milik --> budak
+zina, budak, hukum, milik --> kawin
+kawin, budak, hukum, milik --> zina
+allah, awin, wanita, budak --> zina
+allah, awin, wanita, zina --> budak
+allah, awin, budak, zina --> wanita
+awin, wanita, budak, zina --> allah
+jaga, allah, wanita, sebahagian --> sayang
+jaga, allah, wanita, sayang --> sebahagian
+jaga, allah, sebahagian, sayang --> wanita
+jaga, wanita, sebahagian, sayang --> allah
+allah, wanita, sebahagian, sayang --> jaga
+allah, wanita, sebahagian, paksa --> sayang
+allah, wanita, sebahagian, sayang --> paksa
+awin, budak, suam, zina --> hukum
+awin, budak, hukum, zina --> suam
+awin, suam, hukum, zina --> budak
+awin, wanita, budak, milik --> zina
+awin, wanita, budak, zina --> milik
+awin, wanita, milik, zina --> budak
+awin, budak, milik, zina --> wanita
+budak, milik, dada, keji --> wanita
+wanita, milik, dada, keji --> budak
+suam, awin, kawin, budak --> wanita
+suam, wanita, kawin, budak --> awin
+awin, wanita, kawin, budak --> suam
+allah, zina, wanita, budak --> awin
+allah, zina, wanita, awin --> budak
+allah, zina, budak, awin --> wanita
+zina, wanita, budak, awin --> allah
+kampung, bunuh, halaman, saudara --> usir
+kampung, halaman, saudara, usir --> bunuh
+bunuh, halaman, saudara, usir --> kampung
+sayang, jaga, budak, milik --> sebahagian
+sayang, budak, sebahagian, milik --> jaga
+jaga, budak, sebahagian, milik --> sayang
+allah, wanita, kawin, hukum --> milik
+allah, wanita, kawin, milik --> hukum
+allah, wanita, hukum, milik --> kawin
+allah, kawin, hukum, milik --> wanita
+wanita, kawin, hukum, milik --> allah
+suam, zina, budak, awin --> allah
+allah, jaga, wanita, sayang --> budak
+allah, jaga, wanita, budak --> sayang
+allah, jaga, sayang, budak --> wanita
+allah, wanita, sayang, budak --> jaga
+jaga, wanita, sayang, budak --> allah
+suam, awin, kawin, zina --> milik
+suam, awin, kawin, milik --> zina
+awin, kawin, zina, milik --> suam
+allah, zina, wanita, kawin --> suam
+allah, zina, wanita, suam --> kawin
+allah, zina, kawin, suam --> wanita
+allah, wanita, kawin, suam --> zina
+zina, wanita, kawin, suam --> allah
+sayang, budak, paksa, sebahagian --> milik
+sayang, budak, paksa, milik --> sebahagian
+sayang, budak, sebahagian, milik --> paksa
+sayang, paksa, sebahagian, milik --> budak
+budak, paksa, sebahagian, milik --> sayang
+jaga, allah, sayang, milik --> budak
+jaga, allah, sayang, budak --> milik
+jaga, sayang, milik, budak --> allah
+allah, sayang, milik, budak --> jaga
+barangsiapa, bunuh, diat, merdeka --> bayar
+barangsiapa, bunuh, diat, bayar --> merdeka
+bunuh, diat, merdeka, bayar --> barangsiapa
+zina, awin, budak, suam --> kawin
+zina, awin, kawin, suam --> budak
+zina, budak, kawin, suam --> awin
+awin, budak, kawin, suam --> zina
+jaga, sayang, sebahagian, milik --> paksa
+jaga, sayang, paksa, milik --> sebahagian
+jaga, sebahagian, paksa, milik --> sayang
+sayang, sebahagian, paksa, milik --> jaga
+zina, wanita, kawin, hukum --> suam
+zina, wanita, kawin, suam --> hukum
+zina, wanita, hukum, suam --> kawin
+zina, kawin, hukum, suam --> wanita
+wanita, kawin, hukum, suam --> zina
+zina, kawin, hukum, milik --> suam
+zina, kawin, hukum, suam --> milik
+zina, kawin, milik, suam --> hukum
+kawin, hukum, milik, suam --> zina
+allah, malu, tahan, pandang --> perempuan
+allah, malu, tahan, perempuan --> pandang
+allah, malu, pandang, perempuan --> tahan
+allah, tahan, pandang, perempuan --> malu
+malu, tahan, pandang, perempuan --> allah
+allah, awin, budak, kawin --> suam
+allah, awin, budak, suam --> kawin
+allah, awin, kawin, suam --> budak
+allah, budak, kawin, suam --> awin
+awin, budak, kawin, suam --> allah
+allah, awin, wanita, budak --> suam
+allah, awin, wanita, suam --> budak
+allah, awin, budak, suam --> wanita
+allah, wanita, budak, suam --> awin
+awin, wanita, budak, suam --> allah
+allah, kawin, hukum, budak --> suam
+suam, kawin, hukum, budak --> allah
+mukmin, allah, sengaja, kafir --> bunuh
+mukmin, allah, sengaja, bunuh --> kafir
+mukmin, allah, kafir, bunuh --> sengaja
+jaga, wanita, budak, sebahagian --> milik
+jaga, wanita, budak, milik --> sebahagian
+jaga, wanita, sebahagian, milik --> budak
+jaga, budak, sebahagian, milik --> wanita
+wanita, budak, sebahagian, milik --> jaga
+zina, kawin, budak, hukum --> suam
+zina, kawin, hukum, suam --> budak
+zina, budak, hukum, suam --> kawin
+kawin, budak, hukum, suam --> zina
+allah, zina, kawin, hukum --> budak
+allah, zina, kawin, budak --> hukum
+allah, kawin, hukum, budak --> zina
+zina, kawin, hukum, budak --> allah
+zina, awin, hukum, suam --> wanita
+zina, awin, wanita, suam --> hukum
+bunuh, bangsa, kampung, halaman --> usir
+bunuh, bangsa, kampung, usir --> halaman
+bunuh, bangsa, halaman, usir --> kampung
+bunuh, kampung, halaman, usir --> bangsa
+bangsa, kampung, halaman, usir --> bunuh
+zina, wanita, milik, suam --> hukum
+zina, wanita, hukum, suam --> milik
+zina, milik, hukum, suam --> wanita
+wanita, milik, hukum, suam --> zina
+budak, wanita, kawin, milik --> hukum
+budak, kawin, hukum, milik --> wanita
+wanita, kawin, hukum, milik --> budak
+allah, bunuh, sengaja, kafir --> mukmin
+allah, bunuh, kafir, mukmin --> sengaja
+allah, wanita, budak, laki --> keji
+allah, wanita, budak, keji --> laki
+allah, wanita, laki, keji --> budak
+allah, budak, laki, keji --> wanita
+wanita, budak, laki, keji --> allah
+allah, suam, budak, milik --> wanita
+zina, awin, milik, suam --> hukum
+zina, awin, hukum, suam --> milik
+zina, milik, hukum, suam --> awin
+awin, milik, hukum, suam --> zina
+jaga, budak, paksa, sebahagian --> sayang
+jaga, budak, paksa, sayang --> sebahagian
+jaga, paksa, sebahagian, sayang --> budak
+suam, awin, kawin, milik --> zina
+suam, awin, kawin, zina --> milik
+suam, awin, milik, zina --> kawin
+awin, kawin, milik, zina --> suam
+allah, awin, wanita, hukum --> milik
+allah, awin, wanita, milik --> hukum
+allah, awin, hukum, milik --> wanita
+allah, wanita, hukum, milik --> awin
+awin, wanita, hukum, milik --> allah
+zina, budak, kawin, milik --> hukum
+zina, budak, kawin, hukum --> milik
+allah, budak, milik, suam --> hukum
+allah, budak, hukum, suam --> milik
+allah, milik, hukum, suam --> budak
+budak, milik, hukum, suam --> allah
+jiwa, bunuh, allah, haram --> alas
+jiwa, bunuh, allah, alas --> haram
+jiwa, bunuh, haram, alas --> allah
+jiwa, allah, haram, alas --> bunuh
+allah, zina, kawin, milik --> suam
+allah, zina, kawin, suam --> milik
+allah, zina, milik, suam --> kawin
+allah, kawin, milik, suam --> zina
+zina, kawin, milik, suam --> allah
+bunuh, bangsa, saudara, halaman --> usir
+bunuh, bangsa, saudara, usir --> halaman
+bunuh, bangsa, halaman, usir --> saudara
+bunuh, saudara, halaman, usir --> bangsa
+bangsa, saudara, halaman, usir --> bunuh
+awin, budak, suam, milik --> hukum
+awin, budak, hukum, milik --> suam
+awin, suam, hukum, milik --> budak
+jiwa, allah, haram, bunuh --> tuhan
+jiwa, tuhan, haram, bunuh --> allah
+allah, tuhan, haram, bunuh --> jiwa
+zina, kawin, milik, suam --> hukum
+zina, kawin, hukum, suam --> milik
+zina, milik, hukum, suam --> kawin
+kawin, milik, hukum, suam --> zina
+jaga, zina, kafir, hukum --> wanita
+jaga, zina, kafir, wanita --> hukum
+jaga, kafir, hukum, wanita --> zina
+zina, kafir, hukum, wanita --> jaga
+allah, wanita, budak, paksa --> milik
+allah, wanita, budak, milik --> paksa
+allah, wanita, paksa, milik --> budak
+allah, budak, paksa, milik --> wanita
+wanita, budak, paksa, milik --> allah
+allah, jaga, budak, sayang --> sebahagian
+allah, jaga, budak, sebahagian --> sayang
+allah, jaga, sayang, sebahagian --> budak
+allah, budak, sayang, sebahagian --> jaga
+jaga, budak, sayang, sebahagian --> allah
+sayang, allah, budak, milik --> sebahagian
+sayang, budak, sebahagian, milik --> allah
+allah, budak, sebahagian, milik --> sayang
+bayar, diat, merdeka, bunuh --> hamba
+bayar, diat, merdeka, hamba --> bunuh
+bayar, diat, bunuh, hamba --> merdeka
+bayar, merdeka, bunuh, hamba --> diat
+zina, awin, hukum, milik --> wanita
+zina, awin, wanita, milik --> hukum
+awin, budak, kawin, milik --> hukum
+awin, budak, kawin, hukum --> milik
+jaga, allah, wanita, sayang --> budak
+jaga, allah, wanita, budak --> sayang
+jaga, allah, sayang, budak --> wanita
+jaga, wanita, sayang, budak --> allah
+allah, wanita, sayang, budak --> jaga
+wanita, budak, dada, milik --> keji
+wanita, budak, dada, keji --> milik
+wanita, budak, milik, keji --> dada
+allah, wanita, sebahagian, sayang --> milik
+allah, wanita, sebahagian, milik --> sayang
+allah, wanita, sayang, milik --> sebahagian
+allah, sebahagian, sayang, milik --> wanita
+sayang, jaga, budak, milik --> wanita
+sayang, wanita, budak, milik --> jaga
+jaga, wanita, budak, milik --> sayang
+awin, wanita, milik, suam --> budak
+awin, wanita, budak, suam --> milik
+allah, mukmin, kafir, sengaja --> bunuh
+allah, mukmin, kafir, bunuh --> sengaja
+allah, mukmin, sengaja, bunuh --> kafir
+jaga, sebahagian, paksa, milik --> sayang
+jaga, sebahagian, paksa, sayang --> milik
+allah, wanita, laki, dada --> milik
+allah, wanita, laki, milik --> dada
+allah, wanita, dada, milik --> laki
+allah, laki, dada, milik --> wanita
+wanita, laki, dada, milik --> allah
+bangsa, saudara, halaman, usir --> kampung
+bangsa, saudara, kampung, usir --> halaman
+bangsa, halaman, kampung, usir --> saudara
+saudara, halaman, kampung, usir --> bangsa
+halal, awin, wanita, kawin --> zina
+halal, awin, wanita, zina --> kawin
+halal, awin, kawin, zina --> wanita
+awin, wanita, kawin, zina --> halal
+zina, awin, kawin, milik --> suam
+zina, awin, kawin, suam --> milik
+zina, awin, milik, suam --> kawin
+zina, kawin, milik, suam --> awin
+awin, kawin, milik, suam --> zina
+allah, mukmin, sengaja, merdeka --> kafir
+allah, mukmin, sengaja, kafir --> merdeka
+allah, sengaja, merdeka, kafir --> mukmin
+mukmin, sengaja, merdeka, kafir --> allah
+hukum, budak, kawin, milik --> wanita
+wanita, budak, kawin, milik --> hukum
+allah, budak, suam, milik --> wanita
+allah, wanita, suam, milik --> budak
+budak, wanita, suam, milik --> allah
+awin, budak, kawin, milik --> suam
+awin, budak, kawin, suam --> milik
+awin, budak, milik, suam --> kawin
+awin, kawin, milik, suam --> budak
+budak, kawin, milik, suam --> awin
+suam, zina, kawin, awin --> wanita
+zina, wanita, kawin, awin --> suam
+tuhan, balas, niscaya, bunuh --> dosa
+tuhan, balas, dosa, bunuh --> niscaya
+balas, niscaya, dosa, bunuh --> tuhan
+allah, zina, kawin, budak --> hukum
+allah, zina, kawin, hukum --> budak
+allah, zina, budak, hukum --> kawin
+allah, kawin, budak, hukum --> zina
+zina, kawin, budak, hukum --> allah
+suam, zina, budak, milik --> allah
+suam, allah, budak, milik --> zina
+allah, kawin, budak, hukum --> milik
+allah, kawin, hukum, milik --> budak
+allah, budak, hukum, milik --> kawin
+kawin, budak, hukum, milik --> allah
+allah, wanita, laki, dada --> keji
+allah, wanita, laki, keji --> dada
+allah, wanita, dada, keji --> laki
+allah, laki, dada, keji --> wanita
+wanita, laki, dada, keji --> allah
+awin, kawin, hukum, zina --> milik
+awin, kawin, hukum, milik --> zina
+awin, kawin, zina, milik --> hukum
+awin, hukum, zina, milik --> kawin
+allah, wanita, sebahagian, paksa --> budak
+allah, wanita, sebahagian, budak --> paksa
+allah, sebahagian, paksa, budak --> wanita
+wanita, sebahagian, paksa, budak --> allah
+allah, budak, laki, dada --> milik
+allah, budak, laki, milik --> dada
+allah, budak, dada, milik --> laki
+allah, laki, dada, milik --> budak
+budak, laki, dada, milik --> allah
+pandang, tahan, laki, malu --> perempuan
+pandang, tahan, laki, perempuan --> malu
+pandang, laki, malu, perempuan --> tahan
+allah, awin, milik, suam --> kawin
+allah, awin, kawin, suam --> milik
+allah, milik, kawin, suam --> awin
+halaman, bunuh, kampung, saudara --> usir
+halaman, kampung, saudara, usir --> bunuh
+bunuh, kampung, saudara, usir --> halaman
+suam, budak, kawin, milik --> wanita
+suam, wanita, kawin, milik --> budak
+budak, wanita, kawin, milik --> suam
+allah, zina, budak, kawin --> awin
+allah, zina, budak, awin --> kawin
+allah, zina, kawin, awin --> budak
+zina, budak, kawin, awin --> allah
+allah, zina, awin, milik --> suam
+allah, zina, awin, suam --> milik
+allah, zina, milik, suam --> awin
+allah, awin, milik, suam --> zina
+zina, awin, milik, suam --> allah
+suam, awin, milik, zina --> wanita
+awin, wanita, milik, zina --> suam
+suam, kawin, hukum, budak --> milik
+kawin, hukum, milik, budak --> suam
+allah, awin, budak, hukum --> zina
+allah, awin, budak, zina --> hukum
+allah, awin, hukum, zina --> budak
+awin, budak, hukum, zina --> allah
+allah, zina, kawin, hukum --> milik
+allah, zina, kawin, milik --> hukum
+allah, zina, hukum, milik --> kawin
+allah, kawin, hukum, milik --> zina
+zina, kawin, hukum, milik --> allah
+allah, sayang, sebahagian, milik --> paksa
+allah, sayang, paksa, milik --> sebahagian
+allah, sebahagian, paksa, milik --> sayang
+sayang, sebahagian, paksa, milik --> allah
+hukum, budak, kawin, suam --> wanita
+wanita, budak, kawin, suam --> hukum
+allah, bunuh, balas, zina --> dosa
+allah, bunuh, dosa, zina --> balas
+allah, balas, dosa, zina --> bunuh
+bunuh, balas, dosa, zina --> allah
+suam, awin, kawin, budak --> hukum
+suam, kawin, hukum, budak --> awin
+awin, kawin, hukum, budak --> suam
+allah, zina, milik, awin --> kawin
+allah, zina, kawin, awin --> milik
+hukum, budak, kawin, milik --> awin
+awin, budak, kawin, milik --> hukum
+awin, budak, zina, milik --> suam
+awin, budak, zina, suam --> milik
+awin, budak, milik, suam --> zina
+jaga, sayang, paksa, sebahagian --> milik
+jaga, sayang, paksa, milik --> sebahagian
+jaga, sayang, sebahagian, milik --> paksa
+sayang, paksa, sebahagian, milik --> jaga
+bumi, bunuh, rusa, rasul --> muka
+bumi, bunuh, muka, rasul --> rusa
+bumi, rusa, muka, rasul --> bunuh
+bunuh, rusa, muka, rasul --> bumi
+allah, wanita, budak, sayang --> milik
+allah, wanita, budak, milik --> sayang
+allah, wanita, sayang, milik --> budak
+allah, budak, sayang, milik --> wanita
+allah, wanita, budak, hukum --> suam
+allah, wanita, budak, suam --> hukum
+allah, wanita, hukum, suam --> budak
+allah, budak, hukum, suam --> wanita
+wanita, budak, hukum, suam --> allah
+zina, wanita, awin, suam --> budak
+zina, wanita, budak, suam --> awin
+zina, awin, budak, suam --> wanita
+barangsiapa, bunuh, hamba, bayar --> merdeka
+bunuh, hamba, merdeka, bayar --> barangsiapa
+awin, wanita, budak, zina --> suam
+awin, wanita, budak, suam --> zina
+awin, wanita, zina, suam --> budak
+awin, budak, zina, suam --> wanita
+bunuh, saudara, kampung, halaman --> usir
+bunuh, saudara, kampung, usir --> halaman
+bunuh, saudara, halaman, usir --> kampung
+bunuh, kampung, halaman, usir --> saudara
+saudara, kampung, halaman, usir --> bunuh
+jaga, zina, wanita, kawin --> awin
+jaga, zina, wanita, awin --> kawin
+jaga, zina, kawin, awin --> wanita
+zina, wanita, kawin, awin --> jaga
+jaga, budak, sayang, milik --> wanita
+allah, jiwa, bunuh, tuhan --> haram
+allah, jiwa, haram, tuhan --> bunuh
+allah, bunuh, haram, tuhan --> jiwa
+jiwa, bunuh, haram, tuhan --> allah
+mukmin, bunuh, kafir, allah --> merdeka
+mukmin, bunuh, kafir, merdeka --> allah
+mukmin, bunuh, allah, merdeka --> kafir
+mukmin, bunuh, sengaja, merdeka --> kafir
+mukmin, bunuh, sengaja, kafir --> merdeka
+mukmin, sengaja, merdeka, kafir --> bunuh
+bunuh, sengaja, merdeka, kafir --> mukmin
+allah, budak, paksa, sebahagian --> milik
+allah, budak, paksa, milik --> sebahagian
+allah, budak, sebahagian, milik --> paksa
+budak, paksa, sebahagian, milik --> allah
+allah, budak, milik, keji --> wanita
+allah, wanita, milik, keji --> budak
+allah, budak, sayang, sebahagian --> milik
+allah, budak, sayang, milik --> sebahagian
+allah, budak, sebahagian, milik --> sayang
+allah, sayang, sebahagian, milik --> budak
+budak, sayang, sebahagian, milik --> allah
+allah, awin, kawin, hukum --> milik
+allah, awin, kawin, milik --> hukum
+allah, awin, hukum, milik --> kawin
+allah, kawin, hukum, milik --> awin
+awin, kawin, hukum, milik --> allah
+zina, kawin, hukum, milik --> budak
+zina, kawin, hukum, budak --> milik
+zina, kawin, milik, budak --> hukum
+kawin, hukum, milik, budak --> zina
+awin, wanita, kawin, hukum --> suam
+awin, wanita, kawin, suam --> hukum
+awin, wanita, hukum, suam --> kawin
+awin, kawin, hukum, suam --> wanita
+wanita, kawin, hukum, suam --> awin
+awin, kawin, zina, milik --> suam
+awin, kawin, zina, suam --> milik
+awin, kawin, milik, suam --> zina
+awin, wanita, hukum, zina --> suam
+awin, wanita, hukum, suam --> zina
+awin, wanita, zina, suam --> hukum
+awin, hukum, zina, suam --> wanita
+zina, budak, kawin, hukum --> awin
+zina, budak, kawin, awin --> hukum
+zina, budak, hukum, awin --> kawin
+zina, kawin, hukum, awin --> budak
+allah, wanita, kawin, milik --> suam
+allah, wanita, kawin, suam --> milik
+allah, wanita, milik, suam --> kawin
+allah, kawin, milik, suam --> wanita
+wanita, kawin, milik, suam --> allah
+zina, wanita, budak, milik --> awin
+zina, wanita, budak, awin --> milik
+zina, budak, milik, awin --> wanita
+laki, malu, pandang, perempuan --> tahan
+laki, tahan, pandang, perempuan --> malu
+malu, tahan, pandang, perempuan --> laki
+allah, sayang, paksa, milik --> budak
+allah, sayang, paksa, budak --> milik
+allah, sayang, milik, budak --> paksa
+sayang, paksa, milik, budak --> allah
+allah, awin, wanita, zina --> suam
+allah, awin, wanita, suam --> zina
+allah, awin, zina, suam --> wanita
+awin, wanita, zina, suam --> allah
+budak, sayang, paksa, milik --> wanita
+bumi, rusa, bunuh, rasul --> muka
+bumi, rusa, muka, rasul --> bunuh
+bumi, bunuh, muka, rasul --> rusa
+allah, zina, kawin, hukum --> suam
+allah, zina, kawin, suam --> hukum
+allah, zina, hukum, suam --> kawin
+allah, kawin, hukum, suam --> zina
+zina, kawin, hukum, suam --> allah
+jaga, sayang, paksa, milik --> budak
+jaga, budak, paksa, milik --> sayang
+sayang, budak, paksa, milik --> jaga
+halaman, bangsa, kampung, saudara --> usir
+halaman, kampung, saudara, usir --> bangsa
+bangsa, kampung, saudara, usir --> halaman
+awin, kawin, milik, zina --> hukum
+awin, kawin, hukum, zina --> milik
+awin, milik, hukum, zina --> kawin
+allah, sayang, sebahagian, budak --> milik
+milik, sayang, sebahagian, budak --> allah
+bunuh, bangsa, halaman, kampung --> usir
+bunuh, bangsa, halaman, usir --> kampung
+bunuh, bangsa, kampung, usir --> halaman
+bunuh, halaman, kampung, usir --> bangsa
+bangsa, halaman, kampung, usir --> bunuh
+zina, wanita, awin, milik --> kawin
+zina, wanita, kawin, milik --> awin
+zina, awin, kawin, milik --> wanita
+allah, untung, wanita, budak --> milik
+allah, untung, wanita, milik --> budak
+allah, untung, budak, milik --> wanita
+allah, wanita, budak, milik --> untung
+untung, wanita, budak, milik --> allah
+allah, budak, laki, milik --> keji
+allah, budak, laki, keji --> milik
+allah, budak, milik, keji --> laki
+budak, laki, milik, keji --> allah
+suam, budak, hukum, milik --> kawin
+kawin, budak, hukum, milik --> suam
+allah, zina, bunuh, balas --> dosa
+allah, zina, dosa, balas --> bunuh
+allah, bunuh, dosa, balas --> zina
+zina, bunuh, dosa, balas --> allah
+allah, jaga, budak, paksa --> sebahagian
+allah, jaga, budak, sebahagian --> paksa
+allah, budak, paksa, sebahagian --> jaga
+jaga, budak, paksa, sebahagian --> allah
+jaga, allah, budak, paksa --> sebahagian
+jaga, allah, budak, sebahagian --> paksa
+jaga, budak, paksa, sebahagian --> allah
+allah, budak, paksa, sebahagian --> jaga
+jaga, allah, wanita, milik --> paksa
+jaga, allah, paksa, milik --> wanita
+jaga, wanita, paksa, milik --> allah
+allah, wanita, paksa, milik --> jaga
+tuhan, bunuh, niscaya, balas --> dosa
+tuhan, bunuh, dosa, balas --> niscaya
+bunuh, niscaya, dosa, balas --> tuhan
+zina, budak, milik, suam --> hukum
+zina, budak, hukum, suam --> milik
+zina, milik, hukum, suam --> budak
+budak, milik, hukum, suam --> zina
+allah, malu, tahan, laki --> pandang
+allah, malu, tahan, pandang --> laki
+allah, malu, laki, pandang --> tahan
+malu, tahan, laki, pandang --> allah
+awin, wanita, kawin, hukum --> kafir
+awin, wanita, kawin, kafir --> hukum
+awin, wanita, hukum, kafir --> kawin
+wanita, kawin, hukum, kafir --> awin
+jaga, allah, wanita, budak --> milik
+jaga, allah, wanita, milik --> budak
+jaga, allah, budak, milik --> wanita
+jaga, wanita, budak, milik --> allah
+allah, wanita, budak, milik --> jaga
+zina, wanita, budak, kawin --> suam
+zina, wanita, budak, suam --> kawin
+zina, wanita, kawin, suam --> budak
+zina, budak, kawin, suam --> wanita
+wanita, budak, kawin, suam --> zina
+jaga, wanita, budak, sayang --> paksa
+allah, budak, keji, milik --> dada
+allah, budak, dada, milik --> keji
+allah, keji, dada, milik --> budak
+budak, keji, dada, milik --> allah
+jaga, allah, sayang, paksa --> budak
+jaga, allah, sayang, budak --> paksa
+jaga, sayang, paksa, budak --> allah
+allah, sayang, paksa, budak --> jaga
+allah, budak, kawin, suam --> wanita
+allah, wanita, kawin, suam --> budak
+budak, wanita, kawin, suam --> allah
+suam, awin, kawin, zina --> hukum
+awin, kawin, hukum, zina --> suam
+zina, kawin, hukum, milik --> awin
+zina, kawin, hukum, awin --> milik
+zina, kawin, milik, awin --> hukum
+awin, budak, hukum, milik --> zina
+awin, budak, hukum, zina --> milik
+awin, budak, milik, zina --> hukum
+zina, budak, kawin, milik --> suam
+zina, budak, kawin, suam --> milik
+zina, budak, milik, suam --> kawin
+zina, kawin, milik, suam --> budak
+budak, kawin, milik, suam --> zina
+bunuh, bangsa, saudara, kampung --> halaman
+bunuh, bangsa, saudara, halaman --> kampung
+bunuh, bangsa, kampung, halaman --> saudara
+bunuh, saudara, kampung, halaman --> bangsa
+bangsa, saudara, kampung, halaman --> bunuh
+jaga, sebahagian, sayang, budak --> milik
+jaga, sebahagian, milik, budak --> sayang
+jaga, sayang, milik, budak --> sebahagian
+sebahagian, sayang, milik, budak --> jaga
+allah, budak, keji, milik --> laki
+allah, budak, laki, milik --> keji
+allah, keji, laki, milik --> budak
+budak, keji, laki, milik --> allah
+jiwa, allah, haram, bunuh --> alas
+jaga, awin, kafir, hukum --> zina
+jaga, awin, kafir, zina --> hukum
+jaga, awin, hukum, zina --> kafir
+awin, kafir, hukum, zina --> jaga
+zina, awin, milik, suam --> wanita
+zina, awin, wanita, suam --> milik
+zina, wanita, kawin, awin --> budak
+zina, wanita, kawin, budak --> awin
+zina, wanita, budak, hukum --> milik
+zina, wanita, budak, milik --> hukum
+zina, wanita, hukum, milik --> budak
+zina, budak, hukum, milik --> wanita
+wanita, budak, hukum, milik --> zina
+awin, kafir, hukum, wanita --> zina
+awin, kafir, hukum, zina --> wanita
+awin, kafir, wanita, zina --> hukum
+allah, zina, wanita, kawin --> milik
+allah, zina, wanita, milik --> kawin
+allah, zina, kawin, milik --> wanita
+allah, wanita, kawin, milik --> zina
+zina, wanita, kawin, milik --> allah
+jaga, allah, wanita, sayang --> milik
+jaga, allah, wanita, milik --> sayang
+jaga, allah, sayang, milik --> wanita
+jaga, wanita, sayang, milik --> allah
+allah, wanita, sayang, milik --> jaga
+zina, wanita, budak, kawin --> awin
+zina, wanita, budak, awin --> kawin
+zina, wanita, kawin, awin --> budak
+zina, budak, kawin, awin --> wanita
+halal, awin, wanita, kawin --> hukum
+halal, awin, wanita, hukum --> kawin
+halal, awin, kawin, hukum --> wanita
+halal, wanita, kawin, hukum --> awin
+awin, wanita, kawin, hukum --> halal
+zina, awin, budak, milik --> wanita
+zina, awin, wanita, milik --> budak
+bunuh, wanita, merdeka, lampau --> batas
+bunuh, wanita, merdeka, batas --> lampau
+bunuh, wanita, lampau, batas --> merdeka
+bunuh, merdeka, lampau, batas --> wanita
+wanita, merdeka, lampau, batas --> bunuh
+jaga, allah, wanita, budak --> sayang
+jaga, allah, wanita, sayang --> budak
+jaga, allah, budak, sayang --> wanita
+jaga, wanita, budak, sayang --> allah
+allah, wanita, budak, sayang --> jaga
+kampung, bunuh, halaman, saudara --> bangsa
+kampung, bangsa, halaman, saudara --> bunuh
+bunuh, bangsa, halaman, saudara --> kampung
+allah, milik, dada, keji --> budak
+allah, budak, dada, keji --> milik
+milik, budak, dada, keji --> allah
+zina, awin, kawin, suam --> wanita
+zina, awin, wanita, suam --> kawin
+allah, wanita, sebahagian, sayang --> paksa
+jaga, awin, wanita, hukum --> zina
+jaga, awin, wanita, zina --> hukum
+jaga, awin, hukum, zina --> wanita
+awin, wanita, hukum, zina --> jaga
+zina, wanita, kawin, hukum --> awin
+zina, wanita, kawin, awin --> hukum
+zina, wanita, hukum, awin --> kawin
+zina, kawin, hukum, awin --> wanita
+allah, malu, tahan, laki --> perempuan
+allah, malu, tahan, perempuan --> laki
+allah, malu, laki, perempuan --> tahan
+allah, tahan, laki, perempuan --> malu
+malu, tahan, laki, perempuan --> allah
+budak, laki, dada, milik --> keji
+budak, laki, dada, keji --> milik
+budak, laki, milik, keji --> dada
+barangsiapa, bayar, diat, merdeka --> bunuh
+barangsiapa, bayar, diat, bunuh --> merdeka
+bayar, diat, merdeka, bunuh --> barangsiapa
+allah, awin, budak, kawin --> milik
+allah, awin, budak, milik --> kawin
+allah, awin, kawin, milik --> budak
+allah, budak, kawin, milik --> awin
+awin, budak, kawin, milik --> allah
+allah, jaga, wanita, sayang --> paksa
+allah, jaga, wanita, paksa --> sayang
+allah, jaga, sayang, paksa --> wanita
+allah, wanita, sayang, paksa --> jaga
+jaga, wanita, sayang, paksa --> allah
+mukmin, allah, sengaja, merdeka --> bunuh
+mukmin, allah, sengaja, bunuh --> merdeka
+allah, bunuh, kafir, merdeka --> mukmin
+allah, bunuh, kafir, mukmin --> merdeka
+allah, bunuh, merdeka, mukmin --> kafir
+allah, jaga, sebahagian, sayang --> milik
+allah, jaga, sebahagian, milik --> sayang
+allah, jaga, sayang, milik --> sebahagian
+allah, sebahagian, sayang, milik --> jaga
+jaga, wanita, sebahagian, paksa --> budak
+jaga, wanita, sebahagian, budak --> paksa
+jaga, sebahagian, paksa, budak --> wanita
+wanita, sebahagian, paksa, budak --> jaga
+allah, kawin, hukum, milik --> budak
+allah, kawin, hukum, budak --> milik
+kawin, hukum, milik, budak --> allah
+tuhan, allah, jiwa, haram --> bunuh
+tuhan, allah, haram, bunuh --> jiwa
+tuhan, jiwa, haram, bunuh --> allah
+allah, jiwa, haram, bunuh --> tuhan
+jaga, wanita, budak, paksa --> sebahagian
+jaga, wanita, budak, sebahagian --> paksa
+jaga, budak, paksa, sebahagian --> wanita
+wanita, budak, paksa, sebahagian --> jaga
+allah, jaga, sayang, milik --> budak
+allah, jaga, sayang, budak --> milik
+allah, sayang, milik, budak --> jaga
+jaga, sayang, milik, budak --> allah
+barangsiapa, diat, merdeka, hamba --> bunuh
+barangsiapa, diat, bunuh, hamba --> merdeka
+sayang, wanita, sebahagian, paksa --> budak
+sayang, wanita, sebahagian, budak --> paksa
+sayang, sebahagian, paksa, budak --> wanita
+wanita, sebahagian, paksa, budak --> sayang
+zina, wanita, budak, hukum --> suam
+zina, wanita, budak, suam --> hukum
+zina, wanita, hukum, suam --> budak
+zina, budak, hukum, suam --> wanita
+wanita, budak, hukum, suam --> zina
+bumi, rasul, rusa, bunuh --> muka
+bumi, rasul, muka, bunuh --> rusa
+bumi, rusa, muka, bunuh --> rasul
+rasul, rusa, muka, bunuh --> bumi
+allah, wanita, milik, keji --> dada
+allah, wanita, dada, keji --> milik
+allah, milik, dada, keji --> wanita
+wanita, milik, dada, keji --> allah
+awin, budak, kawin, hukum --> milik
+awin, budak, kawin, milik --> hukum
+awin, budak, hukum, milik --> kawin
+awin, kawin, hukum, milik --> budak
+budak, kawin, hukum, milik --> awin
+allah, wanita, budak, laki --> dada
+allah, wanita, budak, dada --> laki
+allah, wanita, laki, dada --> budak
+allah, budak, laki, dada --> wanita
+wanita, budak, laki, dada --> allah
+awin, wanita, suam, zina --> milik
+awin, wanita, suam, milik --> zina
+awin, wanita, zina, milik --> suam
+awin, suam, zina, milik --> wanita
+zina, wanita, kawin, milik --> budak
+zina, wanita, kawin, budak --> milik
+zina, kawin, milik, budak --> wanita
+wanita, kawin, milik, budak --> zina
+allah, budak, suam, milik --> kawin
+allah, budak, kawin, milik --> suam
+allah, suam, kawin, milik --> budak
+allah, awin, budak, hukum --> milik
+allah, awin, budak, milik --> hukum
+allah, awin, hukum, milik --> budak
+allah, budak, hukum, milik --> awin
+awin, budak, hukum, milik --> allah
+kawin, budak, hukum, milik --> wanita
+jaga, sayang, paksa, milik --> budak
+jaga, sayang, paksa, budak --> milik
+jaga, sayang, milik, budak --> paksa
+sayang, paksa, milik, budak --> jaga
+jaga, wanita, sebahagian, paksa --> sayang
+jaga, wanita, sebahagian, sayang --> paksa
+jaga, sebahagian, paksa, sayang --> wanita
+zina, kafir, kawin, hukum --> wanita
+zina, kafir, kawin, wanita --> hukum
+zina, kafir, hukum, wanita --> kawin
+kafir, kawin, hukum, wanita --> zina
+wanita, budak, hukum, milik --> kawin
+wanita, budak, hukum, kawin --> milik
+allah, wanita, kawin, budak --> suam
+suam, wanita, kawin, budak --> allah
+bunuh, diat, barangsiapa, bayar --> hamba
+bunuh, diat, barangsiapa, hamba --> bayar
+bunuh, diat, bayar, hamba --> barangsiapa
+allah, jaga, wanita, sebahagian --> sayang
+allah, jaga, wanita, sayang --> sebahagian
+allah, jaga, sebahagian, sayang --> wanita
+allah, wanita, sebahagian, sayang --> jaga
+jaga, wanita, sebahagian, sayang --> allah
+barangsiapa, bayar, diat, bunuh --> hamba
+bayar, hamba, diat, bunuh --> barangsiapa
+halal, awin, wanita, hukum --> zina
+halal, awin, wanita, zina --> hukum
+halal, awin, hukum, zina --> wanita
+awin, wanita, hukum, zina --> halal
+allah, zina, wanita, awin --> milik
+allah, zina, wanita, milik --> awin
+allah, zina, awin, milik --> wanita
+zina, wanita, awin, milik --> allah
+jaga, allah, sebahagian, paksa --> budak
+jaga, allah, sebahagian, budak --> paksa
+jaga, sebahagian, paksa, budak --> allah
+allah, sebahagian, paksa, budak --> jaga
+mukmin, bunuh, sengaja, allah --> kafir
+mukmin, bunuh, sengaja, kafir --> allah
+milik, budak, dada, keji --> wanita
+allah, jiwa, alas, bunuh --> haram
+allah, jiwa, haram, bunuh --> alas
+jaga, wanita, budak, sayang --> sebahagian
+jaga, wanita, budak, sebahagian --> sayang
+jaga, wanita, sayang, sebahagian --> budak
+jaga, budak, sayang, sebahagian --> wanita
+wanita, milik, laki, keji --> dada
+wanita, milik, dada, keji --> laki
+wanita, laki, dada, keji --> milik
+milik, laki, dada, keji --> wanita
+allah, wanita, kawin, hukum --> suam
+allah, wanita, kawin, suam --> hukum
+allah, wanita, hukum, suam --> kawin
+allah, kawin, hukum, suam --> wanita
+wanita, kawin, hukum, suam --> allah
+suam, allah, kawin, milik --> wanita
+suam, wanita, kawin, milik --> allah
+allah, wanita, kawin, milik --> suam
+allah, budak, sayang, milik --> wanita
+zina, awin, milik, suam --> kawin
+zina, awin, kawin, suam --> milik
+jaga, allah, budak, sayang --> paksa
+jaga, allah, budak, paksa --> sayang
+jaga, allah, sayang, paksa --> budak
+allah, zina, awin, suam --> budak
+allah, zina, budak, suam --> awin
+allah, awin, budak, suam --> zina
+zina, awin, budak, suam --> allah
+zina, budak, hukum, milik --> suam
+zina, budak, hukum, suam --> milik
+zina, budak, milik, suam --> hukum
+budak, hukum, milik, suam --> zina
+zina, awin, budak, milik --> kawin
+zina, awin, kawin, milik --> budak
+zina, budak, kawin, milik --> awin
+awin, budak, kawin, milik --> zina
+bayar, barangsiapa, merdeka, bunuh --> hamba
+bayar, barangsiapa, merdeka, hamba --> bunuh
+bayar, barangsiapa, bunuh, hamba --> merdeka
+bayar, merdeka, bunuh, hamba --> barangsiapa
+budak, kawin, hukum, milik --> wanita
+kawin, budak, hukum, suam --> wanita
+awin, kafir, kawin, hukum --> wanita
+awin, kafir, kawin, wanita --> hukum
+awin, kafir, hukum, wanita --> kawin
+kafir, kawin, hukum, wanita --> awin
+zina, wanita, budak, hukum --> awin
+zina, wanita, budak, awin --> hukum
+zina, wanita, hukum, awin --> budak
+zina, budak, hukum, awin --> wanita
+malu, tahan, pandang, laki --> perempuan
+malu, perempuan, pandang, laki --> tahan
+mukmin, allah, kafir, sengaja --> bunuh
+mukmin, allah, kafir, bunuh --> sengaja
+mukmin, allah, sengaja, bunuh --> kafir
+allah, keji, laki, milik --> dada
+allah, keji, dada, milik --> laki
+allah, laki, dada, milik --> keji
+keji, laki, dada, milik --> allah
+jaga, wanita, sayang, sebahagian --> milik
+jaga, wanita, sayang, milik --> sebahagian
+jaga, wanita, sebahagian, milik --> sayang
+jaga, sayang, sebahagian, milik --> wanita
+wanita, sayang, sebahagian, milik --> jaga
+halaman, bangsa, saudara, kampung --> usir
+bangsa, saudara, kampung, usir --> halaman
+awin, wanita, kawin, budak --> zina
+awin, wanita, kawin, zina --> budak
+awin, wanita, budak, zina --> kawin
+zina, awin, kawin, milik --> hukum
+zina, awin, hukum, milik --> kawin
+zina, kawin, hukum, milik --> awin
+awin, kawin, hukum, milik --> zina
+jaga, allah, budak, sayang --> milik
+jaga, allah, budak, milik --> sayang
+jaga, allah, sayang, milik --> budak
+jaga, budak, sayang, milik --> allah
+allah, budak, sayang, milik --> jaga
+budak, wanita, suam, milik --> hukum
+wanita, suam, hukum, milik --> budak
+allah, budak, sebahagian, milik --> paksa
+allah, budak, paksa, milik --> sebahagian
+allah, sebahagian, paksa, milik --> budak
+budak, sebahagian, paksa, milik --> allah
+zina, wanita, kawin, budak --> milik
+zina, wanita, kawin, milik --> budak
+zina, wanita, budak, milik --> kawin
+allah, awin, wanita, kawin --> zina
+allah, awin, wanita, zina --> kawin
+allah, awin, kawin, zina --> wanita
+awin, wanita, kawin, zina --> allah
+allah, suam, budak, milik --> kawin
+allah, suam, kawin, milik --> budak
+allah, budak, kawin, milik --> suam
+suam, budak, kawin, milik --> allah
+allah, jaga, sayang, paksa --> sebahagian
+allah, jaga, sayang, sebahagian --> paksa
+allah, sayang, paksa, sebahagian --> jaga
+jaga, sayang, paksa, sebahagian --> allah
+sayang, wanita, budak, milik --> paksa
+sayang, budak, paksa, milik --> wanita
+wanita, budak, paksa, milik --> sayang
+wanita, kawin, hukum, milik --> suam
+wanita, kawin, hukum, suam --> milik
+wanita, kawin, milik, suam --> hukum
+kawin, hukum, milik, suam --> wanita
+allah, awin, hukum, zina --> milik
+allah, awin, hukum, milik --> zina
+allah, awin, zina, milik --> hukum
+awin, hukum, zina, milik --> allah
+jiwa, allah, haram, tuhan --> bunuh
+jiwa, bunuh, haram, tuhan --> allah
+allah, bunuh, haram, tuhan --> jiwa
+suam, awin, budak, zina --> milik
+suam, awin, budak, milik --> zina
+awin, budak, zina, milik --> suam
+awin, kawin, budak, hukum --> milik
+awin, kawin, hukum, milik --> budak
+awin, budak, hukum, milik --> kawin
+kawin, budak, hukum, milik --> awin
+wanita, sayang, paksa, sebahagian --> budak
+wanita, sayang, paksa, budak --> sebahagian
+wanita, sayang, sebahagian, budak --> paksa
+sayang, paksa, sebahagian, budak --> wanita
+zina, kawin, hukum, milik --> suam
+zina, suam, hukum, milik --> kawin
+bumi, rasul, muka, bunuh --> rusa
+jaga, allah, wanita, sebahagian --> budak
+jaga, allah, wanita, budak --> sebahagian
+jaga, allah, sebahagian, budak --> wanita
+jaga, wanita, sebahagian, budak --> allah
+allah, wanita, sebahagian, budak --> jaga
+suam, awin, kawin, zina --> allah
+allah, zina, milik, awin --> hukum
+allah, zina, hukum, awin --> milik
+allah, jaga, sebahagian, paksa --> sayang
+allah, jaga, sebahagian, sayang --> paksa
+jaga, sebahagian, paksa, sayang --> allah
+jaga, allah, sebahagian, milik --> budak
+jaga, allah, sebahagian, budak --> milik
+jaga, sebahagian, milik, budak --> allah
+jaga, zina, wanita, hukum --> awin
+jaga, zina, wanita, awin --> hukum
+jaga, zina, hukum, awin --> wanita
+zina, wanita, hukum, awin --> jaga
+allah, budak, kawin, milik --> hukum
+allah, budak, hukum, milik --> kawin
+allah, kawin, hukum, milik --> budak
+budak, kawin, hukum, milik --> allah
+allah, wanita, kawin, milik --> budak
+allah, wanita, kawin, budak --> milik
+wanita, kawin, milik, budak --> allah
+allah, awin, wanita, hukum --> zina
+allah, awin, wanita, zina --> hukum
+allah, awin, hukum, zina --> wanita
+awin, wanita, hukum, zina --> allah
+awin, budak, hukum, zina --> suam
+awin, budak, hukum, suam --> zina
+awin, budak, zina, suam --> hukum
+awin, hukum, zina, suam --> budak
+wanita, sayang, paksa, milik --> budak
+wanita, sayang, paksa, budak --> milik
+wanita, sayang, milik, budak --> paksa
+sayang, paksa, milik, budak --> wanita
+jaga, wanita, sayang, paksa --> budak
+jaga, wanita, sayang, budak --> paksa
+jaga, sayang, paksa, budak --> wanita
+wanita, sayang, paksa, budak --> jaga
+jaga, paksa, sebahagian, sayang --> budak
+jaga, sebahagian, sayang, budak --> paksa
+allah, budak, milik, keji --> laki
+allah, budak, laki, keji --> milik
+allah, milik, laki, keji --> budak
+budak, milik, laki, keji --> allah
+jiwa, tuhan, allah, haram --> bunuh
+jiwa, tuhan, haram, bunuh --> allah
+jiwa, allah, haram, bunuh --> tuhan
+tuhan, allah, haram, bunuh --> jiwa
+allah, jaga, sebahagian, sayang --> paksa
+allah, jaga, sebahagian, paksa --> sayang
+allah, jaga, sayang, paksa --> sebahagian
+awin, suam, hukum, milik --> zina
+awin, suam, hukum, zina --> milik
+awin, suam, milik, zina --> hukum
+wanita, milik, hukum, suam --> kawin
+wanita, milik, kawin, suam --> hukum
+jaga, zina, kawin, hukum --> awin
+jaga, zina, kawin, awin --> hukum
+jaga, zina, hukum, awin --> kawin
+zina, kawin, hukum, awin --> jaga
+allah, sebahagian, paksa, milik --> budak
+allah, sebahagian, paksa, budak --> milik
+suam, awin, kawin, zina --> wanita
+awin, wanita, kawin, zina --> suam
+awin, wanita, kawin, hukum --> zina
+awin, wanita, kawin, zina --> hukum
+awin, wanita, hukum, zina --> kawin
+awin, kawin, hukum, zina --> wanita
+bayar, diat, barangsiapa, bunuh --> hamba
+bayar, diat, barangsiapa, hamba --> bunuh
+bayar, diat, bunuh, hamba --> barangsiapa
+bayar, barangsiapa, bunuh, hamba --> diat
+allah, zina, budak, milik --> suam
+allah, zina, budak, suam --> milik
+allah, zina, milik, suam --> budak
+allah, budak, milik, suam --> zina
+zina, budak, milik, suam --> allah
+allah, awin, milik, suam --> hukum
+allah, awin, hukum, suam --> milik
+allah, milik, hukum, suam --> awin
+awin, milik, hukum, suam --> allah
+awin, wanita, kawin, zina --> suam
+awin, wanita, kawin, suam --> zina
+awin, wanita, zina, suam --> kawin
+awin, kawin, zina, suam --> wanita
+allah, sayang, paksa, sebahagian --> budak
+allah, sayang, paksa, budak --> sebahagian
+allah, sayang, sebahagian, budak --> paksa
+sayang, paksa, sebahagian, budak --> allah
+allah, pandang, tahan, laki --> perempuan
+allah, pandang, laki, perempuan --> tahan
+allah, tahan, laki, perempuan --> pandang
+pandang, tahan, laki, perempuan --> allah
+allah, jaga, sebahagian, paksa --> milik
+allah, jaga, sebahagian, milik --> paksa
+allah, jaga, paksa, milik --> sebahagian
+allah, sebahagian, paksa, milik --> jaga
+jaga, sebahagian, paksa, milik --> allah
+allah, wanita, budak, paksa --> sayang
+allah, wanita, budak, sayang --> paksa
+allah, budak, paksa, sayang --> wanita
+bunuh, diat, barangsiapa, merdeka --> bayar
+bunuh, diat, barangsiapa, bayar --> merdeka
+bunuh, diat, merdeka, bayar --> barangsiapa
+bunuh, barangsiapa, merdeka, bayar --> diat
+allah, bunuh, sengaja, merdeka --> mukmin
+allah, bunuh, merdeka, mukmin --> sengaja
+awin, wanita, budak, hukum --> suam
+awin, wanita, budak, suam --> hukum
+awin, wanita, hukum, suam --> budak
+awin, budak, hukum, suam --> wanita
+wanita, budak, hukum, suam --> awin
+awin, wanita, kawin, budak --> milik
+awin, wanita, kawin, milik --> budak
+awin, wanita, budak, milik --> kawin
+allah, jaga, sayang, sebahagian --> milik
+allah, jaga, sayang, milik --> sebahagian
+allah, jaga, sebahagian, milik --> sayang
+allah, sayang, sebahagian, milik --> jaga
+jaga, sayang, sebahagian, milik --> allah
+jaga, wanita, sayang, paksa --> sebahagian
+jaga, wanita, sayang, sebahagian --> paksa
+jaga, sayang, paksa, sebahagian --> wanita
+wanita, sayang, paksa, sebahagian --> jaga
+allah, awin, wanita, budak --> hukum
+allah, awin, wanita, hukum --> budak
+allah, awin, budak, hukum --> wanita
+allah, wanita, budak, hukum --> awin
+awin, wanita, budak, hukum --> allah
+zina, awin, budak, milik --> hukum
+zina, awin, hukum, milik --> budak
+zina, budak, hukum, milik --> awin
+awin, budak, hukum, milik --> zina
+zina, wanita, kawin, awin --> milik
+zina, wanita, kawin, milik --> awin
+zina, wanita, awin, milik --> kawin
+awin, budak, hukum, zina --> milik
+awin, budak, hukum, milik --> zina
+awin, budak, zina, milik --> hukum
+awin, hukum, zina, milik --> budak
+allah, awin, wanita, budak --> kawin
+allah, awin, wanita, kawin --> budak
+allah, awin, budak, kawin --> wanita
+allah, wanita, budak, kawin --> awin
+awin, wanita, budak, kawin --> allah
+allah, zina, awin, milik --> wanita
+allah, zina, wanita, milik --> awin
+allah, awin, wanita, milik --> zina
+zina, awin, wanita, milik --> allah
+suam, awin, budak, zina --> kawin
+suam, awin, kawin, zina --> budak
+awin, budak, kawin, zina --> suam
+awin, wanita, budak, kawin --> hukum
+awin, wanita, budak, hukum --> kawin
+awin, wanita, kawin, hukum --> budak
+awin, budak, kawin, hukum --> wanita
+suam, allah, budak, milik --> hukum
+suam, budak, hukum, milik --> allah
+allah, budak, hukum, milik --> suam
+allah, zina, suam, awin --> kawin
+allah, zina, kawin, awin --> suam
+zina, kafir, kawin, wanita --> awin
+zina, kafir, kawin, awin --> wanita
+zina, kafir, wanita, awin --> kawin
+zina, awin, budak, milik --> suam
+zina, awin, budak, suam --> milik
+zina, awin, milik, suam --> budak
+zina, budak, milik, suam --> awin
+awin, budak, milik, suam --> zina
+budak, milik, laki, keji --> wanita
+wanita, milik, laki, keji --> budak
+suam, zina, budak, awin --> hukum
+zina, budak, hukum, awin --> suam
+allah, awin, wanita, kawin --> milik
+allah, awin, wanita, milik --> kawin
+allah, awin, kawin, milik --> wanita
+allah, wanita, kawin, milik --> awin
+awin, wanita, kawin, milik --> allah
+jaga, allah, sayang, paksa --> sebahagian
+jaga, allah, sayang, sebahagian --> paksa
+jaga, sayang, paksa, sebahagian --> allah
+allah, sayang, paksa, sebahagian --> jaga
+allah, zina, kawin, milik --> budak
+allah, zina, kawin, budak --> milik
+zina, kawin, milik, budak --> allah
+allah, wanita, kawin, hukum --> budak
+allah, wanita, kawin, budak --> hukum
+allah, kawin, hukum, budak --> wanita
+wanita, kawin, hukum, budak --> allah
+mukmin, allah, kafir, merdeka --> sengaja
+mukmin, allah, kafir, sengaja --> merdeka
+mukmin, kafir, merdeka, sengaja --> allah
+allah, kafir, merdeka, sengaja --> mukmin
+suam, zina, kawin, awin --> allah
+allah, laki, tahan, pandang --> perempuan
+allah, laki, pandang, perempuan --> tahan
+allah, tahan, pandang, perempuan --> laki
+laki, tahan, pandang, perempuan --> allah
+jaga, paksa, sebahagian, sayang --> wanita
+jaga, wanita, sebahagian, sayang --> paksa
+allah, wanita, budak, hukum --> kawin
+allah, wanita, budak, kawin --> hukum
+wanita, budak, hukum, kawin --> allah
+budak, laki, keji, milik --> dada
+budak, laki, dada, milik --> keji
+budak, keji, dada, milik --> laki
+allah, budak, paksa, sebahagian --> sayang
+allah, budak, paksa, sayang --> sebahagian
+jaga, zina, kafir, kawin --> awin
+jaga, zina, kafir, awin --> kawin
+jaga, zina, kawin, awin --> kafir
+zina, kafir, kawin, awin --> jaga
+allah, zina, wanita, milik --> suam
+allah, zina, wanita, suam --> milik
+allah, zina, milik, suam --> wanita
+allah, wanita, milik, suam --> zina
+zina, wanita, milik, suam --> allah
+awin, kawin, hukum, milik --> zina
+awin, kawin, hukum, zina --> milik
+awin, kawin, milik, zina --> hukum
+budak, wanita, milik, suam --> hukum
+budak, milik, hukum, suam --> wanita
+wanita, milik, hukum, suam --> budak
+awin, wanita, milik, zina --> budak
+awin, wanita, budak, zina --> milik
+jaga, awin, kafir, kawin --> hukum
+jaga, awin, kafir, hukum --> kawin
+jaga, awin, kawin, hukum --> kafir
+jaga, kafir, kawin, hukum --> awin
+awin, kafir, kawin, hukum --> jaga
+allah, jaga, wanita, budak --> paksa
+allah, jaga, wanita, paksa --> budak
+allah, jaga, budak, paksa --> wanita
+allah, wanita, budak, paksa --> jaga
+jaga, wanita, budak, paksa --> allah
+jaga, allah, wanita, sebahagian --> milik
+jaga, allah, wanita, milik --> sebahagian
+jaga, allah, sebahagian, milik --> wanita
+jaga, wanita, sebahagian, milik --> allah
+allah, wanita, sebahagian, milik --> jaga
+awin, budak, kawin, hukum --> zina
+awin, budak, kawin, zina --> hukum
+awin, budak, hukum, zina --> kawin
+awin, kawin, hukum, zina --> budak
+suam, kawin, hukum, budak --> allah
+allah, kawin, hukum, budak --> suam
+laki, tahan, pandang, malu --> perempuan
+suam, zina, kawin, awin --> hukum
+zina, kawin, hukum, awin --> suam
+allah, bunuh, dosa, balas --> zina
+allah, bunuh, dosa, zina --> balas
+allah, bunuh, balas, zina --> dosa
+bunuh, dosa, balas, zina --> allah
+allah, wanita, keji, milik --> dada
+allah, wanita, dada, milik --> keji
+allah, keji, dada, milik --> wanita
+wanita, keji, dada, milik --> allah
+allah, zina, wanita, budak --> kawin
+allah, zina, wanita, kawin --> budak
+allah, zina, budak, kawin --> wanita
+allah, wanita, budak, kawin --> zina
+zina, wanita, budak, kawin --> allah
+jiwa, bunuh, allah, haram --> tuhan
+jiwa, bunuh, allah, tuhan --> haram
+jiwa, bunuh, haram, tuhan --> allah
+jiwa, allah, haram, tuhan --> bunuh
+allah, jaga, sayang, paksa --> budak
+allah, jaga, sayang, budak --> paksa
+allah, sayang, paksa, budak --> jaga
+jaga, sayang, paksa, budak --> allah
+allah, zina, wanita, budak --> milik
+allah, zina, wanita, milik --> budak
+allah, zina, budak, milik --> wanita
+allah, wanita, budak, milik --> zina
+zina, wanita, budak, milik --> allah
+awin, budak, hukum, milik --> suam
+awin, budak, hukum, suam --> milik
+awin, budak, milik, suam --> hukum
+budak, hukum, milik, suam --> awin
+allah, jaga, budak, sebahagian --> milik
+allah, jaga, budak, milik --> sebahagian
+allah, jaga, sebahagian, milik --> budak
+allah, budak, sebahagian, milik --> jaga
+jaga, budak, sebahagian, milik --> allah
+suam, wanita, kawin, budak --> hukum
+suam, kawin, hukum, budak --> wanita
+wanita, kawin, hukum, budak --> suam
+suam, awin, budak, milik --> hukum
+suam, budak, hukum, milik --> awin
+awin, budak, hukum, milik --> suam
+allah, bunuh, sebahagian, dosa --> balas
+allah, bunuh, sebahagian, balas --> dosa
+allah, bunuh, dosa, balas --> sebahagian
+bunuh, sebahagian, dosa, balas --> allah
+awin, wanita, budak, hukum --> zina
+awin, wanita, budak, zina --> hukum
+awin, wanita, hukum, zina --> budak
+awin, budak, hukum, zina --> wanita
+bangsa, saudara, kampung, halaman --> usir
+bangsa, saudara, kampung, usir --> halaman
+bangsa, saudara, halaman, usir --> kampung
+bangsa, kampung, halaman, usir --> saudara
+saudara, kampung, halaman, usir --> bangsa
+allah, awin, hukum, zina --> suam
+allah, awin, hukum, suam --> zina
+allah, awin, zina, suam --> hukum
+awin, hukum, zina, suam --> allah
+allah, wanita, budak, milik --> suam
+allah, wanita, budak, suam --> milik
+allah, wanita, milik, suam --> budak
+allah, budak, milik, suam --> wanita
+wanita, budak, milik, suam --> allah
+jaga, budak, sayang, milik --> paksa
+suam, budak, kawin, milik --> hukum
+hukum, budak, kawin, milik --> suam
+allah, sayang, paksa, milik --> budak
+allah, budak, paksa, milik --> sayang
+sayang, budak, paksa, milik --> allah
+suam, wanita, kawin, milik --> hukum
+wanita, kawin, hukum, milik --> suam
+tuhan, bunuh, allah, jiwa --> haram
+tuhan, bunuh, allah, haram --> jiwa
+tuhan, bunuh, jiwa, haram --> allah
+tuhan, allah, jiwa, haram --> bunuh
+kampung, bangsa, saudara, halaman --> usir
+kampung, saudara, halaman, usir --> bangsa
+bangsa, saudara, halaman, usir --> kampung
+awin, wanita, milik, zina --> suam
+awin, wanita, milik, suam --> zina
+awin, wanita, zina, suam --> milik
+awin, milik, zina, suam --> wanita
+malu, tahan, laki, pandang --> perempuan
+malu, tahan, laki, perempuan --> pandang
+malu, tahan, pandang, perempuan --> laki
+malu, laki, pandang, perempuan --> tahan
+awin, wanita, milik, suam --> hukum
+awin, wanita, hukum, suam --> milik
+awin, milik, hukum, suam --> wanita
+wanita, milik, hukum, suam --> awin
+awin, kawin, hukum, zina --> suam
+awin, kawin, hukum, suam --> zina
+awin, kawin, zina, suam --> hukum
+awin, hukum, zina, suam --> kawin
+zina, awin, milik, suam --> budak
+zina, awin, budak, suam --> milik
+allah, zina, awin, suam --> milik
+allah, zina, awin, milik --> suam
+allah, zina, suam, milik --> awin
+allah, awin, suam, milik --> zina
+zina, awin, suam, milik --> allah
+suam, awin, budak, milik --> allah
+suam, allah, budak, milik --> awin
+awin, wanita, suam, milik --> hukum
+awin, wanita, hukum, milik --> suam
+awin, suam, hukum, milik --> wanita
+wanita, suam, hukum, milik --> awin
+halal, zina, wanita, kawin --> awin
+halal, zina, wanita, awin --> kawin
+halal, zina, kawin, awin --> wanita
+zina, wanita, kawin, awin --> halal
+allah, malu, laki, pandang --> perempuan
+allah, malu, laki, perempuan --> pandang
+allah, malu, pandang, perempuan --> laki
+allah, laki, pandang, perempuan --> malu
+malu, laki, pandang, perempuan --> allah
+jaga, allah, sebahagian, sayang --> budak
+jaga, allah, sebahagian, budak --> sayang
+jaga, allah, sayang, budak --> sebahagian
+jaga, sebahagian, sayang, budak --> allah
+awin, wanita, hukum, zina --> milik
+awin, wanita, hukum, milik --> zina
+awin, wanita, zina, milik --> hukum
+awin, hukum, zina, milik --> wanita
+wanita, keji, laki, milik --> dada
+wanita, keji, dada, milik --> laki
+wanita, laki, dada, milik --> keji
+keji, laki, dada, milik --> wanita
+awin, wanita, milik, zina --> hukum
+awin, wanita, hukum, zina --> milik
+awin, milik, hukum, zina --> wanita
+allah, zina, wanita, awin --> suam
+allah, zina, wanita, suam --> awin
+allah, zina, awin, suam --> wanita
+zina, wanita, awin, suam --> allah
+awin, budak, milik, suam --> hukum
+awin, budak, hukum, suam --> milik
+awin, milik, hukum, suam --> budak
+budak, milik, hukum, suam --> awin
+zina, awin, kawin, suam --> hukum
+zina, awin, hukum, suam --> kawin
+zina, kawin, hukum, suam --> awin
+awin, kawin, hukum, suam --> zina
+awin, budak, kawin, zina --> milik
+awin, budak, kawin, milik --> zina
+awin, budak, zina, milik --> kawin
+awin, kawin, zina, milik --> budak
+allah, budak, laki, dada --> keji
+allah, budak, laki, keji --> dada
+allah, budak, dada, keji --> laki
+allah, laki, dada, keji --> budak
+budak, laki, dada, keji --> allah
+jaga, zina, kafir, wanita --> awin
+jaga, zina, kafir, awin --> wanita
+jaga, zina, wanita, awin --> kafir
+zina, kafir, wanita, awin --> jaga
+allah, awin, kawin, hukum --> zina
+allah, awin, kawin, zina --> hukum
+allah, awin, hukum, zina --> kawin
+awin, kawin, hukum, zina --> allah
+allah, awin, kawin, budak --> hukum
+allah, awin, kawin, hukum --> budak
+allah, awin, budak, hukum --> kawin
+allah, kawin, budak, hukum --> awin
+awin, kawin, budak, hukum --> allah
+halal, zina, kawin, hukum --> awin
+halal, zina, kawin, awin --> hukum
+halal, zina, hukum, awin --> kawin
+zina, kawin, hukum, awin --> halal
+allah, zina, wanita, suam --> milik
+allah, zina, wanita, milik --> suam
+allah, zina, suam, milik --> wanita
+allah, wanita, suam, milik --> zina
+zina, wanita, suam, milik --> allah
+allah, budak, sayang, milik --> paksa
+awin, wanita, budak, zina --> milik
+awin, wanita, budak, milik --> zina
+awin, wanita, zina, milik --> budak
+awin, budak, zina, milik --> wanita
+zina, budak, kawin, hukum --> awin
+awin, budak, kawin, hukum --> zina
+pandang, tahan, laki, malu --> perempuan
+zina, wanita, hukum, kafir --> awin
+zina, wanita, hukum, awin --> kafir
+zina, wanita, kafir, awin --> hukum
+awin, wanita, suam, zina --> hukum
+awin, wanita, hukum, zina --> suam
+awin, suam, hukum, zina --> wanita
+wanita, budak, laki, keji --> milik
+wanita, budak, laki, milik --> keji
+wanita, budak, keji, milik --> laki
+budak, laki, keji, milik --> wanita
+allah, zina, kawin, budak --> awin
+allah, awin, kawin, budak --> zina
+zina, awin, kawin, budak --> allah
+awin, wanita, budak, milik --> suam
+awin, wanita, budak, suam --> milik
+awin, wanita, milik, suam --> budak
+awin, budak, milik, suam --> wanita
+wanita, budak, milik, suam --> awin
+suam, zina, kawin, milik --> allah
+suam, allah, kawin, milik --> zina
+wanita, sayang, milik, budak --> sebahagian
+wanita, sayang, sebahagian, budak --> milik
+wanita, budak, hukum, kawin --> suam
+suam, awin, budak, zina --> wanita
+awin, wanita, budak, zina --> suam
+awin, kawin, hukum, milik --> budak
+awin, kawin, hukum, budak --> milik
+awin, kawin, milik, budak --> hukum
+kawin, hukum, milik, budak --> awin
+awin, wanita, kawin, milik --> zina
+awin, wanita, kawin, zina --> milik
+awin, wanita, milik, zina --> kawin
+awin, kawin, milik, zina --> wanita
+barangsiapa, bayar, diat, bunuh --> hamba
+barangsiapa, bayar, diat, hamba --> bunuh
+barangsiapa, diat, bunuh, hamba --> bayar
+bayar, diat, bunuh, hamba --> barangsiapa
+suam, awin, kawin, milik --> allah
+suam, allah, kawin, milik --> awin
+allah, zina, awin, suam --> wanita
+allah, zina, wanita, suam --> awin
+allah, awin, wanita, suam --> zina
+zina, awin, wanita, suam --> allah
+awin, kawin, hukum, zina --> budak
+awin, kawin, hukum, budak --> zina
+awin, kawin, zina, budak --> hukum
+zina, awin, suam, milik --> hukum
+zina, awin, hukum, milik --> suam
+zina, suam, hukum, milik --> awin
+awin, suam, hukum, milik --> zina
+barangsiapa, bunuh, diat, bayar --> hamba
+barangsiapa, bunuh, diat, hamba --> bayar
+barangsiapa, diat, bayar, hamba --> bunuh
+bunuh, diat, bayar, hamba --> barangsiapa
+awin, wanita, milik, suam --> kawin
+awin, wanita, kawin, suam --> milik
+wanita, milik, kawin, suam --> awin
+suam, awin, milik, zina --> hukum
+awin, milik, hukum, zina --> suam
+sebahagian, sayang, milik, budak --> paksa
+sayang, paksa, milik, budak --> sebahagian
+jaga, awin, wanita, kawin --> kafir
+jaga, awin, wanita, kafir --> kawin
+jaga, wanita, kawin, kafir --> awin
+awin, wanita, kawin, kafir --> jaga
+budak, kawin, hukum, milik --> suam
+budak, kawin, hukum, suam --> milik
+budak, kawin, milik, suam --> hukum
+budak, hukum, milik, suam --> kawin
+kawin, hukum, milik, suam --> budak
+awin, kawin, budak, hukum --> suam
+awin, kawin, hukum, suam --> budak
+awin, budak, hukum, suam --> kawin
+kawin, budak, hukum, suam --> awin
+allah, awin, budak, zina --> milik
+allah, awin, budak, milik --> zina
+allah, awin, zina, milik --> budak
+awin, budak, zina, milik --> allah
+bunuh, bangsa, saudara, halaman --> kampung
+bunuh, bangsa, saudara, kampung --> halaman
+bunuh, bangsa, halaman, kampung --> saudara
+allah, zina, balas, bunuh --> dosa
+allah, zina, dosa, bunuh --> balas
+allah, balas, dosa, bunuh --> zina
+tuhan, jiwa, allah, haram --> bunuh
+tuhan, jiwa, allah, bunuh --> haram
+tuhan, jiwa, haram, bunuh --> allah
+tuhan, allah, haram, bunuh --> jiwa
+jiwa, allah, haram, bunuh --> tuhan
+allah, bunuh, kafir, merdeka --> sengaja
+allah, bunuh, kafir, sengaja --> merdeka
+allah, kafir, merdeka, sengaja --> bunuh
+bunuh, kafir, merdeka, sengaja --> allah
+suam, zina, budak, milik --> awin
+suam, zina, budak, awin --> milik
+zina, budak, milik, awin --> suam
+suam, zina, kawin, budak --> hukum
+suam, kawin, hukum, budak --> zina
+zina, kawin, hukum, budak --> suam
+allah, kawin, hukum, milik --> suam
+allah, kawin, hukum, suam --> milik
+allah, kawin, milik, suam --> hukum
+kawin, hukum, milik, suam --> allah
+zina, wanita, kawin, milik --> suam
+zina, wanita, kawin, suam --> milik
+zina, wanita, milik, suam --> kawin
+zina, kawin, milik, suam --> wanita
+wanita, kawin, milik, suam --> zina
+jaga, budak, sayang, milik --> paksa
+jaga, budak, paksa, milik --> sayang
+jaga, sayang, paksa, milik --> budak
+budak, sayang, paksa, milik --> jaga
+allah, jaga, wanita, budak --> sebahagian
+allah, jaga, wanita, sebahagian --> budak
+allah, jaga, budak, sebahagian --> wanita
+allah, wanita, budak, sebahagian --> jaga
+jaga, wanita, budak, sebahagian --> allah
+awin, wanita, hukum, kafir --> zina
+awin, wanita, hukum, zina --> kafir
+allah, zina, kawin, milik --> awin
+allah, zina, kawin, awin --> milik
+allah, zina, milik, awin --> kawin
+zina, kawin, milik, awin --> allah
+suam, budak, kawin, milik --> hukum
+suam, budak, hukum, milik --> kawin
+budak, kawin, hukum, milik --> suam
+allah, malu, pandang, laki --> perempuan
+malu, perempuan, pandang, laki --> allah
+jaga, budak, sayang, sebahagian --> milik
+jaga, budak, sayang, milik --> sebahagian
+jaga, budak, sebahagian, milik --> sayang
+jaga, sayang, sebahagian, milik --> budak
+budak, sayang, sebahagian, milik --> jaga
+allah, awin, kawin, milik --> budak
+allah, awin, kawin, budak --> milik
+awin, kawin, milik, budak --> allah
+bunuh, saudara, halaman, usir --> kampung
+bunuh, saudara, kampung, usir --> halaman
+bunuh, halaman, kampung, usir --> saudara
+saudara, halaman, kampung, usir --> bunuh
+budak, wanita, kawin, milik --> suam
+budak, wanita, kawin, suam --> milik
+budak, wanita, milik, suam --> kawin
+budak, kawin, milik, suam --> wanita
+wanita, kawin, milik, suam --> budak
+allah, jaga, wanita, sayang --> milik
+allah, jaga, wanita, milik --> sayang
+allah, jaga, sayang, milik --> wanita
+allah, wanita, sayang, milik --> jaga
+jaga, wanita, sayang, milik --> allah
+allah, mukmin, sengaja, merdeka --> bunuh
+allah, mukmin, sengaja, bunuh --> merdeka
+allah, mukmin, merdeka, bunuh --> sengaja
+allah, wanita, sayang, paksa --> budak
+allah, wanita, sayang, budak --> paksa
+allah, sayang, paksa, budak --> wanita
+wanita, sayang, paksa, budak --> allah
+allah, suam, budak, milik --> wanita
+allah, wanita, budak, milik --> suam
+suam, wanita, budak, milik --> allah
+kampung, bunuh, saudara, halaman --> usir
+kampung, saudara, halaman, usir --> bunuh
+bunuh, saudara, halaman, usir --> kampung
+jaga, allah, budak, sebahagian --> milik
+jaga, allah, budak, milik --> sebahagian
+jaga, allah, sebahagian, milik --> budak
+jaga, budak, sebahagian, milik --> allah
+allah, budak, sebahagian, milik --> jaga
+allah, budak, kawin, milik --> suam
+allah, budak, kawin, suam --> milik
+allah, budak, milik, suam --> kawin
+allah, kawin, milik, suam --> budak
+budak, kawin, milik, suam --> allah
+allah, harta, wanita, budak --> milik
+allah, harta, wanita, milik --> budak
+allah, harta, budak, milik --> wanita
+allah, wanita, budak, milik --> harta
+harta, wanita, budak, milik --> allah
+allah, wanita, budak, sayang --> sebahagian
+allah, wanita, budak, sebahagian --> sayang
+allah, wanita, sayang, sebahagian --> budak
+allah, budak, sayang, sebahagian --> wanita
+allah, zina, kawin, budak --> suam
+allah, awin, suam, zina --> milik
+allah, awin, suam, milik --> zina
+allah, awin, zina, milik --> suam
+awin, suam, zina, milik --> allah
+allah, pandang, laki, malu --> perempuan
+budak, wanita, keji, milik --> dada
+budak, keji, dada, milik --> wanita
+wanita, keji, dada, milik --> budak
+allah, milik, laki, keji --> dada
+allah, milik, dada, keji --> laki
+allah, laki, dada, keji --> milik
+milik, laki, dada, keji --> allah
+zina, awin, kawin, budak --> suam
+zina, awin, kawin, suam --> budak
+zina, awin, budak, suam --> kawin
+hukum, budak, kawin, milik --> zina
+suam, zina, budak, milik --> wanita
+suam, wanita, budak, milik --> zina
+zina, wanita, budak, milik --> suam
+suam, zina, budak, milik --> kawin
+suam, zina, kawin, milik --> budak
+suam, budak, kawin, milik --> zina
+zina, budak, kawin, milik --> suam
+milik, sayang, sebahagian, budak --> wanita
+sayang, wanita, sebahagian, budak --> milik
+awin, wanita, suam, milik --> zina
+awin, wanita, suam, zina --> milik
+awin, wanita, milik, zina --> suam
+awin, suam, milik, zina --> wanita
+allah, suam, budak, milik --> hukum
+allah, suam, hukum, milik --> budak
+allah, budak, hukum, milik --> suam
+suam, budak, hukum, milik --> allah
+zina, wanita, awin, milik --> budak
+zina, wanita, budak, milik --> awin
+zina, awin, budak, milik --> wanita
+zina, budak, kawin, hukum --> milik
+zina, budak, kawin, milik --> hukum
+zina, budak, hukum, milik --> kawin
+zina, kawin, hukum, milik --> budak
+budak, kawin, hukum, milik --> zina
+allah, awin, suam, zina --> budak
+allah, awin, budak, zina --> suam
+jaga, wanita, sebahagian, sayang --> milik
+jaga, wanita, sebahagian, milik --> sayang
+jaga, wanita, sayang, milik --> sebahagian
+bunuh, hamba, diat, bayar --> merdeka
+bunuh, hamba, merdeka, bayar --> diat
+bunuh, diat, merdeka, bayar --> hamba
+jaga, sayang, sebahagian, budak --> milik
+milik, sayang, sebahagian, budak --> jaga
+jaga, allah, sebahagian, paksa --> sayang
+jaga, allah, sebahagian, sayang --> paksa
+jaga, sebahagian, paksa, sayang --> allah
+allah, awin, kawin, milik --> zina
+allah, awin, kawin, zina --> milik
+allah, awin, milik, zina --> kawin
+awin, kawin, milik, zina --> allah
+jaga, wanita, sebahagian, sayang --> budak
+jaga, wanita, sebahagian, budak --> sayang
+jaga, wanita, sayang, budak --> sebahagian
+jaga, sebahagian, sayang, budak --> wanita
+bumi, rusa, muka, rasul --> bunuh
+bumi, rusa, muka, bunuh --> rasul
+bumi, rusa, rasul, bunuh --> muka
+allah, awin, wanita, zina --> milik
+allah, awin, wanita, milik --> zina
+allah, awin, zina, milik --> wanita
+awin, wanita, zina, milik --> allah
+jaga, allah, sebahagian, sayang --> paksa
+jaga, allah, sebahagian, paksa --> sayang
+jaga, allah, sayang, paksa --> sebahagian
+jaga, wanita, sebahagian, milik --> budak
+jaga, wanita, sebahagian, budak --> milik
+jaga, sebahagian, milik, budak --> wanita
+wanita, sebahagian, milik, budak --> jaga
+allah, awin, kawin, milik --> suam
+allah, awin, kawin, suam --> milik
+allah, awin, milik, suam --> kawin
+allah, kawin, milik, suam --> awin
+awin, kawin, milik, suam --> allah
+allah, malu, tahan, pandang --> laki
+allah, malu, tahan, laki --> pandang
+allah, malu, pandang, laki --> tahan
+malu, tahan, pandang, laki --> allah
+wanita, budak, hukum, kawin --> milik
+wanita, budak, hukum, milik --> kawin
+wanita, budak, kawin, milik --> hukum
+allah, wanita, budak, milik --> keji
+allah, wanita, budak, keji --> milik
+allah, wanita, milik, keji --> budak
+allah, budak, milik, keji --> wanita
+wanita, budak, milik, keji --> allah
+allah, budak, sayang, milik --> wanita
+allah, wanita, sayang, milik --> budak
+budak, wanita, sayang, milik --> allah
+zina, wanita, awin, suam --> hukum
+zina, wanita, hukum, suam --> awin
+zina, awin, hukum, suam --> wanita
+allah, awin, wanita, suam --> zina
+allah, awin, wanita, zina --> suam
+allah, awin, suam, zina --> wanita
+awin, wanita, suam, zina --> allah
+suam, zina, budak, awin --> wanita
+zina, wanita, budak, awin --> suam
+hukum, budak, kawin, milik --> suam
+hukum, budak, kawin, suam --> milik
+budak, kawin, milik, suam --> hukum
+bunuh, bangsa, halaman, saudara --> usir
+bunuh, bangsa, halaman, usir --> saudara
+bunuh, bangsa, saudara, usir --> halaman
+bunuh, halaman, saudara, usir --> bangsa
+bangsa, halaman, saudara, usir --> bunuh
+jaga, allah, sayang, sebahagian --> budak
+jaga, allah, sayang, budak --> sebahagian
+jaga, allah, sebahagian, budak --> sayang
+jaga, sayang, sebahagian, budak --> allah
+allah, sayang, sebahagian, budak --> jaga
+bayar, diat, barangsiapa, merdeka --> bunuh
+bayar, diat, barangsiapa, bunuh --> merdeka
+bayar, diat, merdeka, bunuh --> barangsiapa
+bayar, barangsiapa, merdeka, bunuh --> diat
+awin, wanita, kawin, budak --> suam
+awin, wanita, kawin, suam --> budak
+awin, wanita, budak, suam --> kawin
+allah, zina, budak, hukum --> awin
+allah, zina, budak, awin --> hukum
+allah, zina, hukum, awin --> budak
+zina, budak, hukum, awin --> allah
+allah, jaga, wanita, sebahagian --> budak
+allah, jaga, wanita, budak --> sebahagian
+allah, jaga, sebahagian, budak --> wanita
+allah, wanita, sebahagian, budak --> jaga
+jaga, wanita, sebahagian, budak --> allah
+suam, awin, budak, zina --> allah
+jaga, sayang, paksa, sebahagian --> budak
+jaga, sayang, paksa, budak --> sebahagian
+jaga, sayang, sebahagian, budak --> paksa
+sayang, paksa, sebahagian, budak --> jaga
+barangsiapa, diat, merdeka, hamba --> bayar
+barangsiapa, diat, bayar, hamba --> merdeka
+allah, bunuh, jiwa, haram --> alas
+allah, bunuh, jiwa, alas --> haram
+allah, bunuh, haram, alas --> jiwa
+allah, jiwa, haram, alas --> bunuh
+jaga, zina, kafir, kawin --> wanita
+jaga, zina, kafir, wanita --> kawin
+jaga, kafir, kawin, wanita --> zina
+zina, kafir, kawin, wanita --> jaga
+awin, wanita, suam, zina --> kawin
+awin, wanita, kawin, zina --> suam
+awin, suam, kawin, zina --> wanita
+wanita, kawin, hukum, milik --> budak
+wanita, kawin, hukum, budak --> milik
+wanita, kawin, milik, budak --> hukum
+kawin, hukum, milik, budak --> wanita
+wanita, budak, hukum, kawin --> suam
+wanita, budak, hukum, suam --> kawin
+wanita, budak, kawin, suam --> hukum
+allah, budak, hukum, milik --> suam
+allah, budak, hukum, suam --> milik
+allah, budak, milik, suam --> hukum
+budak, hukum, milik, suam --> allah
+suam, awin, budak, zina --> hukum
+awin, budak, hukum, zina --> suam
+sayang, allah, budak, milik --> wanita
+sayang, wanita, budak, milik --> allah
+allah, wanita, budak, milik --> sayang
+jaga, wanita, sebahagian, paksa --> milik
+jaga, wanita, sebahagian, milik --> paksa
+jaga, wanita, paksa, milik --> sebahagian
+jaga, sebahagian, paksa, milik --> wanita
+wanita, sebahagian, paksa, milik --> jaga
+zina, wanita, kawin, milik --> awin
+zina, wanita, kawin, awin --> milik
+zina, kawin, milik, awin --> wanita
+suam, zina, budak, milik --> awin
+suam, awin, budak, milik --> zina
+zina, awin, budak, milik --> suam
+allah, wanita, milik, suam --> kawin
+allah, wanita, kawin, suam --> milik
+allah, milik, kawin, suam --> wanita
+wanita, milik, kawin, suam --> allah
+allah, tuhan, jiwa, haram --> bunuh
+allah, tuhan, jiwa, bunuh --> haram
+allah, tuhan, haram, bunuh --> jiwa
+allah, jiwa, haram, bunuh --> tuhan
+tuhan, jiwa, haram, bunuh --> allah
+bunuh, bangsa, saudara, kampung --> usir
+bunuh, bangsa, saudara, usir --> kampung
+bunuh, bangsa, kampung, usir --> saudara
+bunuh, saudara, kampung, usir --> bangsa
+bangsa, saudara, kampung, usir --> bunuh
+allah, zina, wanita, hukum --> suam
+allah, zina, wanita, suam --> hukum
+allah, zina, hukum, suam --> wanita
+allah, wanita, hukum, suam --> zina
+zina, wanita, hukum, suam --> allah
+zina, wanita, suam, milik --> budak
+zina, wanita, budak, milik --> suam
+allah, zina, budak, kawin --> hukum
+allah, zina, budak, hukum --> kawin
+allah, zina, kawin, hukum --> budak
+zina, budak, kawin, hukum --> allah
+zina, wanita, budak, awin --> suam
+zina, wanita, budak, suam --> awin
+zina, wanita, awin, suam --> budak
+awin, wanita, budak, hukum --> kawin
+awin, wanita, budak, kawin --> hukum
+wanita, budak, hukum, kawin --> awin
+allah, zina, awin, suam --> hukum
+allah, zina, hukum, suam --> awin
+allah, awin, hukum, suam --> zina
+zina, awin, hukum, suam --> allah
+allah, awin, wanita, milik --> suam
+allah, awin, wanita, suam --> milik
+allah, awin, milik, suam --> wanita
+allah, wanita, milik, suam --> awin
+awin, wanita, milik, suam --> allah
+allah, wanita, budak, paksa --> sebahagian
+allah, wanita, budak, sebahagian --> paksa
+allah, budak, paksa, sebahagian --> wanita
+wanita, budak, paksa, sebahagian --> allah
+allah, jaga, budak, sayang --> milik
+allah, jaga, budak, milik --> sayang
+allah, jaga, sayang, milik --> budak
+allah, budak, sayang, milik --> jaga
+jaga, budak, sayang, milik --> allah
+jaga, kafir, kawin, hukum --> wanita
+jaga, kafir, kawin, wanita --> hukum
+jaga, kafir, hukum, wanita --> kawin
+kafir, kawin, hukum, wanita --> jaga
+jaga, allah, wanita, sayang --> sebahagian
+jaga, allah, wanita, sebahagian --> sayang
+jaga, allah, sayang, sebahagian --> wanita
+jaga, wanita, sayang, sebahagian --> allah
+allah, wanita, sayang, sebahagian --> jaga
+allah, zina, awin, milik --> hukum
+allah, zina, hukum, milik --> awin
+allah, awin, hukum, milik --> zina
+zina, awin, hukum, milik --> allah
+suam, zina, budak, awin --> kawin
+suam, zina, kawin, awin --> budak
+zina, budak, kawin, awin --> suam
+allah, wanita, sebahagian, milik --> budak
+allah, wanita, sebahagian, budak --> milik
+wanita, sebahagian, milik, budak --> allah
+allah, balas, sebahagian, dosa --> bunuh
+allah, balas, sebahagian, bunuh --> dosa
+allah, balas, dosa, bunuh --> sebahagian
+balas, sebahagian, dosa, bunuh --> allah
+allah, zina, budak, hukum --> milik
+allah, zina, budak, milik --> hukum
+allah, zina, hukum, milik --> budak
+allah, budak, hukum, milik --> zina
+zina, budak, hukum, milik --> allah
+zina, budak, kawin, milik --> awin
+zina, budak, kawin, awin --> milik
+zina, budak, milik, awin --> kawin
+zina, kawin, milik, awin --> budak
+allah, mukmin, sengaja, kafir --> bunuh
+allah, mukmin, sengaja, bunuh --> kafir
+allah, mukmin, kafir, bunuh --> sengaja
+zina, awin, budak, suam --> wanita
+zina, awin, wanita, suam --> budak
+allah, zina, wanita, milik --> awin
+allah, zina, wanita, awin --> milik
+allah, zina, milik, awin --> wanita
+allah, jaga, sebahagian, paksa --> budak
+allah, jaga, sebahagian, budak --> paksa
+allah, sebahagian, paksa, budak --> jaga
+jaga, sebahagian, paksa, budak --> allah
+allah, awin, suam, milik --> zina
+allah, awin, suam, zina --> milik
+allah, awin, milik, zina --> suam
+awin, suam, milik, zina --> allah
+zina, wanita, milik, suam --> kawin
+zina, wanita, kawin, suam --> milik
+wanita, milik, kawin, suam --> zina
+halaman, bunuh, saudara, kampung --> usir
+bunuh, saudara, kampung, usir --> halaman
+jaga, allah, wanita, budak --> paksa
+jaga, allah, budak, paksa --> wanita
+jaga, wanita, budak, paksa --> allah
+allah, wanita, budak, paksa --> jaga
+mukmin, bunuh, kafir, allah --> sengaja
+mukmin, bunuh, kafir, sengaja --> allah
+halal, awin, kawin, hukum --> zina
+halal, awin, kawin, zina --> hukum
+halal, awin, hukum, zina --> kawin
+awin, kawin, hukum, zina --> halal
+bunuh, rusa, muka, rasul --> bumi
+bunuh, rusa, muka, bumi --> rasul
+bunuh, rusa, rasul, bumi --> muka
+budak, kawin, hukum, suam --> wanita
+allah, zina, wanita, hukum --> milik
+allah, zina, wanita, milik --> hukum
+allah, zina, hukum, milik --> wanita
+allah, wanita, hukum, milik --> zina
+zina, wanita, hukum, milik --> allah
+allah, wanita, suam, milik --> hukum
+allah, wanita, hukum, milik --> suam
+allah, suam, hukum, milik --> wanita
+wanita, suam, hukum, milik --> allah
+allah, zina, kawin, hukum --> awin
+allah, zina, kawin, awin --> hukum
+allah, zina, hukum, awin --> kawin
+zina, kawin, hukum, awin --> allah
+mukmin, bunuh, sengaja, allah --> merdeka
+mukmin, bunuh, sengaja, merdeka --> allah
+mukmin, bunuh, allah, merdeka --> sengaja
+barangsiapa, bunuh, hamba, bayar --> diat
+barangsiapa, bunuh, diat, bayar --> hamba
+bunuh, hamba, diat, bayar --> barangsiapa
+allah, bunuh, jiwa, haram --> tuhan
+allah, bunuh, jiwa, tuhan --> haram
+allah, bunuh, haram, tuhan --> jiwa
+allah, jiwa, haram, tuhan --> bunuh
+suam, awin, budak, milik --> kawin
+suam, awin, kawin, milik --> budak
+suam, budak, kawin, milik --> awin
+awin, budak, kawin, milik --> suam
+awin, budak, kawin, zina --> suam
+awin, budak, kawin, suam --> zina
+awin, budak, zina, suam --> kawin
+awin, kawin, zina, suam --> budak
+bumi, rusa, muka, bunuh --> rasul
+bumi, rusa, muka, rasul --> bunuh
+bumi, rusa, bunuh, rasul --> muka
+bumi, muka, bunuh, rasul --> rusa
+suam, allah, budak, milik --> wanita
+suam, wanita, budak, milik --> allah
+allah, wanita, budak, milik --> suam
+allah, budak, kawin, milik --> wanita
+allah, wanita, kawin, milik --> budak
+budak, wanita, kawin, milik --> allah
+allah, hukum, budak, kawin --> wanita
+allah, wanita, budak, kawin --> hukum
+allah, budak, kawin, suam --> hukum
+allah, budak, hukum, suam --> kawin
+allah, kawin, hukum, suam --> budak
+budak, kawin, hukum, suam --> allah
+allah, jaga, sebahagian, sayang --> budak
+allah, jaga, sebahagian, budak --> sayang
+allah, jaga, sayang, budak --> sebahagian
+jaga, sebahagian, sayang, budak --> allah
+hukum, budak, kawin, suam --> zina
+allah, jaga, wanita, paksa --> milik
+allah, jaga, wanita, milik --> paksa
+allah, jaga, paksa, milik --> wanita
+allah, wanita, paksa, milik --> jaga
+jaga, wanita, paksa, milik --> allah
+allah, awin, wanita, kawin --> budak
+allah, awin, wanita, budak --> kawin
+allah, awin, kawin, budak --> wanita
+allah, wanita, kawin, budak --> awin
+awin, wanita, kawin, budak --> allah
+sayang, allah, budak, milik --> paksa
+sayang, budak, paksa, milik --> allah
+allah, budak, paksa, milik --> sayang
+mukmin, allah, kafir, merdeka --> bunuh
+mukmin, allah, kafir, bunuh --> merdeka
+bunuh, diat, hamba, bayar --> merdeka
+bunuh, diat, merdeka, bayar --> hamba
+bunuh, hamba, merdeka, bayar --> diat
+jaga, sayang, sebahagian, budak --> paksa
+jaga, sayang, paksa, budak --> sebahagian
+jaga, sebahagian, paksa, budak --> sayang
+sayang, sebahagian, paksa, budak --> jaga
+suam, allah, budak, milik --> kawin
+suam, allah, kawin, milik --> budak
+suam, budak, kawin, milik --> allah
+allah, budak, kawin, milik --> suam
+allah, zina, suam, awin --> budak
+allah, zina, budak, awin --> suam
+allah, awin, suam, zina --> kawin
+allah, awin, kawin, zina --> suam
+awin, suam, kawin, zina --> allah
+allah, jaga, sebahagian, milik --> budak
+allah, jaga, sebahagian, budak --> milik
+jaga, sebahagian, milik, budak --> allah
+wanita, budak, milik, keji --> dada
+wanita, budak, dada, keji --> milik
+wanita, milik, dada, keji --> budak
+budak, milik, dada, keji --> wanita
+allah, kawin, milik, suam --> hukum
+allah, kawin, hukum, suam --> milik
+allah, milik, hukum, suam --> kawin
+kawin, milik, hukum, suam --> allah
+bayar, hamba, barangsiapa, bunuh --> diat
+bayar, hamba, diat, bunuh --> barangsiapa
+zina, budak, suam, milik --> hukum
+zina, budak, hukum, milik --> suam
+zina, suam, hukum, milik --> budak
+kampung, bangsa, halaman, saudara --> usir
+kampung, halaman, saudara, usir --> bangsa
+bangsa, halaman, saudara, usir --> kampung
+allah, zina, suam, milik --> hukum
+allah, zina, hukum, milik --> suam
+allah, suam, hukum, milik --> zina
+zina, suam, hukum, milik --> allah
+allah, awin, wanita, suam --> milik
+allah, awin, wanita, milik --> suam
+allah, awin, suam, milik --> wanita
+allah, wanita, suam, milik --> awin
+awin, wanita, suam, milik --> allah
+budak, keji, laki, milik --> dada
+budak, keji, dada, milik --> laki
+budak, laki, dada, milik --> keji
+keji, laki, dada, milik --> budak
+awin, wanita, budak, hukum --> milik
+awin, wanita, budak, milik --> hukum
+awin, wanita, hukum, milik --> budak
+awin, budak, hukum, milik --> wanita
+wanita, budak, hukum, milik --> awin
+awin, milik, kawin, zina --> suam
+awin, milik, zina, suam --> kawin
+awin, kawin, zina, suam --> milik
+suam, awin, budak, milik --> wanita
+suam, wanita, budak, milik --> awin
+awin, wanita, budak, milik --> suam
+zina, wanita, kawin, kafir --> awin
+zina, wanita, kawin, awin --> kafir
+zina, wanita, kafir, awin --> kawin
+allah, pandang, laki, malu --> perempuan
+allah, pandang, laki, perempuan --> malu
+pandang, laki, malu, perempuan --> allah
+allah, bunuh, sengaja, merdeka --> kafir
+allah, bunuh, sengaja, kafir --> merdeka
+allah, sengaja, merdeka, kafir --> bunuh
+bunuh, sengaja, merdeka, kafir --> allah
+allah, zina, milik, suam --> kawin
+allah, zina, kawin, suam --> milik
+allah, milik, kawin, suam --> zina
+zina, wanita, kawin, awin --> suam
+zina, wanita, kawin, suam --> awin
+zina, wanita, awin, suam --> kawin
+allah, sayang, sebahagian, budak --> paksa
+allah, sayang, paksa, budak --> sebahagian
+allah, sebahagian, paksa, budak --> sayang
+sayang, sebahagian, paksa, budak --> allah
+zina, awin, budak, suam --> hukum
+zina, awin, hukum, suam --> budak
+zina, budak, hukum, suam --> awin
+awin, budak, hukum, suam --> zina
+allah, zina, milik, suam --> hukum
+allah, zina, hukum, suam --> milik
+allah, milik, hukum, suam --> zina
+zina, milik, hukum, suam --> allah
+halaman, bunuh, saudara, kampung --> bangsa
+halaman, bangsa, saudara, kampung --> bunuh
+bunuh, bangsa, saudara, kampung --> halaman
+zina, wanita, kawin, budak --> suam
+zina, wanita, kawin, suam --> budak
+zina, wanita, budak, suam --> kawin
+zina, wanita, suam, milik --> hukum
+zina, wanita, hukum, milik --> suam
+zina, suam, hukum, milik --> wanita
+wanita, suam, hukum, milik --> zina
+awin, wanita, suam, milik --> budak
+awin, wanita, budak, milik --> suam
+allah, zina, budak, kawin --> milik
+allah, zina, budak, milik --> kawin
+allah, zina, kawin, milik --> budak
+allah, budak, kawin, milik --> zina
+zina, budak, kawin, milik --> allah
+allah, jiwa, tuhan, bunuh --> haram
+allah, jiwa, haram, bunuh --> tuhan
+allah, tuhan, haram, bunuh --> jiwa
+jiwa, tuhan, haram, bunuh --> allah
+allah, jaga, sayang, paksa --> milik
+allah, jaga, sayang, milik --> paksa
+allah, jaga, paksa, milik --> sayang
+allah, sayang, paksa, milik --> jaga
+jaga, sayang, paksa, milik --> allah
+halal, zina, wanita, kawin --> hukum
+halal, zina, wanita, hukum --> kawin
+halal, zina, kawin, hukum --> wanita
+halal, wanita, kawin, hukum --> zina
+zina, wanita, kawin, hukum --> halal
+suam, zina, kawin, budak --> wanita
+suam, wanita, kawin, budak --> zina
+zina, wanita, kawin, budak --> suam
+allah, jaga, wanita, sebahagian --> paksa
+allah, jaga, wanita, paksa --> sebahagian
+allah, jaga, sebahagian, paksa --> wanita
+allah, wanita, sebahagian, paksa --> jaga
+jaga, wanita, sebahagian, paksa --> allah
+jaga, awin, kawin, hukum --> zina
+jaga, awin, kawin, zina --> hukum
+jaga, awin, hukum, zina --> kawin
+awin, kawin, hukum, zina --> jaga
+jaga, awin, kafir, kawin --> wanita
+jaga, awin, kafir, wanita --> kawin
+jaga, kafir, kawin, wanita --> awin
+awin, kafir, kawin, wanita --> jaga
+zina, wanita, kawin, hukum --> milik
+zina, wanita, kawin, milik --> hukum
+zina, wanita, hukum, milik --> kawin
+zina, kawin, hukum, milik --> wanita
+wanita, kawin, hukum, milik --> zina
+wanita, budak, laki, dada --> milik
+wanita, budak, laki, milik --> dada
+wanita, budak, dada, milik --> laki
+wanita, laki, dada, milik --> budak
+budak, laki, dada, milik --> wanita
+jaga, budak, paksa, sayang --> sebahagian
+jaga, sebahagian, paksa, sayang --> budak
+allah, jaga, budak, sayang --> paksa
+allah, jaga, budak, paksa --> sayang
+allah, jaga, sayang, paksa --> budak
+jaga, zina, wanita, kawin --> hukum
+jaga, zina, wanita, hukum --> kawin
+jaga, zina, kawin, hukum --> wanita
+jaga, wanita, kawin, hukum --> zina
+zina, wanita, kawin, hukum --> jaga
+zina, wanita, awin, milik --> suam
+zina, wanita, kawin, budak --> awin
+zina, wanita, kawin, awin --> budak
+zina, wanita, budak, awin --> kawin
+allah, hukum, budak, kawin --> milik
+allah, budak, kawin, milik --> hukum
+hukum, budak, kawin, milik --> allah
+wanita, budak, kawin, milik --> suam
+wanita, budak, kawin, suam --> milik
+wanita, budak, milik, suam --> kawin
+wanita, kawin, milik, suam --> budak
+budak, kawin, milik, suam --> wanita
+jaga, allah, budak, paksa --> milik
+jaga, allah, budak, milik --> paksa
+jaga, allah, paksa, milik --> budak
+jaga, budak, paksa, milik --> allah
+allah, budak, paksa, milik --> jaga
+allah, awin, suam, zina --> hukum
+allah, awin, hukum, zina --> suam
+awin, suam, hukum, zina --> allah
+bunuh, bangsa, kampung, saudara --> usir
+bunuh, bangsa, kampung, usir --> saudara
+bunuh, bangsa, saudara, usir --> kampung
+bunuh, kampung, saudara, usir --> bangsa
+bangsa, kampung, saudara, usir --> bunuh
+jaga, awin, wanita, kawin --> zina
+jaga, awin, wanita, zina --> kawin
+jaga, awin, kawin, zina --> wanita
+awin, wanita, kawin, zina --> jaga
+awin, kafir, kawin, wanita --> zina
+awin, kafir, kawin, zina --> wanita
+awin, kafir, wanita, zina --> kawin
+allah, awin, wanita, hukum --> suam
+allah, awin, wanita, suam --> hukum
+allah, awin, hukum, suam --> wanita
+allah, wanita, hukum, suam --> awin
+awin, wanita, hukum, suam --> allah
+tuhan, bunuh, balas, niscaya --> dosa
+tuhan, bunuh, dosa, niscaya --> balas
+tuhan, balas, dosa, niscaya --> bunuh
+jaga, allah, sebahagian, sayang --> milik
+jaga, allah, sebahagian, milik --> sayang
+jaga, allah, sayang, milik --> sebahagian
+allah, sebahagian, sayang, milik --> jaga
+wanita, suam, hukum, milik --> kawin
+wanita, suam, kawin, milik --> hukum
+allah, awin, kawin, zina --> suam
+allah, awin, kawin, suam --> zina
+allah, awin, zina, suam --> kawin
+awin, kawin, zina, suam --> allah
+allah, budak, suam, milik --> hukum
+allah, budak, hukum, milik --> suam
+allah, suam, hukum, milik --> budak
+allah, mukmin, kafir, merdeka --> sengaja
+allah, mukmin, kafir, sengaja --> merdeka
+allah, kafir, merdeka, sengaja --> mukmin
+mukmin, kafir, merdeka, sengaja --> allah
+bunuh, diat, barangsiapa, hamba --> bayar
+bunuh, diat, barangsiapa, bayar --> hamba
+bunuh, diat, hamba, bayar --> barangsiapa
+milik, budak, dada, keji --> laki
+milik, laki, dada, keji --> budak
+budak, laki, dada, keji --> milik
+allah, wanita, budak, keji --> milik
+allah, wanita, budak, milik --> keji
+allah, wanita, keji, milik --> budak
+allah, budak, keji, milik --> wanita
+wanita, budak, keji, milik --> allah
+awin, budak, milik, zina --> hukum
+awin, budak, hukum, zina --> milik
+awin, milik, hukum, zina --> budak
+jaga, wanita, budak, sayang --> milik
+jaga, wanita, budak, milik --> sayang
+jaga, wanita, sayang, milik --> budak
+jaga, budak, sayang, milik --> wanita
+allah, bunuh, kafir, sengaja --> mukmin
+allah, bunuh, kafir, mukmin --> sengaja
+barangsiapa, bunuh, diat, merdeka --> hamba
+barangsiapa, bunuh, diat, hamba --> merdeka
+barangsiapa, diat, merdeka, hamba --> bunuh
+bunuh, diat, merdeka, hamba --> barangsiapa
+allah, jaga, wanita, budak --> sayang
+allah, jaga, wanita, sayang --> budak
+allah, jaga, budak, sayang --> wanita
+allah, wanita, budak, sayang --> jaga
+jaga, wanita, budak, sayang --> allah
+allah, zina, suam, milik --> budak
+allah, zina, budak, milik --> suam
+allah, suam, budak, milik --> zina
+jaga, zina, wanita, kawin --> kafir
+jaga, zina, wanita, kafir --> kawin
+jaga, wanita, kawin, kafir --> zina
+zina, wanita, kawin, kafir --> jaga
+jaga, zina, kafir, kawin --> hukum
+jaga, zina, kafir, hukum --> kawin
+jaga, zina, kawin, hukum --> kafir
+jaga, kafir, kawin, hukum --> zina
+zina, kafir, kawin, hukum --> jaga
+allah, wanita, sayang, sebahagian --> budak
+allah, wanita, sayang, budak --> sebahagian
+allah, wanita, sebahagian, budak --> sayang
+allah, sayang, sebahagian, budak --> wanita
+wanita, sayang, sebahagian, budak --> allah
+allah, budak, sayang, milik --> paksa
+allah, budak, paksa, milik --> sayang
+allah, sayang, paksa, milik --> budak
+budak, sayang, paksa, milik --> allah
+sayang, jaga, budak, milik --> paksa
+sayang, budak, paksa, milik --> jaga
+jaga, budak, paksa, milik --> sayang
+rasul, rusa, bunuh, bumi --> muka
+rasul, rusa, muka, bumi --> bunuh
+rasul, bunuh, muka, bumi --> rusa
+allah, awin, budak, milik --> suam
+allah, awin, budak, suam --> milik
+allah, awin, milik, suam --> budak
+allah, budak, milik, suam --> awin
+awin, budak, milik, suam --> allah
+allah, awin, kawin, hukum --> suam
+allah, awin, kawin, suam --> hukum
+allah, awin, hukum, suam --> kawin
+allah, kawin, hukum, suam --> awin
+awin, kawin, hukum, suam --> allah
+allah, suam, kawin, milik --> wanita
+allah, wanita, kawin, milik --> suam
+suam, wanita, kawin, milik --> allah
+allah, awin, wanita, kawin --> suam
+allah, awin, wanita, suam --> kawin
+allah, awin, kawin, suam --> wanita
+allah, wanita, kawin, suam --> awin
+awin, wanita, kawin, suam --> allah
+jaga, allah, budak, sayang --> sebahagian
+jaga, allah, budak, sebahagian --> sayang
+jaga, allah, sayang, sebahagian --> budak
+jaga, budak, sayang, sebahagian --> allah
+allah, budak, sayang, sebahagian --> jaga
+allah, balas, bunuh, zina --> dosa
+allah, balas, dosa, zina --> bunuh
+allah, bunuh, dosa, zina --> balas
+balas, bunuh, dosa, zina --> allah
+allah, budak, sebahagian, milik --> sayang
+allah, budak, sayang, milik --> sebahagian
+allah, sebahagian, sayang, milik --> budak
+jaga, awin, kafir, kawin --> zina
+jaga, awin, kafir, zina --> kawin
+jaga, awin, kawin, zina --> kafir
+awin, kafir, kawin, zina --> jaga
+jaga, allah, sayang, paksa --> milik
+jaga, allah, sayang, milik --> paksa
+jaga, allah, paksa, milik --> sayang
+jaga, sayang, paksa, milik --> allah
+allah, sayang, paksa, milik --> jaga
+allah, zina, dosa, balas --> bunuh
+allah, zina, dosa, bunuh --> balas
+allah, zina, balas, bunuh --> dosa
+jaga, awin, kafir, hukum --> wanita
+jaga, awin, kafir, wanita --> hukum
+jaga, kafir, hukum, wanita --> awin
+awin, kafir, hukum, wanita --> jaga
+suam, awin, kawin, milik --> wanita
+suam, wanita, kawin, milik --> awin
+awin, wanita, kawin, milik --> suam
+kampung, bunuh, saudara, halaman --> bangsa
+kampung, bangsa, saudara, halaman --> bunuh
+bunuh, bangsa, saudara, halaman --> kampung
+zina, wanita, budak, kawin --> hukum
+zina, wanita, budak, hukum --> kawin
+zina, wanita, kawin, hukum --> budak
+zina, budak, kawin, hukum --> wanita
+zina, budak, kawin, hukum --> suam
+kawin, budak, hukum, milik --> suam
+kawin, budak, hukum, suam --> milik
+kawin, hukum, milik, suam --> budak
+budak, hukum, milik, suam --> kawin
+allah, jaga, sayang, sebahagian --> budak
+allah, jaga, sayang, budak --> sebahagian
+allah, jaga, sebahagian, budak --> sayang
+allah, sayang, sebahagian, budak --> jaga
+jaga, sayang, sebahagian, budak --> allah
+allah, awin, wanita, kawin --> hukum
+allah, awin, wanita, hukum --> kawin
+allah, awin, kawin, hukum --> wanita
+allah, wanita, kawin, hukum --> awin
+awin, wanita, kawin, hukum --> allah
+zina, wanita, budak, hukum --> kawin
+zina, wanita, budak, kawin --> hukum
+wanita, budak, hukum, kawin --> zina
+wanita, budak, paksa, sebahagian --> milik
+wanita, budak, paksa, milik --> sebahagian
+wanita, budak, sebahagian, milik --> paksa
+budak, paksa, sebahagian, milik --> wanita
+allah, wanita, keji, milik --> laki
+allah, wanita, laki, milik --> keji
+allah, keji, laki, milik --> wanita
+wanita, keji, laki, milik --> allah
+zina, awin, kawin, budak --> milik
+zina, awin, kawin, milik --> budak
+zina, awin, budak, milik --> kawin
+allah, zina, saksi, dera --> akhirat
+allah, zina, saksi, akhirat --> dera
+allah, zina, dera, akhirat --> saksi
+allah, saksi, dera, akhirat --> zina
+zina, saksi, dera, akhirat --> allah
+allah, wanita, budak, kawin --> suam
+allah, wanita, budak, suam --> kawin
+allah, wanita, kawin, suam --> budak
+allah, budak, kawin, suam --> wanita
+wanita, budak, kawin, suam --> allah
+allah, sebahagian, sayang, milik --> paksa
+jaga, awin, wanita, kawin --> hukum
+jaga, awin, wanita, hukum --> kawin
+jaga, awin, kawin, hukum --> wanita
+jaga, wanita, kawin, hukum --> awin
+awin, wanita, kawin, hukum --> jaga
+bayar, diat, barangsiapa, hamba --> bunuh
+bayar, diat, barangsiapa, bunuh --> hamba
+allah, suam, kawin, milik --> wanita
+allah, zina, budak, suam --> awin
+allah, zina, budak, awin --> suam
+allah, zina, suam, awin --> budak
+allah, wanita, budak, sayang --> paksa
+awin, wanita, budak, kawin --> zina
+awin, wanita, budak, zina --> kawin
+awin, wanita, kawin, zina --> budak
+awin, budak, kawin, zina --> wanita
+jaga, budak, sayang, milik --> wanita
+jaga, wanita, sayang, milik --> budak
+budak, wanita, sayang, milik --> jaga
+wanita, budak, laki, milik --> keji
+wanita, budak, laki, keji --> milik
+wanita, budak, milik, keji --> laki
+budak, laki, milik, keji --> wanita
+wanita, budak, laki, dada --> keji
+wanita, budak, laki, keji --> dada
+wanita, budak, dada, keji --> laki
+wanita, laki, dada, keji --> budak
+budak, laki, dada, keji --> wanita
+jaga, wanita, sayang, sebahagian --> budak
+jaga, wanita, sayang, budak --> sebahagian
+jaga, wanita, sebahagian, budak --> sayang
+jaga, sayang, sebahagian, budak --> wanita
+wanita, sayang, sebahagian, budak --> jaga
+mukmin, allah, sengaja, merdeka --> kafir
+mukmin, allah, sengaja, kafir --> merdeka
+mukmin, sengaja, merdeka, kafir --> allah
+allah, sengaja, merdeka, kafir --> mukmin
+jaga, allah, budak, paksa --> sayang
+jaga, allah, budak, sayang --> paksa
+jaga, budak, paksa, sayang --> allah
+allah, budak, paksa, sayang --> jaga
+budak, wanita, kawin, suam --> hukum
+budak, kawin, hukum, suam --> wanita
+wanita, kawin, hukum, suam --> budak
+allah, zina, wanita, budak --> suam
+allah, zina, wanita, suam --> budak
+allah, zina, budak, suam --> wanita
+allah, wanita, budak, suam --> zina
+zina, wanita, budak, suam --> allah
+awin, budak, suam, zina --> milik
+awin, budak, suam, milik --> zina
+awin, budak, zina, milik --> suam
+awin, suam, zina, milik --> budak
+zina, wanita, budak, kawin --> milik
+zina, wanita, budak, milik --> kawin
+zina, wanita, kawin, milik --> budak
+zina, budak, kawin, milik --> wanita
+wanita, budak, kawin, milik --> zina
+zina, wanita, kawin, hukum --> kafir
+zina, wanita, kawin, kafir --> hukum
+zina, wanita, hukum, kafir --> kawin
+wanita, kawin, hukum, kafir --> zina
+allah, budak, laki, keji --> milik
+allah, budak, laki, milik --> keji
+allah, budak, keji, milik --> laki
+budak, laki, keji, milik --> allah
+zina, wanita, hukum, awin --> milik
+allah, wanita, milik, suam --> hukum
+allah, wanita, hukum, suam --> milik
+allah, milik, hukum, suam --> wanita
+wanita, milik, hukum, suam --> allah
+zina, budak, hukum, milik --> awin
+zina, budak, hukum, awin --> milik
+zina, budak, milik, awin --> hukum
+zina, wanita, awin, milik --> suam
+zina, wanita, awin, suam --> milik
+zina, wanita, milik, suam --> awin
+zina, awin, milik, suam --> wanita
+allah, wanita, budak, sebahagian --> milik
+allah, wanita, budak, milik --> sebahagian
+allah, wanita, sebahagian, milik --> budak
+allah, budak, sebahagian, milik --> wanita
+wanita, budak, sebahagian, milik --> allah
+allah, awin, budak, zina --> suam
+allah, awin, budak, suam --> zina
+allah, awin, zina, suam --> budak
+awin, budak, zina, suam --> allah
+allah, wanita, budak, kawin --> milik
+allah, wanita, budak, milik --> kawin
+allah, wanita, kawin, milik --> budak
+allah, budak, kawin, milik --> wanita
+wanita, budak, kawin, milik --> allah
+jaga, budak, sayang, sebahagian --> paksa
+allah, awin, suam, milik --> budak
+allah, awin, budak, milik --> suam
+allah, suam, budak, milik --> awin
+jaga, wanita, sayang, paksa --> milik
+jaga, wanita, sayang, milik --> paksa
+jaga, wanita, paksa, milik --> sayang
+jaga, sayang, paksa, milik --> wanita
+wanita, sayang, paksa, milik --> jaga
+allah, zina, awin, suam --> kawin
+allah, zina, kawin, suam --> awin
+allah, awin, kawin, suam --> zina
+zina, awin, kawin, suam --> allah
+awin, wanita, budak, kawin --> suam
+awin, wanita, budak, suam --> kawin
+awin, wanita, kawin, suam --> budak
+awin, budak, kawin, suam --> wanita
+wanita, budak, kawin, suam --> awin
+suam, wanita, budak, milik --> hukum
+suam, budak, hukum, milik --> wanita
+wanita, budak, hukum, milik --> suam
+jaga, budak, sebahagian, milik --> paksa
+jaga, budak, paksa, milik --> sebahagian
+jaga, sebahagian, paksa, milik --> budak
+budak, sebahagian, paksa, milik --> jaga
+allah, zina, suam, awin --> hukum
+allah, zina, hukum, awin --> suam
+suam, wanita, budak, milik --> kawin
+suam, wanita, kawin, milik --> budak
+suam, budak, kawin, milik --> wanita
+wanita, budak, kawin, milik --> suam
+allah, awin, budak, kawin --> zina
+allah, awin, budak, zina --> kawin
+allah, awin, kawin, zina --> budak
+awin, budak, kawin, zina --> allah
+allah, zina, wanita, kawin --> awin
+allah, zina, wanita, awin --> kawin
+allah, zina, kawin, awin --> wanita
+zina, wanita, kawin, awin --> allah
+suam, zina, kawin, milik --> awin
+suam, zina, kawin, awin --> milik
+zina, kawin, milik, awin --> suam
+zina, kafir, kawin, hukum --> awin
+zina, kafir, kawin, awin --> hukum
+zina, kafir, hukum, awin --> kawin
+zina, kawin, hukum, awin --> kafir
+allah, budak, sebahagian, milik --> wanita
+allah, wanita, sebahagian, milik --> budak
+budak, wanita, sebahagian, milik --> allah
+suam, zina, budak, milik --> hukum
+suam, budak, hukum, milik --> zina
+zina, budak, hukum, milik --> suam
+awin, kawin, budak, hukum --> zina
+awin, kawin, hukum, zina --> budak
+awin, budak, hukum, zina --> kawin
+wanita, sayang, sebahagian, milik --> budak
+wanita, sayang, sebahagian, budak --> milik
+wanita, sayang, milik, budak --> sebahagian
+wanita, sebahagian, milik, budak --> sayang
+jaga, allah, sebahagian, paksa --> milik
+jaga, allah, sebahagian, milik --> paksa
+jaga, allah, paksa, milik --> sebahagian
+jaga, sebahagian, paksa, milik --> allah
+allah, sebahagian, paksa, milik --> jaga
+suam, zina, kawin, milik --> wanita
+suam, wanita, kawin, milik --> zina
+zina, wanita, kawin, milik --> suam
+zina, wanita, milik, suam --> budak
+zina, wanita, budak, suam --> milik
+zina, wanita, hukum, awin --> suam
+zina, kafir, hukum, wanita --> awin
+zina, kafir, hukum, awin --> wanita
+zina, kafir, wanita, awin --> hukum
+awin, wanita, milik, zina --> kawin
+awin, wanita, kawin, zina --> milik
+awin, milik, kawin, zina --> wanita
+sayang, wanita, budak, sebahagian --> paksa
+sayang, budak, paksa, sebahagian --> wanita
+wanita, budak, paksa, sebahagian --> sayang
+awin, suam, kawin, zina --> milik
+awin, suam, zina, milik --> kawin
+awin, kawin, zina, milik --> suam
+allah, wanita, budak, dada --> milik
+allah, wanita, budak, milik --> dada
+allah, wanita, dada, milik --> budak
+allah, budak, dada, milik --> wanita
+wanita, budak, dada, milik --> allah
+zina, wanita, kawin, hukum --> budak
+zina, wanita, kawin, budak --> hukum
+zina, kawin, hukum, budak --> wanita
+wanita, kawin, hukum, budak --> zina
+awin, wanita, kawin, kafir --> zina
+awin, wanita, kawin, zina --> kafir
+jaga, wanita, budak, paksa --> milik
+jaga, wanita, budak, milik --> paksa
+jaga, wanita, paksa, milik --> budak
+jaga, budak, paksa, milik --> wanita
+wanita, budak, paksa, milik --> jaga
+allah, laki, pandang, perempuan --> malu
+laki, pandang, malu, perempuan --> allah
+allah, zina, wanita, kawin --> budak
+allah, zina, wanita, budak --> kawin
+allah, zina, kawin, budak --> wanita
+allah, wanita, kawin, budak --> zina
+zina, wanita, kawin, budak --> allah
+allah, awin, milik, zina --> hukum
+allah, awin, hukum, zina --> milik
+awin, milik, hukum, zina --> allah
+awin, wanita, kawin, milik --> suam
+awin, wanita, kawin, suam --> milik
+awin, wanita, milik, suam --> kawin
+awin, kawin, milik, suam --> wanita
+wanita, kawin, milik, suam --> awin
+awin, wanita, budak, kawin --> milik
+awin, wanita, budak, milik --> kawin
+awin, wanita, kawin, milik --> budak
+awin, budak, kawin, milik --> wanita
+wanita, budak, kawin, milik --> awin
+jaga, allah, sayang, sebahagian --> milik
+jaga, allah, sayang, milik --> sebahagian
+jaga, allah, sebahagian, milik --> sayang
+jaga, sayang, sebahagian, milik --> allah
+allah, sayang, sebahagian, milik --> jaga
+zina, wanita, budak, awin --> milik
+zina, wanita, budak, milik --> awin
+zina, wanita, awin, milik --> budak
+awin, wanita, suam, milik --> kawin
+awin, wanita, kawin, milik --> suam
+wanita, suam, kawin, milik --> awin
+jaga, wanita, budak, paksa --> sayang
+jaga, wanita, budak, sayang --> paksa
+jaga, budak, paksa, sayang --> wanita
+jiwa, allah, bunuh, alas --> haram
+jiwa, allah, haram, alas --> bunuh
+jiwa, bunuh, haram, alas --> allah
+allah, bunuh, haram, alas --> jiwa
+mukmin, bunuh, kafir, merdeka --> sengaja
+mukmin, bunuh, kafir, sengaja --> merdeka
+mukmin, kafir, merdeka, sengaja --> bunuh
+bunuh, kafir, merdeka, sengaja --> mukmin
+allah, wanita, budak, dada --> keji
+allah, wanita, budak, keji --> dada
+allah, wanita, dada, keji --> budak
+allah, budak, dada, keji --> wanita
+wanita, budak, dada, keji --> allah
+bunuh, hamba, barangsiapa, bayar --> diat
+bunuh, hamba, diat, bayar --> barangsiapa
+suam, zina, kawin, milik --> hukum
+zina, kawin, hukum, milik --> suam
+zina, wanita, milik, suam --> awin
+zina, wanita, awin, suam --> milik
+jaga, budak, sebahagian, milik --> wanita
+jaga, wanita, sebahagian, milik --> budak
+budak, wanita, sebahagian, milik --> jaga
+allah, awin, wanita, budak --> milik
+allah, awin, wanita, milik --> budak
+allah, awin, budak, milik --> wanita
+allah, wanita, budak, milik --> awin
+awin, wanita, budak, milik --> allah
+allah, jaga, wanita, sebahagian --> milik
+allah, jaga, wanita, milik --> sebahagian
+allah, jaga, sebahagian, milik --> wanita
+allah, wanita, sebahagian, milik --> jaga
+jaga, wanita, sebahagian, milik --> allah
+wanita, budak, hukum, milik --> suam
+wanita, budak, hukum, suam --> milik
+wanita, budak, milik, suam --> hukum
+budak, hukum, milik, suam --> wanita
+allah, zina, budak, suam --> milik
+allah, zina, budak, milik --> suam
+allah, zina, suam, milik --> budak
+allah, budak, suam, milik --> zina
+zina, budak, suam, milik --> allah
+halal, zina, wanita, hukum --> awin
+halal, zina, wanita, awin --> hukum
+halal, zina, hukum, awin --> wanita
+zina, wanita, hukum, awin --> halal
+awin, wanita, kawin, zina --> budak
+awin, wanita, kawin, budak --> zina
+awin, kawin, zina, budak --> wanita
+allah, wanita, sebahagian, sayang --> budak
+allah, wanita, sebahagian, budak --> sayang
+allah, wanita, sayang, budak --> sebahagian
+bunuh, diat, merdeka, bayar --> hamba
+bunuh, diat, merdeka, hamba --> bayar
+bunuh, diat, bayar, hamba --> merdeka
+bunuh, merdeka, bayar, hamba --> diat
+budak, wanita, sebahagian, paksa, milik --> allah
+allah, wanita, sebahagian, paksa, milik --> budak
+allah, wanita, suam, kawin, milik --> budak
+allah, zina, awin, kawin, milik --> budak
+budak, wanita, sayang, paksa, milik --> sebahagian
+budak, wanita, sayang, sebahagian, milik --> paksa
+budak, sayang, paksa, sebahagian, milik --> wanita
+wanita, sayang, paksa, sebahagian, milik --> budak
+bayar, diat, barangsiapa, merdeka, hamba --> bunuh
+budak, wanita, sebahagian, paksa, milik --> jaga
+suam, zina, awin, kawin, milik --> budak
+suam, zina, awin, kawin, milik --> hukum
+suam, zina, awin, kawin, milik --> allah
+allah, zina, awin, kawin, milik --> suam
+sayang, wanita, sebahagian, paksa, milik --> allah
+allah, wanita, sebahagian, paksa, milik --> sayang
+suam, zina, awin, kawin, milik --> wanita
+allah, wanita, suam, kawin, milik --> hukum
+allah, zina, awin, kawin, milik --> hukum
+sayang, wanita, sebahagian, paksa, milik --> jaga
+budak, sayang, paksa, sebahagian, milik --> allah
+allah, sayang, paksa, sebahagian, milik --> budak
+budak, wanita, sayang, sebahagian, milik --> jaga
+budak, wanita, sayang, paksa, milik --> allah
+allah, wanita, sayang, paksa, milik --> budak
+budak, wanita, sayang, sebahagian, milik --> allah
+allah, wanita, sayang, sebahagian, milik --> budak
+allah, wanita, sayang, paksa, sebahagian --> budak
+budak, sayang, paksa, sebahagian, milik --> jaga
+suam, zina, awin, kawin, milik --> hukum
+budak, wanita, sayang, paksa, milik --> jaga
+wanita, budak, suam, zina, awin, kawin, hukum --> milik
+wanita, budak, suam, zina, awin, kawin, milik --> hukum
+wanita, budak, suam, zina, kawin, hukum, milik --> awin
+wanita, budak, suam, awin, kawin, hukum, milik --> zina
+wanita, budak, zina, awin, kawin, hukum, milik --> suam
+wanita, suam, zina, awin, kawin, hukum, milik --> budak
+budak, suam, zina, awin, kawin, hukum, milik --> wanita
+allah, wanita, kawin, zina, suam, awin, budak --> hukum
+allah, wanita, kawin, zina, awin, budak, hukum --> suam
+allah, wanita, kawin, suam, awin, budak, hukum --> zina
+allah, wanita, zina, suam, awin, budak, hukum --> kawin
+allah, kawin, zina, suam, awin, budak, hukum --> wanita
+wanita, kawin, zina, suam, awin, budak, hukum --> allah
+allah, wanita, suam, zina, awin, budak, hukum --> milik
+allah, wanita, suam, zina, awin, budak, milik --> hukum
+allah, wanita, suam, zina, awin, hukum, milik --> budak
+allah, wanita, suam, zina, budak, hukum, milik --> awin
+allah, wanita, suam, awin, budak, hukum, milik --> zina
+allah, wanita, zina, awin, budak, hukum, milik --> suam
+allah, suam, zina, awin, budak, hukum, milik --> wanita
+wanita, suam, zina, awin, budak, hukum, milik --> allah
+allah, wanita, budak, awin, zina, kawin, hukum --> milik
+allah, wanita, budak, awin, zina, kawin, milik --> hukum
+allah, wanita, budak, awin, kawin, hukum, milik --> zina
+allah, wanita, budak, zina, kawin, hukum, milik --> awin
+allah, wanita, awin, zina, kawin, hukum, milik --> budak
+allah, budak, awin, zina, kawin, hukum, milik --> wanita
+wanita, budak, awin, zina, kawin, hukum, milik --> allah
+allah, wanita, budak, suam, awin, kawin, hukum --> milik
+allah, wanita, budak, suam, awin, kawin, milik --> hukum
+allah, wanita, budak, suam, kawin, hukum, milik --> awin
+allah, wanita, budak, awin, kawin, hukum, milik --> suam
+allah, wanita, suam, awin, kawin, hukum, milik --> budak
+allah, budak, suam, awin, kawin, hukum, milik --> wanita
+wanita, budak, suam, awin, kawin, hukum, milik --> allah
+allah, wanita, budak, zina, suam, awin, kawin --> milik
+allah, wanita, budak, zina, awin, kawin, milik --> suam
+allah, wanita, budak, suam, awin, kawin, milik --> zina
+allah, wanita, zina, suam, awin, kawin, milik --> budak
+allah, budak, zina, suam, awin, kawin, milik --> wanita
+wanita, budak, zina, suam, awin, kawin, milik --> allah
+allah, wanita, kawin, suam, awin, budak, hukum --> milik
+allah, wanita, kawin, suam, awin, budak, milik --> hukum
+allah, wanita, kawin, suam, budak, hukum, milik --> awin
+allah, wanita, kawin, awin, budak, hukum, milik --> suam
+allah, wanita, suam, awin, budak, hukum, milik --> kawin
+allah, kawin, suam, awin, budak, hukum, milik --> wanita
+wanita, kawin, suam, awin, budak, hukum, milik --> allah
+allah, wanita, kawin, zina, awin, budak, hukum --> milik
+allah, wanita, kawin, zina, awin, budak, milik --> hukum
+allah, wanita, kawin, zina, budak, hukum, milik --> awin
+allah, wanita, kawin, awin, budak, hukum, milik --> zina
+allah, wanita, zina, awin, budak, hukum, milik --> kawin
+allah, kawin, zina, awin, budak, hukum, milik --> wanita
+wanita, kawin, zina, awin, budak, hukum, milik --> allah
+allah, wanita, sayang, jaga, budak, paksa, sebahagian --> milik
+allah, wanita, sayang, jaga, budak, paksa, milik --> sebahagian
+allah, wanita, sayang, jaga, budak, sebahagian, milik --> paksa
+allah, wanita, sayang, jaga, paksa, sebahagian, milik --> budak
+allah, wanita, sayang, budak, paksa, sebahagian, milik --> jaga
+allah, sayang, jaga, budak, paksa, sebahagian, milik --> wanita
+wanita, sayang, jaga, budak, paksa, sebahagian, milik --> allah
+wanita, kawin, awin, suam, zina, budak, hukum --> milik
+wanita, kawin, awin, suam, zina, budak, milik --> hukum
+wanita, kawin, awin, zina, budak, hukum, milik --> suam
+wanita, kawin, suam, zina, budak, hukum, milik --> awin
+wanita, awin, suam, zina, budak, hukum, milik --> kawin
+kawin, awin, suam, zina, budak, hukum, milik --> wanita
+allah, wanita, budak, suam, zina, awin, kawin --> hukum
+allah, wanita, budak, suam, zina, kawin, hukum --> awin
+allah, wanita, budak, suam, awin, kawin, hukum --> zina
+allah, wanita, budak, zina, awin, kawin, hukum --> suam
+allah, wanita, suam, zina, awin, kawin, hukum --> budak
+allah, budak, suam, zina, awin, kawin, hukum --> wanita
+wanita, budak, suam, zina, awin, kawin, hukum --> allah
+allah, wanita, budak, zina, awin, kawin, hukum --> milik
+allah, wanita, budak, zina, awin, kawin, milik --> hukum
+allah, wanita, budak, zina, kawin, hukum, milik --> awin
+allah, wanita, budak, awin, kawin, hukum, milik --> zina
+allah, wanita, zina, awin, kawin, hukum, milik --> budak
+allah, budak, zina, awin, kawin, hukum, milik --> wanita
+wanita, budak, zina, awin, kawin, hukum, milik --> allah
+allah, kawin, zina, suam, awin, budak, hukum --> milik
+allah, kawin, zina, suam, awin, budak, milik --> hukum
+allah, kawin, zina, awin, budak, hukum, milik --> suam
+allah, kawin, suam, awin, budak, hukum, milik --> zina
+allah, zina, suam, awin, budak, hukum, milik --> kawin
+kawin, zina, suam, awin, budak, hukum, milik --> allah
+allah, wanita, kawin, awin, suam, zina, budak --> milik
+allah, wanita, kawin, awin, zina, budak, milik --> suam
+allah, wanita, kawin, suam, zina, budak, milik --> awin
+allah, wanita, awin, suam, zina, budak, milik --> kawin
+allah, kawin, awin, suam, zina, budak, milik --> wanita
+wanita, kawin, awin, suam, zina, budak, milik --> allah
+allah, wanita, budak, suam, zina, kawin, hukum --> milik
+allah, wanita, budak, suam, zina, kawin, milik --> hukum
+allah, wanita, budak, suam, kawin, hukum, milik --> zina
+allah, wanita, budak, zina, kawin, hukum, milik --> suam
+allah, wanita, suam, zina, kawin, hukum, milik --> budak
+allah, budak, suam, zina, kawin, hukum, milik --> wanita
+wanita, budak, suam, zina, kawin, hukum, milik --> allah
+allah, wanita, awin, suam, zina, budak, hukum --> milik
+allah, wanita, awin, suam, zina, budak, milik --> hukum
+allah, wanita, awin, zina, budak, hukum, milik --> suam
+allah, wanita, suam, zina, budak, hukum, milik --> awin
+allah, awin, suam, zina, budak, hukum, milik --> wanita
+wanita, awin, suam, zina, budak, hukum, milik --> allah
+allah, wanita, suam, zina, awin, kawin, hukum --> milik
+allah, wanita, suam, zina, awin, kawin, milik --> hukum
+allah, wanita, suam, zina, awin, hukum, milik --> kawin
+allah, wanita, suam, zina, kawin, hukum, milik --> awin
+allah, wanita, suam, awin, kawin, hukum, milik --> zina
+allah, wanita, zina, awin, kawin, hukum, milik --> suam
+allah, suam, zina, awin, kawin, hukum, milik --> wanita
+wanita, suam, zina, awin, kawin, hukum, milik --> allah
+allah, kawin, suam, zina, awin, budak, hukum --> milik
+allah, kawin, suam, zina, awin, budak, milik --> hukum
+allah, kawin, suam, zina, budak, hukum, milik --> awin
+allah, kawin, suam, awin, budak, hukum, milik --> zina
+allah, kawin, zina, awin, budak, hukum, milik --> suam
+allah, suam, zina, awin, budak, hukum, milik --> kawin
+kawin, suam, zina, awin, budak, hukum, milik --> allah
+allah, wanita, kawin, suam, zina, awin, budak --> hukum
+allah, wanita, kawin, suam, zina, budak, hukum --> awin
+allah, wanita, kawin, suam, awin, budak, hukum --> zina
+allah, wanita, kawin, zina, awin, budak, hukum --> suam
+allah, wanita, suam, zina, awin, budak, hukum --> kawin
+allah, kawin, suam, zina, awin, budak, hukum --> wanita
+wanita, kawin, suam, zina, awin, budak, hukum --> allah
+allah, wanita, kawin, awin, suam, zina, budak --> hukum
+allah, wanita, kawin, awin, zina, budak, hukum --> suam
+allah, wanita, kawin, suam, zina, budak, hukum --> awin
+allah, wanita, awin, suam, zina, budak, hukum --> kawin
+allah, kawin, awin, suam, zina, budak, hukum --> wanita
+wanita, kawin, awin, suam, zina, budak, hukum --> allah
+allah, wanita, budak, zina, suam, awin, kawin --> hukum
+allah, wanita, budak, zina, awin, kawin, hukum --> suam
+allah, wanita, budak, suam, awin, kawin, hukum --> zina
+allah, wanita, zina, suam, awin, kawin, hukum --> budak
+allah, budak, zina, suam, awin, kawin, hukum --> wanita
+wanita, budak, zina, suam, awin, kawin, hukum --> allah
+allah, wanita, kawin, suam, zina, awin, budak --> milik
+allah, wanita, kawin, suam, zina, budak, milik --> awin
+allah, wanita, kawin, suam, awin, budak, milik --> zina
+allah, wanita, kawin, zina, awin, budak, milik --> suam
+allah, wanita, suam, zina, awin, budak, milik --> kawin
+allah, kawin, suam, zina, awin, budak, milik --> wanita
+wanita, kawin, suam, zina, awin, budak, milik --> allah
+allah, wanita, zina, suam, awin, budak, hukum --> milik
+allah, wanita, zina, suam, awin, budak, milik --> hukum
+allah, wanita, zina, suam, awin, hukum, milik --> budak
+allah, wanita, zina, awin, budak, hukum, milik --> suam
+allah, wanita, suam, awin, budak, hukum, milik --> zina
+allah, zina, suam, awin, budak, hukum, milik --> wanita
+wanita, zina, suam, awin, budak, hukum, milik --> allah
+allah, wanita, kawin, awin, zina, budak, hukum --> milik
+allah, wanita, kawin, awin, zina, budak, milik --> hukum
+allah, wanita, kawin, awin, budak, hukum, milik --> zina
+allah, wanita, kawin, zina, budak, hukum, milik --> awin
+allah, wanita, awin, zina, budak, hukum, milik --> kawin
+allah, kawin, awin, zina, budak, hukum, milik --> wanita
+wanita, kawin, awin, zina, budak, hukum, milik --> allah
+allah, wanita, kawin, suam, zina, budak, hukum --> milik
+allah, wanita, kawin, suam, zina, budak, milik --> hukum
+allah, wanita, kawin, suam, budak, hukum, milik --> zina
+allah, wanita, kawin, zina, budak, hukum, milik --> suam
+allah, wanita, suam, zina, budak, hukum, milik --> kawin
+allah, kawin, suam, zina, budak, hukum, milik --> wanita
+wanita, kawin, suam, zina, budak, hukum, milik --> allah
+allah, budak, zina, suam, awin, kawin, hukum --> milik
+allah, budak, zina, suam, awin, kawin, milik --> hukum
+allah, budak, zina, awin, kawin, hukum, milik --> suam
+allah, budak, suam, awin, kawin, hukum, milik --> zina
+allah, zina, suam, awin, kawin, hukum, milik --> budak
+budak, zina, suam, awin, kawin, hukum, milik --> allah
+wanita, kawin, suam, zina, awin, budak, hukum --> milik
+wanita, kawin, suam, zina, awin, budak, milik --> hukum
+wanita, kawin, suam, zina, budak, hukum, milik --> awin
+wanita, kawin, suam, awin, budak, hukum, milik --> zina
+wanita, kawin, zina, awin, budak, hukum, milik --> suam
+wanita, suam, zina, awin, budak, hukum, milik --> kawin
+kawin, suam, zina, awin, budak, hukum, milik --> wanita
+allah, wanita, awin, suam, zina, kawin, hukum --> milik
+allah, wanita, awin, suam, zina, kawin, milik --> hukum
+allah, wanita, awin, zina, kawin, hukum, milik --> suam
+allah, wanita, suam, zina, kawin, hukum, milik --> awin
+allah, awin, suam, zina, kawin, hukum, milik --> wanita
+wanita, awin, suam, zina, kawin, hukum, milik --> allah
+allah, budak, suam, zina, awin, kawin, hukum --> milik
+allah, budak, suam, zina, awin, kawin, milik --> hukum
+allah, budak, suam, zina, kawin, hukum, milik --> awin
+allah, budak, suam, awin, kawin, hukum, milik --> zina
+allah, budak, zina, awin, kawin, hukum, milik --> suam
+allah, suam, zina, awin, kawin, hukum, milik --> budak
+budak, suam, zina, awin, kawin, hukum, milik --> allah
+wanita, budak, zina, suam, awin, kawin, hukum --> milik
+wanita, budak, zina, suam, awin, kawin, milik --> hukum
+wanita, budak, zina, awin, kawin, hukum, milik --> suam
+wanita, budak, suam, awin, kawin, hukum, milik --> zina
+wanita, zina, suam, awin, kawin, hukum, milik --> budak
+budak, zina, suam, awin, kawin, hukum, milik --> wanita
+allah, wanita, budak, suam, zina, awin, kawin --> milik
+allah, wanita, budak, suam, zina, kawin, milik --> awin
+allah, wanita, budak, suam, awin, kawin, milik --> zina
+allah, wanita, budak, zina, awin, kawin, milik --> suam
+allah, wanita, suam, zina, awin, kawin, milik --> budak
+allah, budak, suam, zina, awin, kawin, milik --> wanita
+wanita, budak, suam, zina, awin, kawin, milik --> allah
+allah, wanita, kawin, zina, suam, awin, budak --> milik
+allah, wanita, kawin, zina, awin, budak, milik --> suam
+allah, wanita, kawin, suam, awin, budak, milik --> zina
+allah, wanita, zina, suam, awin, budak, milik --> kawin
+allah, kawin, zina, suam, awin, budak, milik --> wanita
+wanita, kawin, zina, suam, awin, budak, milik --> allah
+allah, kawin, awin, suam, zina, budak, hukum --> milik
+allah, kawin, awin, suam, zina, budak, milik --> hukum
+allah, kawin, awin, zina, budak, hukum, milik --> suam
+allah, kawin, suam, zina, budak, hukum, milik --> awin
+allah, awin, suam, zina, budak, hukum, milik --> kawin
+kawin, awin, suam, zina, budak, hukum, milik --> allah
+allah, wanita, zina, suam, awin, kawin, hukum --> milik
+allah, wanita, zina, suam, awin, kawin, milik --> hukum
+allah, wanita, zina, suam, awin, hukum, milik --> kawin
+allah, wanita, zina, awin, kawin, hukum, milik --> suam
+allah, wanita, suam, awin, kawin, hukum, milik --> zina
+allah, zina, suam, awin, kawin, hukum, milik --> wanita
+wanita, zina, suam, awin, kawin, hukum, milik --> allah
+allah, wanita, sebahagian, sayang, jaga, budak, paksa --> milik
+allah, wanita, sebahagian, sayang, jaga, budak, milik --> paksa
+allah, wanita, sebahagian, sayang, jaga, paksa, milik --> budak
+allah, wanita, sebahagian, sayang, budak, paksa, milik --> jaga
+allah, wanita, sebahagian, jaga, budak, paksa, milik --> sayang
+allah, wanita, sayang, jaga, budak, paksa, milik --> sebahagian
+allah, sebahagian, sayang, jaga, budak, paksa, milik --> wanita
+wanita, sebahagian, sayang, jaga, budak, paksa, milik --> allah
+wanita, kawin, zina, suam, awin, budak, hukum --> milik
+wanita, kawin, zina, suam, awin, budak, milik --> hukum
+wanita, kawin, zina, awin, budak, hukum, milik --> suam
+wanita, kawin, suam, awin, budak, hukum, milik --> zina
+wanita, zina, suam, awin, budak, hukum, milik --> kawin
+kawin, zina, suam, awin, budak, hukum, milik --> wanita

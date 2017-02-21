@@ -1,0 +1,149 @@
+menep --> nilai
+nilai --> menep
+ilmu --> mahar
+mahar --> ilmu
+rumah --> meni
+meni --> rumah
+bahagia --> malam
+malam --> bahagia
+sedia --> juang
+juang --> sedia
+tawar --> wanita
+wanita --> tawar
+pilih --> damping
+damping --> pilih
+ekonomi --> jinabah
+jinabah --> ekonomi
+rumah --> hubung
+hubung --> rumah
+intim --> rumah
+rumah --> intim
+intim --> hubung
+hubung --> intim
+istri --> shalat
+shalat --> istri
+urus --> damping
+damping --> urus
+bumi --> suci
+suci --> bumi
+mubazir --> undang
+undang --> mubazir
+intim --> tinggal
+tinggal --> intim
+amal --> shalih
+shalih --> amal
+halal --> ancam
+ancam --> halal
+laki --> wanita
+wanita --> laki
+pasca --> tangga
+tangga --> pasca
+jenjang --> malam
+malam --> jenjang
+az --> zahra
+zahra --> az
+pilih --> meni
+meni --> pilih
+istri --> parfum
+parfum --> istri
+keluarga --> hancur
+hancur --> keluarga
+cinta --> agung
+agung --> cinta
+suami --> istri
+istri --> suami
+selisih --> agama
+agama --> selisih
+jima --> posisi
+posisi --> jima
+pulang --> hants
+hants --> pulang
+akad --> damping
+damping --> akad
+psikis --> sifat
+sifat --> psikis
+laki --> beda
+beda --> laki
+tinggal --> hubung
+hubung --> tinggal
+cerai --> rumah
+rumah --> cerai
+psikis --> wanita
+wanita --> psikis
+zahra --> fathimatuz
+fathimatuz --> zahra
+malu --> hamil
+hamil --> malu
+kursif --> didik
+didik --> kursif
+rukun --> agama
+agama --> rukun
+pergi --> dadak
+dadak --> pergi
+muka --> cenderung
+cenderung --> muka
+menep --> sosial
+sosial --> menep
+nilai --> sosial
+sosial --> nilai
+sulit, tumbuh --> proses
+selisih, rukun --> agama
+persepsi, allah --> calon
+persepsi, calon --> allah
+allah, calon --> persepsi
+zafaf, wanita --> laki
+zafaf, laki --> wanita
+perkara, wadag --> prinsip
+prinsip, wadag --> perkara
+zafaf, laki --> wanita
+hati, cantik --> wall
+hati, wall --> cantik
+cantik, wall --> hati
+janabah, jinabah --> ekonomi
+janabah, ekonomi --> jinabah
+ancam, malu --> halal
+halal, malu --> ancam
+peremption, rumah --> tinggal
+peremption, tinggal --> rumah
+rumah, tinggal --> peremption
+proses, tumbuh --> sulit
+proses, sulit --> tumbuh
+cantik, wall --> hati
+hati, wall --> cantik
+istri, pinang --> syarat
+istri, syarat --> pinang
+proses, sulit --> tumbuh
+istri, meni, rumah --> orangtua
+istri, meni, orangtua --> rumah
+istri, rumah, orangtua --> meni
+pinang, rumah, wanita --> kontrak
+pinang, rumah, kontrak --> wanita
+kontrak, rumah, wanita --> pinang
+kontrak, rumah, pinang --> wanita
+istri, suami, didik, kursif --> bicara
+istri, suami, didik, bicara --> kursif
+istri, suami, kursif, bicara --> didik
+istri, didik, kursif, bicara --> suami
+suami, didik, kursif, bicara --> istri
+milik, hamil, butuh, malu --> haid
+hamil, butuh, haid, malu --> milik
+istri, sifat, cenderung, muka --> suami
+istri, sifat, cenderung, suami --> muka
+istri, sifat, muka, suami --> cenderung
+sifat, cenderung, muka, suami --> istri
+meni, damping, pilih, akad --> urus
+meni, damping, pilih, urus --> akad
+meni, damping, akad, urus --> pilih
+meni, pilih, akad, urus --> damping
+damping, pilih, akad, urus --> meni
+milik, haid, butuh, malu --> hamil
+haid, butuh, hamil, malu --> milik
+istri, suami, cenderung, muka --> sifat
+istri, suami, cenderung, sifat --> muka
+istri, suami, muka, sifat --> cenderung
+suami, cenderung, muka, sifat --> istri
+istri, hubung, rumah, tinggal --> intim
+istri, hubung, rumah, intim --> tinggal
+istri, hubung, tinggal, intim --> rumah
+istri, rumah, tinggal, intim --> hubung
+hubung, rumah, tinggal, intim --> istri

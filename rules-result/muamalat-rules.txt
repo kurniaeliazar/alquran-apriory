@@ -1,0 +1,196 @@
+janji --> allah
+ganti --> allah
+miskin --> allah
+hamba --> rezki
+sembunyi --> nafkah
+siang --> malam
+malam --> siang
+sedekah --> terima
+rezki --> nafkah
+suruh --> allah
+barangsiapa --> allah
+mati --> allah
+timpa --> allah
+barang --> allah
+rezki --> terang
+aniaya --> allah
+sembunyi --> terang
+niscaya --> allah
+beli --> jual
+jual --> beli
+kaya --> allah
+tuhan --> terang
+kafir --> allah
+sayang --> allah
+sempurna --> allah
+balas --> allah
+dosa --> allah
+kerabat --> sembunyi
+shalat --> nafkah
+keridhaan --> allah
+kerabat --> yatim
+shalat --> rezki
+takwa --> allah
+kelak --> allah
+manusia --> allah
+beli --> jalan
+miskin --> yatim
+kerabat --> wasiat
+kerabat --> pahala
+keridhaan --> nafkah
+harta, yatim --> miskin
+harta, miskin --> yatim
+dosa, saksi --> allah
+allah, saksi --> dosa
+allah, sakit --> terima
+terima, sakit --> allah
+allah, sedekah --> suka
+allah, suka --> sedekah
+sedekah, suka --> allah
+allah, nafkah --> rezki
+allah, rezki --> nafkah
+harta, jiwa --> allah
+allah, jiwa --> harta
+harta, kuasa --> allah
+nafkah, sebahagian --> rezki
+rezki, sebahagian --> nafkah
+allah, beli --> jalan
+harta, belanja --> allah
+allah, belanja --> harta
+harta, hasil --> allah
+allah, hasil --> harta
+harta, belanja --> allah
+allah, waris --> tinggal
+allah, tinggal --> waris
+dosa, hutang --> allah
+allah, hutang --> dosa
+harta, sedekah --> allah
+allah, sedekah --> harta
+allah, saksi --> batas
+allah, batas --> saksi
+saksi, batas --> allah
+allah, sedekah --> pahala
+allah, pahala --> sedekah
+sedekah, pahala --> allah
+harta, bayar --> allah
+nafkah, hamba --> rezki
+harta, kuasa --> allah
+allah, kuasa --> harta
+harta, allah, jihad --> jalan
+allah, jalan, jihad --> harta
+jalan, nafkah, rugi --> allah
+jalan, rugi, allah --> nafkah
+terang, shalat, nafkah --> rezki
+terang, shalat, rezki --> nafkah
+terang, nafkah, rezki --> shalat
+shalat, nafkah, rezki --> terang
+shalat, terang, nafkah --> rezki
+shalat, terang, rezki --> nafkah
+shalat, nafkah, rezki --> terang
+terang, nafkah, rezki --> shalat
+harta, allah, nafkah --> usaha
+harta, allah, usaha --> nafkah
+harta, nafkah, usaha --> allah
+allah, nafkah, usaha --> harta
+harta, allah, wasiat --> tinggal
+harta, allah, tinggal --> wasiat
+harta, wasiat, tinggal --> allah
+allah, wasiat, tinggal --> harta
+terang, nafkah, sembunyi --> rezki
+terang, nafkah, rezki --> sembunyi
+terang, sembunyi, rezki --> nafkah
+nafkah, sembunyi, rezki --> terang
+allah, perempuan, bayar --> hutang
+allah, perempuan, hutang --> bayar
+perempuan, bayar, hutang --> allah
+allah, nafkah, jalan --> rugi
+allah, nafkah, rugi --> jalan
+allah, jalan, rugi --> nafkah
+allah, kerabat, wasiat --> jalan
+allah, kerabat, jalan --> wasiat
+allah, wasiat, jalan --> kerabat
+kerabat, wasiat, jalan --> allah
+allah, kerabat, jalan --> sembunyi
+allah, kerabat, sembunyi --> jalan
+allah, jalan, sembunyi --> kerabat
+kerabat, jalan, sembunyi --> allah
+kafir, allah, harta --> sedekah
+kafir, allah, sedekah --> harta
+harta, allah, rezki --> jalan
+harta, jalan, rezki --> allah
+allah, jalan, rezki --> harta
+allah, kerabat, jalan, pahala --> nafkah
+allah, kerabat, jalan, nafkah --> pahala
+allah, kerabat, pahala, nafkah --> jalan
+kerabat, jalan, pahala, nafkah --> allah
+allah, nafkah, kerabat, pahala --> jalan
+allah, nafkah, jalan, pahala --> kerabat
+allah, kerabat, jalan, pahala --> nafkah
+allah, nafkah, jalan, kerabat --> pahala
+allah, nafkah, jalan, pahala --> kerabat
+allah, nafkah, kerabat, pahala --> jalan
+nafkah, jalan, kerabat, pahala --> allah
+harta, allah, kerabat, nafkah --> pahala
+harta, allah, kerabat, pahala --> nafkah
+harta, allah, nafkah, pahala --> kerabat
+harta, kerabat, nafkah, pahala --> allah
+allah, kerabat, nafkah, pahala --> harta
+harta, allah, nafkah, jalan --> kerabat
+harta, allah, nafkah, kerabat --> jalan
+harta, nafkah, jalan, kerabat --> allah
+allah, nafkah, jalan, kerabat --> harta
+allah, kerabat, jalan, nafkah --> pahala
+allah, kerabat, jalan, pahala --> nafkah
+allah, kerabat, nafkah, pahala --> jalan
+kerabat, jalan, nafkah, pahala --> allah
+harta, kerabat, nafkah, pahala --> jalan
+harta, kerabat, jalan, pahala --> nafkah
+harta, nafkah, jalan, pahala --> kerabat
+kerabat, nafkah, jalan, pahala --> harta
+harta, allah, nafkah, terima --> pahala
+harta, allah, nafkah, pahala --> terima
+harta, allah, terima, pahala --> nafkah
+harta, nafkah, terima, pahala --> allah
+allah, nafkah, terima, pahala --> harta
+harta, allah, kerabat, jalan --> pahala
+harta, allah, kerabat, pahala --> jalan
+harta, allah, jalan, pahala --> kerabat
+harta, kerabat, jalan, pahala --> allah
+allah, kerabat, jalan, pahala --> harta
+harta, allah, nafkah, kerabat --> pahala
+harta, allah, nafkah, pahala --> kerabat
+harta, allah, kerabat, pahala --> nafkah
+harta, nafkah, kerabat, pahala --> allah
+allah, nafkah, kerabat, pahala --> harta
+harta, allah, kerabat, pahala --> nafkah
+harta, allah, kerabat, nafkah --> pahala
+harta, kerabat, pahala, nafkah --> allah
+allah, kerabat, pahala, nafkah --> harta
+harta, allah, kerabat, jalan --> nafkah
+harta, allah, kerabat, nafkah --> jalan
+harta, kerabat, jalan, nafkah --> allah
+allah, kerabat, jalan, nafkah --> harta
+harta, allah, terima, nafkah --> pahala
+harta, allah, terima, pahala --> nafkah
+harta, allah, nafkah, pahala --> terima
+harta, terima, nafkah, pahala --> allah
+harta, allah, terima, pahala --> nafkah
+harta, allah, terima, nafkah --> pahala
+harta, terima, pahala, nafkah --> allah
+harta, kerabat, jalan, pahala --> nafkah
+harta, kerabat, jalan, nafkah --> pahala
+harta, kerabat, pahala, nafkah --> jalan
+kerabat, jalan, pahala, nafkah --> harta
+harta, nafkah, jalan, kerabat --> pahala
+harta, nafkah, jalan, pahala --> kerabat
+harta, nafkah, kerabat, pahala --> jalan
+nafkah, jalan, kerabat, pahala --> harta
+harta, kerabat, jalan, nafkah --> pahala
+harta, kerabat, jalan, pahala --> nafkah
+harta, kerabat, nafkah, pahala --> jalan
+kerabat, jalan, nafkah, pahala --> harta
+harta, allah, nafkah, jalan --> pahala
+harta, allah, nafkah, pahala --> jalan
+harta, allah, jalan, pahala --> nafkah
+harta, nafkah, jalan, pahala --> allah
+allah, nafkah, jalan, pahala --> harta
